@@ -1,0 +1,29 @@
+family,region,name_en,birth_year,edu_path,studied_outside_home_country,postgraduate_degree,mba_or_emba_degree,mba_programme_enrolled,note
+贝当古家族,EU,Françoise Bettencourt Meyers,1953,W,0,0,0,0,one year of university mathematics; no degree
+费列罗家族,EU,Giovanni Ferrero,1964,C,1,0,0,0,Lebanon Valley College (US); degree inferred
+丰田家族,JP,Akio Toyoda,1956,C,1,1,1,1,Keio law 1979; Babson MBA 1982
+三星李氏,KR,Lee Kun-hee,1942,C,1,0,0,1,Waseda BA 1965; GWU MBA coursework without degree
+LG具氏,KR,Koo Bon-moo,1945,C,1,0,0,0,Yonsei; Ashland University (US) degree 1975
+SK崔氏,KR,Choi Tae-won,1960,C,1,1,0,0,Korea Univ physics; U Chicago economics MA/PhD
+新世界李氏,KR,Lee Myung-hee,1943,C,0,0,0,0,Ewha Womans University
+爱茉莉徐氏,KR,Suh Kyung-bae,1963,C,1,1,1,1,Yonsei BA; Cornell MBA
+LG具氏（年轻一代）,KR,Koo Kwang-mo,1978,C,1,1,1,1,RIT BA; Stanford GSB master's
+EU10,EU,Susanne Klatten,1962,C,1,1,1,1,University of Buckingham (UK); IMD MBA (CH)
+EU11,EU,Stefan Quandt,1966,C,0,0,0,0,KIT (Germany)
+EU14,EU,Miuccia Prada,1948,C,0,1,0,0,Milan political science; PhD 1978
+EU16,EU,Alain Wertheimer,1948,U,,,,,education not documented
+EU17,EU,Karl Albrecht Jr.,1948,C,0,1,0,0,law; Dr. iur. (place of study not documented)
+EU19,EU,Jörn Rausing,1960,U,,,,,education not documented
+EU20,EU,Eva Rausing,1952,U,,,,,education not documented
+杨氏家族,CN,Yang Huiyan,1981,C,1,1,1,1,Ohio State BA; Tsinghua EMBA 2019 (after inheritance)
+堤家族,JP,Yoshiaki Tsutsumi,1934,C,0,0,0,0,Waseda commerce BA
+佐治家族,JP,Nobutada Saji,1945,C,1,1,1,1,Keio economics; UCLA Anderson MBA 1971
+乐天辛氏(继承),KR,Shin Dong-bin,1955,C,1,1,1,1,raised in Japan (Aoyama Gakuin); Columbia MBA
+韩进赵氏,KR,Cho Yang-ho,1949,C,0,0,0,0,Inha University (per dataset)
+韩华金氏,KR,Kim Seung-youn,1952,C,0,0,0,0,Korea University (per dataset)
+锦湖朴氏,KR,Park Sam-koo,1937,C,0,0,0,0,Yonsei University
+LG具氏(二代),KR,Koo Cha-kyung,1925,H,0,0,0,0,Jinju Normal School (secondary level)
+现代郑氏(汽车),KR,Chung Mong-koo,1938,C,0,0,0,0,Hanyang University 1967
+韩进赵氏(女),KR,Cho Hyun-ah,1974,C,1,1,0,0,Cornell BA; USC master's
+现代郑氏(三代),KR,Chung Eui-sun,1970,C,0,0,0,0,Korea University (per dataset)
+三星李氏(三代),KR,Lee Jae-yong,1968,C,1,0,0,1,Seoul National Univ; Keio; Harvard Business School (completion unverified)

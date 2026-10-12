@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Era and family</title>
+<style>
+  :root {
+    --surface: #ffffff;
+    --ink: #0b0b0b;
+    --ink-2: #52514e;
+    --muted: #898781;
+    --grid: #e1e0d9;
+    --ring: #b5b3ab;
+    --accent: #eb6834;
+  }
+  html, body { margin: 0; padding: 0; background: var(--surface); }
+  body {
+    width: 700px; height: 545px; overflow: hidden;
+    font-family: "Segoe UI", system-ui, Arial, sans-serif;
+    color: var(--ink);
+  }
+  .wrap { padding: 28px 28px 0; }
+  h1 { font-size: 25px; font-weight: 650; margin: 0 0 6px; letter-spacing: -0.2px; }
+  .sub { font-size: 15.5px; color: var(--ink-2); margin: 0 0 16px; line-height: 1.4; }
+  .legend { display: flex; gap: 22px; font-size: 14px; color: var(--ink-2); margin-bottom: 18px; }
+  .legend span { display: inline-flex; align-items: center; gap: 7px; }
+  .group { border-top: 1px solid var(--grid); padding-top: 10px; margin-top: 4px; }
+  .group h2 { font-size: 13.5px; font-weight: 650; color: var(--ink-2); text-transform: uppercase;
+              letter-spacing: 0.6px; margin: 0 0 8px; }
+  .row { margin-bottom: 14px; }
+  .row-head { display: flex; justify-content: space-between; align-items: baseline; font-size: 16px; margin-bottom: 6px; }
+  .row-head .count { font-weight: 650; font-variant-numeric: tabular-nums; }
+  .row-head .count.zero { color: var(--ink-2); font-weight: 500; }
+  .dots { display: flex; flex-wrap: wrap; gap: 3px; }
+  .dot { width: 12px; height: 12px; border-radius: 50%; box-sizing: border-box; }
+  .dot.on { background: var(--accent); }
+  .dot.off { border: 1.6px solid var(--ring); }
+  .note { font-size: 12.5px; color: var(--muted); line-height: 1.45; margin-top: 6px; border-top: 1px solid var(--grid); padding-top: 10px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>History hit the families that couldn&rsquo;t absorb it</h1>
+  <p class="sub">Billionaires who left basic schooling early, by birth cohort and family background. Each dot is one billionaire.</p>
+  <div class="legend">
+    <span><i class="dot on"></i>Left basic schooling early</span>
+    <span><i class="dot off"></i>Completed basic schooling</span>
+  </div>
+  <div id="groups"></div>
+  <div class="note">
+    Excludes 19 billionaires whose family background could not be established, among them Markus Persson (born 1979),
+    the one post-1946 billionaire who left school early. Fisher&rsquo;s exact test, 8 of 12 vs. 0 of 22: p &lt; 0.001.<br>
+    Source: G3R5 dataset, 101 billionaire families in the US, Europe, China, Japan and South Korea.
+  </div>
+</div>
+<script>
+  const groups = [
+    { title: "Born 1946 or earlier", rows: [
+      { label: "Family had climbed or already held wealth", on: 0, n: 22 },
+      { label: "Family at the bottom, or had lost everything", on: 8, n: 12 } ] },
+    { title: "Born after 1946", rows: [
+      { label: "Family had climbed or already held wealth", on: 0, n: 41 },
+      { label: "Family at the bottom, or had lost everything", on: 0, n: 7 } ] }
+  ];
+  const host = document.getElementById("groups");
+  for (const g of groups) {
+    const box = document.createElement("div");
+    box.className = "group";
+    box.innerHTML = `<h2>${g.title}</h2>`;
+    for (const r of g.rows) {
+      const dots = Array.from({ length: r.n }, (_, i) => `<i class="dot ${i < r.on ? "on" : "off"}"></i>`).join("");
+      box.insertAdjacentHTML("beforeend",
+        `<div class="row"><div class="row-head"><span>${r.label}</span>` +
+        `<span class="count ${r.on ? "" : "zero"}">${r.on} of ${r.n}</span></div>` +
+        `<div class="dots">${dots}</div></div>`);
+    }
+    host.appendChild(box);
+  }
+</script>
+</body>
+</html>

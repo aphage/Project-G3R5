@@ -1,0 +1,441 @@
+% !TEX program = pdflatex
+% =====================================================================
+%  From Grandparents to Grandees: Three Generations, Five Regions,
+%  and the Making of the World's Billionaires
+%  Manuscript v1 (LaTeX) | Data v1.3 | 2026-09
+%  Target journals: Socio-Economic Review / European Sociological
+%  Review / Research in Social Stratification and Mobility
+% =====================================================================
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{times}          % Times-like body font (journal-friendly)
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue}
+
+\linespread{1.25}
+
+\title{\bfseries From Grandparents to Grandees: Three Generations, Five Regions, and the Family Origins of the World's Billionaires}
+\author{Ariia Xia\\[0.3em] {\small Independent researcher}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\noindent Does the ``self-made'' narrative obscure the family capital behind the world's billionaires, and how do family resources and historical shocks combine in their biographies? This study constructs a cross-national, three-generation life-course database of contemporary super-wealthy families: 101 billionaire families (707 individuals) spanning five regions---the United States, Europe, China, Japan, and South Korea---coded across seven roles (the billionaire, both parents, both paternal grandparents, and both maternal grandparents) and nine life dimensions. The analysis is exploratory and descriptive. Four patterns emerge. (1) Among the 82 sampled billionaires whose family origins can be classified, only 13.4\% started at the social bottom; most rose from families that already held intermediate capital (41.5\%) or continued existing family wealth (35.4\%). (2) Historical shocks interrupted schooling only where families lacked the resources to absorb them: among billionaires born by 1946, 8 of 12 from low-origin or ruined families left basic education, compared with 0 of 22 from ascending or established families (Fisher's exact $p<0.001$); after 1946, almost no billionaire did. (3) Inheritors are more likely than non-inheriting billionaires to complete higher education (92\% vs.\ 57\% of those with known education), but not more likely to enter it than founders from comfortable families (96\% vs.\ 89\%); the difference lies in completion. (4) Record visibility declines sharply across generation, lineage, and gender: maternal grandmothers are named in only 2 of 101 families, and within-generation gender gaps in name availability reach 17 percentage points. A cohort comparison finds more technical majors among billionaires born from 1970 onward (59\% vs.\ 37\%, $p=0.056$) but no sign that family origin matters less for them. We contribute an open seven-role database, an ``era shock $\times$ family buffer'' account of educational interruption, and a documented case for treating missingness as data.
+
+\medskip
+\noindent\textbf{Keywords:} billionaires; social mobility; intergenerational transmission; education; elite reproduction; missingness
+\end{abstract}
+
+% =====================================================================
+\section{Introduction}
+\label{sec:intro}
+
+Global super-wealthy individuals (Forbes-level billionaires) constitute fewer than one in a million people worldwide yet command a disproportionate share of economic resources. Existing research characterizes this group mostly by ``source of wealth'' (self-made versus inherited) \citep{kaplan2013,lillie2025,iza2026} or by cross-sectional attributes of a single generation \citep{lu2021,korom2017}, rarely examining the complete three-generation life-course---how the upbringing, education, occupation, industry, marriage, and wealth trajectories of the billionaire, their parents, grandparents, and maternal grandparents jointly shape the emergence of extreme wealth. This paper builds a three-generation life-course database covering 101 super-wealthy families across five regions (United States, Europe, China, Japan, South Korea), 707 family members, and 733 life-transition events, and uses it to examine five guiding expectations in an exploratory, descriptive design.
+
+Social-mobility research has repeatedly shown that family-background effects extend beyond one generation: the capital of grandparents---even maternal grandparents---transmitted through the middle generation exerts an independent influence on grandchildren's human capital and occupational standing \citep{anderson2018,hallsten2023}. Yet this ``three-generation effect'' literature relies almost entirely on population-register data (Sweden, Norway, the Netherlands, etc.), examining income quantiles of ordinary populations rather than the super-rich at the apex of the economic pyramid. Does top-wealth transmission follow the same intergenerational logic? We apply the three-generation life-course coding paradigm to a super-wealthy sample, addressing this gap.
+
+The central question of this paper: \emph{To what extent are billionaires' career paths determined by family channels (grandparental capital) versus era windows (educational-institutional change, industrial revolutions)?} We operationalize ``family channel'' through three concepts: (1) the wealth-occupation structure of the family origin (paternal ascent / continuity / reconstruction / low starting point / semi-continuity); (2) educational and occupational transmission from parents and grandparents; (3) the maternal line (maternal grandfather and grandmother)---a frequently overlooked source of capital. ``Era window'' is operationalized as: (1) whether educational attainment was affected by institutional rupture (war, revolution, household-registration systems, economic crisis); (2) the industrial cycle of the individual's formative period (e.g., the computer revolution, the internet boom).
+
+We examine five guiding expectations (Section~3): family origin (H1), educational interruption (H2), inheritors' education (H3), record visibility (H4), and cohort change (H5). Because these expectations took shape during data collection and coding, we treat the analysis as exploratory rather than as confirmatory hypothesis testing. Three results stand out. First, most billionaires rose from families that already held intermediate capital or continued existing wealth; genuinely low starting points are a minority. Second, \textbf{historical shocks interrupted basic schooling only where families could not absorb them}: in the cohorts born by 1946, educational interruption is concentrated entirely among low-origin and ruined families, and it all but disappears in later cohorts. Third, \textbf{record visibility declines sharply across generation, lineage, and gender} (maternal grandmothers are named in only 2.0\% of families). By contrast, two common narratives receive little support: inheritors are distinguished by completing rather than entering higher education, and we find no sign that family origin matters less for younger billionaires.
+
+This paper makes three contributions. First, it constructs the first ``seven-role, three-generation $\times$ nine-dimension $\times$ five-region'' cross-national life-course database of contemporary super-wealthy families [distinct from \citet{lillie2025}'s cross-sectional study and the \citet{familyweb2023} family-network study]. Second, it documents an ``era shock $\times$ family buffer'' pattern in educational interruption---a concrete, testable form of the interaction between family channels and era windows. Third, it makes a case for treating missingness as data: the distribution of data availability is itself informative about record-keeping structures, lineage, and gender inequality, provided that retrieval effort is held constant. The remainder of the paper proceeds as follows: Section~2 reviews the literature; Section~3 presents the analytical framework and guiding expectations; Section~4 describes data and coding; Section~5 reports findings; Sections~6 and~7 discuss and conclude.
+
+% =====================================================================
+\section{Literature Review and Theoretical Positioning}
+\label{sec:lit}
+
+\subsection{Three-Generation Effects in Social Mobility}
+
+The classic paradigm of social-stratification research focuses on father-son two-generation transmission, yet recent demographic and sociological literature reveals transmission effects extending across three generations or more. In a systematic review of 69 analyses, \citet{anderson2018} find that 58\% report associations between grandparents' socioeconomic characteristics and grandchildren's educational outcomes net of parents' characteristics; these associations are on average about a quarter as strong as parents', and appear strongest where parents' resources are low. Positive grandparent effects on educational attainment have been documented in East Asian settings such as Taiwan \citep{chiang2015}. \citet{hallsten2023}, linking historical parish records to modern population registers across seven generations in northern Sweden, find that past generations continue to shape education, occupation, and wealth many generations later, even though mobility between adjacent generations is high. \citet{toft2022} document ``dynastic cores'' within the top 1\% of financial wealth in Norway (see also \citet{chan2013} on grandparent effects in Britain). \textbf{Yet these studies almost all target income quantiles of ordinary populations or register data; they do not touch the extreme upper tail---the super-rich.} Our study moves the three-generation paradigm upward to the ultra-wealthy.
+
+\subsection{The Composition of the Super-Rich: Self-Made versus Inherited}
+
+Empirical research on billionaires has grown recently. \citet{lillie2025}, using the Forbes World's Billionaires lists for 2010--2023, examine Ivy League attendance among U.S. billionaires and show that education serves different functions by wealth origin and gender, reinforcing privilege particularly for male heirs. An IZA working paper \citep{iza2026} analyzes the top 100 self-made individuals on the US Forbes 400, emphasizing their ``built'' achievements. For China, \citet{lu2017} traces the origins of the first generation of the visibly richest private entrepreneurs and finds that more than half were born into lower-middle-class families, such as urban workers or peasants, with little support for a strong ``political capitalism'' account. Using the Hurun rich lists for 2000--2018, \citet{lu2021} map the social space of China's super-rich and show that it is structured mainly by political and cultural capital. \textbf{These studies are mostly single-generation cross-sections or two-generation (parent-child) analyses, lacking complete three-generation coding (including the maternal line) of ``billionaire--parents--grandparents--maternal grandparents.''} Our seven-role structure forms a direct point of distinction.
+
+\subsection{Education, Family Capital, and Elite Reproduction}
+
+The educational-sociology tradition (Bourdieu's cultural capital; Collins's credentialism) emphasizes education as a mechanism of class reproduction \citep{bourdieu1986,collins1979}. Among the ultra-wealthy, education's function is twofold: it is both human-capital investment (a genuine path to capability) and a \textbf{symbol of status legitimation} (converting inherited wealth into ``deserved'' elite identity). \citet{sato2024} demonstrates a cross-generation negative effect of paternal job loss on children's educational attainment in Japan, showing that family rupture's impact on education is visible across generations. \citet{kim2025} reveals the institutional background of inheritance reform and gendered intergenerational transfer in South Korea. We ask whether inheritors' education in an ultra-wealthy sample looks distinctive enough to suggest a \textbf{legitimation} function, or whether it simply reflects the class reproduction that characterizes affluent families in general.
+
+\subsection{Our Position: Three Contributions}
+
+Relative to existing work, this study contributes in three ways: \textbf{(1) Structure}---the first ``seven-role three-generation structure (billionaire + parents + grandparents + maternal grandparents) $\times$ nine dimensions $\times$ five-region cross-national'' life-course database of contemporary super-wealthy families (the ``family web'' study \citep{familyweb2023} reconstructs the full kinship network of Dallas high society, 1895--1945, finding that nearly 70\% of it was related in a single web, but is confined to a single US city and historical period and does not involve contemporary billionaires; \citet{lillie2025} study billionaires cross-sectionally); \textbf{(2) Pattern}---we document an ``era shock $\times$ family buffer'' interaction in educational interruption (H2) and examine how inheritors' education differs from founders' (H3); \textbf{(3) Method}---we make a case for ``missingness as data,'' using the distribution of data availability to describe record-keeping structures, lineage, and gender inequality (H4).
+
+% =====================================================================
+\section{Analytical Framework and Guiding Expectations}
+\label{sec:theory}
+
+\subsection{Core Framework: Family Channel and Era Window}
+
+This study organizes its five guiding expectations within a two-dimensional framework of ``\textbf{family channel $\times$ era window}'':
+
+\begin{itemize}
+\item \textbf{Family channel}: the pathway through which grandparental capital (wealth, occupation, education, social networks) is transmitted via the parental generation to the billionaire generation, including both paternal and maternal lines. Operationalized through three concepts: family-origin structure (H1); parental/grandparental educational and occupational transmission (part of H2); legitimacy of inheritance (H3).
+\item \textbf{Era window}: the institutional and industrial cycle in which an individual comes of age, including educational-institutional change (war, revolution, household registration, crisis) and industrial revolution (computers, internet). Operationalized as: whether educational attainment was affected by institutional rupture (H2); the industrial cycle of the formative period (H5).
+\end{itemize}
+
+\textbf{Core proposition}: Family channel and era window interact rather than compete. The family determines \emph{buffering capacity and channels} (whether shocks and failures can be absorbed, whether mentor networks are accessible), while the era determines \emph{shocks and opportunity density} (whether war or upheaval threatens schooling, whether an exploitable industrial dividend exists). The interaction implies a testable pattern: an era-level shock should translate into lasting disadvantage, such as interrupted schooling, mainly where the family lacks the resources to buffer it. Education lies at this intersection, as both an outcome of family investment and a product of era institutions.
+
+\subsection{Five Guiding Expectations}
+
+The expectations below were formulated iteratively while the database was being built and coded. We therefore use them to organize an exploratory analysis, not as pre-registered hypotheses, and report patterns that contradict them alongside those that agree with them.
+
+\begin{itemize}
+\item \textbf{H1 (family origin)}: Most billionaires rose from families that already held intermediate capital (``paternal ascent'') or continued existing family wealth, rather than from the social bottom.
+\item \textbf{H2 (era shock $\times$ family buffer)}: Interrupted basic schooling arises mainly where an era-level shock (war, colonial rule, revolution, postwar upheaval) meets a family that lacks the resources to buffer it; it should be rare among children of ascending or established families in the same era, and rare in cohorts born after such shocks.
+\item \textbf{H3 (inheritors' education)}: Inheritors are more likely than self-made billionaires to complete higher education, including overseas and business credentials. Such a pattern would be consistent with education serving to legitimate inherited status, but would not by itself distinguish legitimation from ordinary class reproduction.
+\item \textbf{H4 (record visibility)}: Individuals' visibility in publicly searchable sources declines with generational distance, along the maternal line, and for women; the structure of missingness is itself informative.
+\item \textbf{H5 (cohort change)}: Billionaires born from 1970 onward are more concentrated in technical fields. We also ask whether family origin matters less for them, as the ``computer revolution'' narrative implies.
+\end{itemize}
+
+% =====================================================================
+\section{Data, Coding, and Methods}
+\label{sec:data}
+
+\subsection{Sample}
+
+The sample consists of \textbf{101 super-wealthy families} identified from Forbes billionaire lists, stratified by region: 21 US, 20 European, 20 Chinese, 20 Japanese, and 20 South Korean families (East Asia totals 60, constituting a five-region contrast with Europe and North America). The sampling frame includes both current and historical list members, so that founders who have since died (e.g., Matsushita Konosuke, Honda Soichiro, Chung Ju-yung, Steve Jobs, Ingvar Kamprad) can anchor their families. Within each region, families were selected \textbf{purposively for diversity} rather than at random or by wealth rank: the selection deliberately covers self-made and inheriting billionaires, a range of industries, and a range of birth cohorts. The sample is therefore suited to comparing types of billionaires, but the shares of each type in it do not estimate their shares in the billionaire population. Each family is coded across \textbf{7 persons}: the billionaire (P1), father (P2), mother (P3), paternal grandfather (P4), paternal grandmother (P5), maternal grandfather (P6), and maternal grandmother (P7)---that is, \textbf{complete paternal and maternal three-generation coverage}. Where a member's information is entirely unavailable, the row is retained and coded as ``missing'' (see Section~\ref{sec:reliability}). The full sample comprises \textbf{707 individuals}. The billionaire generation spans births from the late nineteenth century through the 1980s and includes both self-made and inheriting billionaires (28 inheritors). The study follows a ``1 family = 1 billionaire'' structure: each sample unit is anchored by one Forbes-level billionaire around whom the three-generation kinship network is coded.
+
+\subsection{Coding Scheme (7 Persons and 9 Dimensions)}
+
+Each member is coded along \textbf{9 dimensions} (CODING\_SPEC v1.3):
+
+\begin{table}[htbp]
+\centering
+\caption{The nine coded life dimensions.}
+\label{tab:dims}
+\small
+\begin{tabular}{@{}lp{11cm}@{}}
+\toprule
+Dimension & Content \\
+\midrule
+D1 Birth environment & Birth year, birthplace (city-level, urban/rural), family economic status at birth, historical context \\
+D2 Basic education & Primary/junior/senior school, school name, type, years attended \\
+D3 Higher education & University, major, degree, years, completion status \\
+D4 Family structure & Parental marriage, birth order, primary caregiver, major family events \\
+D5 Marital status & Number of marriages, spouse background, marriage/divorce years \\
+D6 Occupational trajectory & Position-institution-year sequence \\
+D7 Industry & Industry(s) of employment and changes (with years) \\
+D8 Wealth trajectory & Stage-wise estimates (year, amount, basis) \\
+D9 Major life events & Migration / war / financial crisis / bereavement / mentor / turning points \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+In addition, every data cell carries a \textbf{reliability tag} (verified / single-source / inferred / missing) and a source URL; life-\textbf{transition events} (733) are separately recorded with year, old value, new value, reason, and reason grade (A personal account / B authoritative record / C researcher inference / D unverifiable).
+
+\subsection{Reliability and Source Grading}
+\label{sec:reliability}
+
+Across the 6{,}363 data cells in the full sample, the reliability distribution is shown in Table~\ref{tab:reliability}. \textbf{We deliberately retain ``missing'' as data rather than deleting it}: the distribution of missingness itself reflects a society's ``record visibility'' structure (see Section~5.4).
+
+\begin{table}[htbp]
+\centering
+\caption{Reliability tags by kin role (number of cells; row percentage in parentheses).}
+\label{tab:reliability}
+\small
+\begin{tabular}{lrrrrr}
+\toprule
+Role & Verified & Single-source & Inferred & Missing & Total \\
+\midrule
+Billionaire (P1)   & 683 (75.1\%) & 141 (15.5\%) &  53 (5.8\%) &  32 (3.5\%) & 909 \\
+Father (P2)        & 316 (34.8\%) & 245 (27.0\%) & 128 (14.1\%) & 220 (24.2\%) & 909 \\
+Mother (P3)        & 149 (16.4\%) & 236 (26.0\%) & 183 (20.1\%) & 341 (37.5\%) & 909 \\
+Grandfather (P4)   & 106 (11.7\%) &  88 (9.7\%)  &  99 (10.9\%) & 616 (67.8\%) & 909 \\
+Grandmother (P5)   &  30 (3.3\%)  &  34 (3.7\%)  &  85 (9.4\%)  & 760 (83.6\%) & 909 \\
+M. grandfather (P6) & 17 (1.9\%)  &  44 (4.8\%)  &  85 (9.4\%)  & 763 (83.9\%) & 909 \\
+M. grandmother (P7) &  0 (0.0\%)  &  31 (3.4\%)  &  74 (8.1\%)  & 804 (88.5\%) & 909 \\
+\midrule
+Total             & 1{,}301 (20.4\%) & 819 (12.9\%) & 707 (11.1\%) & 3{,}536 (55.6\%) & 6{,}363 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Intercoder reliability}: For the educational-path classification (higher education completed / higher education voluntary dropout / educational deprivation / high-school completion with university declined / missing), first-pass codes were generated with an AI tool and reviewed by the author (Section~\ref{sec:ai}). The author then recoded a 25\% random subsample ($n=25$, seed 20260903) using only the raw D2/D3 texts, without access to the first-pass codes. Agreement was 84.0\% (21/25), Cohen's Kappa = \textbf{0.628} (substantial agreement, \citealp{landis1977}). \textbf{The two passes are not fully independent}: the author reviewed the first pass and produced the second, so this figure should be read as a consistency check between AI-assisted coding and the author's own coding rather than as independent intercoder reliability; recoding by an external human coder is planned. Four disagreements were adjudicated case by case: one (a L'Or\'eal third-generation heiress) was re-coded from ``missing'' to ``voluntary higher-education dropout'' after third-party source verification; one (an Amorepacific heir) was verified as a Yonsei University B.A. plus Cornell MBA (re-coded from ``missing'' to ``completed''); the remaining two were definitional boundary cases explicitly flagged in the coding scheme (Persson's non-completion of upper-secondary school, coded as minimal education; a Korean heir's normal-school training, coded as secondary level). A rule-based coder achieved Kappa = 0.478, indicating that human judgment substantially outperforms pure rules.
+
+\subsection{Analytical Strategy}
+\label{sec:strategy}
+
+\begin{itemize}
+\item \textbf{Descriptive statistics}: distribution of each expectation's core categories with regional decomposition (including cross-region contingency tables). Shares are reported both over all 101 cases and over cases with known values where the ``unknown'' category is large.
+\item \textbf{Comparisons}: given the small sample, we use category counts and $2\times2$ comparisons with two-sided Fisher's exact tests rather than regression models. With $n=101$ and a post hoc framework, $p$-values are descriptive guides to the strength of a contrast, not confirmatory tests.
+\item \textbf{Retrieval protocol}: information on every role was retrieved mainly through general web search engines, with AI-assisted search and summarization (Section~\ref{sec:ai}). A cell was coded ``missing'' when no qualifying source could be found; no fixed time budget or formal stopping rule was set. ``Missing'' therefore means \emph{not found in publicly searchable sources}, and H4 measures visibility in those sources rather than in archives generally. Sources that were found are ranked by the source hierarchy of the coding scheme (CODING\_SPEC v1.3) (genealogical and archival records; academic work; authoritative biographies; Wikipedia in the relevant languages; long-form reporting; social media as leads only). It also requires that family-background claims found only in Chinese-language self-media be corroborated by an independent non-Chinese source before coding, a safeguard against widely circulated rumours that also raises recorded missingness for Chinese families.
+\item \textbf{Missing-data handling}: low-information families (8, fill rates 10--33\%, concentrated in European/Japanese privacy cultures and recent East Asian self-made cases) are retained in the open data and included in all analyses.
+\end{itemize}
+
+\subsection{Use of AI Tools}
+\label{sec:ai}
+
+Generative AI tools were used at four stages of this project: (1) retrieving and summarizing public biographical information, including the DataPro tool used for source verification; (2) first-pass coding of biographical texts into the nine dimensions and the educational-path classification, with all codes reviewed by the author; (3) drafting, editing, and translating the manuscript; and (4) writing analysis code. Claude (Anthropic) was used to review the manuscript, verify references against published sources, and revise the text and analysis code. The author reviewed AI outputs against the cited sources and takes full responsibility for the data and the content of this article. Because AI-assisted retrieval and coding can omit or misread sources, every coded cell carries a source URL and reliability tag so that it can be checked independently.
+
+\subsection{Limitations}
+\label{sec:limits}
+
+\begin{enumerate}
+\item \textbf{Purposive sample}: families were selected for diversity of type, industry, and cohort, not at random. Category shares (e.g., the H1 distribution or the number of inheritors) describe this sample and should not be generalized to all billionaires; within-sample contrasts (e.g., Table~\ref{tab:h2x}) are less affected but still conditional on the selection.
+\item \textbf{Record-availability bias}: materials on grandparents---especially maternal grandmothers---are systematically missing (named in only 2 of 101 families); the sample is structurally biased toward the ``recorded.'' Because retrieval relied on web search engines without a formal stopping rule, missingness reflects online searchability as well as historical record-keeping. This limits causal inference about low-origin grandparents.
+\item \textbf{AI-assisted retrieval and coding}: first-pass retrieval and coding were AI-assisted (Section~\ref{sec:ai}). Errors of omission are especially relevant for H4, since a source the search did not surface is recorded as missing.
+\item \textbf{Sample size}: the 101 families are a stratified sample; category cell counts are limited (e.g., only 9 minimally educated billionaires), limiting statistical power; conclusions are primarily pattern-descriptive.
+\item \textbf{Wealth estimation}: D8 wealth trajectories are stage-wise estimates with varying currencies and bases; cross-era and cross-country comparisons require caution.
+\item \textbf{Autobiographical bias}: the billionaire generation's education/occupation information often comes from autobiographies and interviews (grade A reasons), entailing selective narration; we correct via cross-referencing sources.
+\item \textbf{Causal identification}: this is a descriptive life-course study and does not claim to identify net causal effects; ``family channel'' and ``era window'' are interpretive frameworks, not counterfactual estimates.
+\item \textbf{No non-billionaire comparison group}: the sample contains only billionaires, so it can describe what billionaires' family backgrounds look like but cannot show which factors \emph{produce} a billionaire. Comparisons with population base rates (e.g., educational attainment by birth cohort and country) are left for future work.
+\item \textbf{Exploratory framing}: the guiding expectations were developed iteratively with the data. Results should be read as patterns to be tested in independent samples.
+\item \textbf{Overlapping categories}: ``reconstruction'' and ``low starting point'' are defined by family hardship, which also enters our notion of rupture. The H2 association between these categories and interrupted schooling is therefore partly built in; its more informative part is the absence of interruption among ascending and established families in the same era (Section~5.2).
+\end{enumerate}
+
+% =====================================================================
+\section{Findings}
+\label{sec:findings}
+
+\subsection{Family Pathways: Grandparental Capital and ``Rupture-Reconstruction'' (H1)}
+
+\textbf{Classification.} Based on family origin and paternal trajectory, we classify the 101 billionaires into six categories: \textbf{paternal ascent} (34, 33.7\%), \textbf{continuity} (29, 28.7\%), \textbf{unknown/insufficient data} (19, 18.8\%), \textbf{low starting point} (11, 10.9\%), \textbf{reconstruction} (6, 5.9\%), and \textbf{semi-continuity} (2, 2.0\%) (Table~\ref{tab:h1}). ``Paternal ascent'' denotes that the billionaire achieved the wealth leap while the father's generation had already accumulated significant local capital or status (e.g., Buffett's father was a stockbroker and congressman). ``Continuity'' denotes wealth transmitted primarily through family generations (European old money, East Asian chaebols). ``Reconstruction'' denotes families that once held capital but experienced rupture, with the billionaire rebuilding it (Cao Dewang, Zong Qinghou, Matsushita Konosuke, Inamori Kazuo, Bezos, Musk). ``Low starting point'' is strictly defined as the family being at the social bottom at birth (Jobs, Ortega, Lu Guanqiu, Honda Soichiro, Nagamori Shigenobu, etc.).
+
+\begin{table}[htbp]
+\centering
+\caption{H1: classification of family-origin pathways ($n=101$).}
+\label{tab:h1}
+\small
+\begin{tabular}{lrr}
+\toprule
+Category & $n$ & \% \\
+\midrule
+Paternal ascent (father's generation already holds intermediate capital) & 34 & 33.7 \\
+Continuity (wealth transmitted across generations) & 29 & 28.7 \\
+Unknown / insufficient data & 19 & 18.8 \\
+Low starting point (family at the social bottom at birth) & 11 & 10.9 \\
+Reconstruction (family capital ruptured, rebuilt by the billionaire) & 6 & 5.9 \\
+Semi-continuity & 2 & 2.0 \\
+\midrule
+Total & 101 & 100.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Core finding: The ascent of billionaires is neither the ``pure self-made'' narrative nor the ``pure inheritance'' narrative.} Because 19 families cannot be classified, we also report shares among the 82 with known origins: paternal ascent 41.5\%, continuity 35.4\%, low starting point 13.4\%, reconstruction 7.3\%, and semi-continuity 2.4\%. Note that ``paternal ascent'' includes 6 second-generation heirs whose fathers founded the family business. Restricting attention to the 55 non-inheritors with known origins---the group to which the ``self-made'' label is usually applied---28 (50.9\%) rose on a father's intermediate capital and 9 (16.4\%) came from continuing family wealth, while 11 (20.0\%) started at the social bottom. Even among founders, then, a genuinely low starting point is the exception. This is consistent with the declining but still substantial role of family wealth documented for the Forbes 400 \citep{kaplan2013,korom2017}.
+
+\textbf{Regional variation.} Continuity is highest in Europe (10/20) and South Korea (9/20), reflecting old-money and chaebol traditions; paternal ascent is highest in the US (11/21) and China (7/20); low starting points are scattered across regions (China 3, Japan 3, US 3, Europe 2, South Korea 0). The ``rupture-reconstruction'' path is especially typical among East Asian self-made billionaires: Cao Dewang (family cargo ship sank), Zong Qinghou (father's official family fell), and Inamori Kazuo (father's paper workshop declined) all belong to ``traces of grandparental capital rebuilt by the individual.''
+
+\subsection{Era Shocks and Family Buffers in Education (H2)}
+
+\textbf{Education is where family channel and era window meet most visibly.} We classify billionaire educational paths into four categories: \textbf{higher education completed} (61, 60.4\%), \textbf{voluntary dropout from higher education} (15, 14.9\%), \textbf{educational deprivation (interrupted basic schooling)} (9, 8.9\%), \textbf{high school completed with university declined} (7, 6.9\%), and \textbf{missing} (9, 8.9\%).
+
+\textbf{Key operational definition}: minimal education is strictly defined as highest attainment stopping at the basic-education stage (primary-school graduation, secondary-school dropout); \textbf{lacking a degree is not equivalent to minimal education}---those who entered university (whether or not they graduated) and those who completed high school are not counted as minimally educated. Accordingly, Gates, Zuckerberg, Ellison, and other ``university-dropout entrepreneurs'' are classified as ``voluntary dropout from higher education,'' not minimally educated---their dropout presupposes enrollment (often at elite institutions) and is a \textbf{voluntary choice}, fundamentally different from the \textbf{passive deprivation} of minimal education.
+
+\textbf{Core finding 1: Eight of the nine minimally educated billionaires lie in era-level rupture windows.} Eight minimally educated billionaires---Ortega (1936, around the Spanish Civil War), Matsushita Konosuke (1894, late-Meiji rural bankruptcy), Chung Ju-yung (1915, impoverished mountain village under Japanese colonial rule), Cao Dewang (1946, civil war---family decline), Zong Qinghou (1945, official-family decline), He Xiangjian (1942, war---poverty), Lu Guanqiu (1945, postwar rural poverty), and Honda Soichiro (1906, late-Meiji blacksmith family)---were born between 1894 and 1946 into periods of war, colonial rule, revolution, or postwar upheaval in their countries, compounded in several cases by family bankruptcy or extreme poverty. For them, primary/secondary-school dropout is best read as an outcome of era and social structure rather than individual choice. \textbf{The ninth case is an explicit exception.} Persson (born 1979) grew up in a stable Swedish welfare state; he did not complete upper-secondary school, against a background of family-level hardship (a single-parent household under financial strain) rather than any era-level rupture, and turned early to programming---so his trajectory contains an element of choice. We therefore treat him as a boundary case: apart from him, we find no billionaire who left basic education during a socially stable period.
+
+\textbf{Core finding 2: Era shocks interrupted schooling only where families could not buffer them.} An era-level shock is not sufficient on its own. Of the 36 billionaires born by 1946, 17 completed higher education, many of them in the same war-torn or postwar societies as the eight above. Table~\ref{tab:h2x} cross-classifies birth cohort, family origin (the H1 categories of Section~5.1), and interrupted basic schooling.
+
+\begin{table}[htbp]
+\centering
+\caption{Interrupted basic schooling by birth cohort and family origin ($n=101$).}
+\label{tab:h2x}
+\small
+\begin{tabular}{llrrr}
+\toprule
+Birth cohort & Family origin (H1) & $n$ & Interrupted & \% \\
+\midrule
+Born $\leq$1946 & Paternal ascent / continuity & 22 & 0 & 0.0 \\
+                & Low start / reconstruction / semi-continuity & 12 & 8 & 66.7 \\
+                & Unknown & 2 & 0 & 0.0 \\
+\midrule
+Born $>$1946    & Paternal ascent / continuity & 41 & 0 & 0.0 \\
+                & Low start / reconstruction / semi-continuity & 7 & 0 & 0.0 \\
+                & Unknown & 17 & 1 & 5.9 \\
+\bottomrule
+\end{tabular}
+
+\smallskip
+\parbox{0.92\linewidth}{\footnotesize\emph{Note}: ``Interrupted'' = highest attainment at the basic-education stage (Section~5.2). The single post-1946 case is Persson. Two-sided Fisher's exact tests: family contrast within the $\leq$1946 cohort, 8/12 vs.\ 0/22, $p<0.001$; cohort contrast within low-origin families, 8/12 vs.\ 0/7, $p=0.013$. Four billionaires with blank birth-year fields were assigned to cohorts using public records.}
+\end{table}
+
+The table shows both halves of the interaction. \emph{Within the same era}, family origin separates the outcomes completely: no child of an ascending or established family born by 1946 left basic education, whereas two-thirds of those from low-origin or ruined families did. \emph{Within the same kind of family}, era matters too: none of the seven low-origin billionaires born after 1946 had their schooling interrupted. Interrupted schooling thus appears where an era-level shock meets a family without the resources to absorb it. As noted in Section~\ref{sec:limits}, ``reconstruction'' and ``low starting point'' are partly defined by family hardship, so the second row is to some degree built into the categories; the zero in the first row and the cohort contrast are the more informative results. Because family hardship can occur in any era, as Persson's case shows, future work should code era-level and family-level rupture separately.
+
+\textbf{Core finding 3: Voluntary dropout is highly concentrated by region and industry.} Of the 15 ``voluntary higher-education dropouts,'' 10 made their fortunes in technology/internet industries (Gates, Ellison, Zuckerberg, Moskovitz, Koum, Kalanick, Jobs, Ek, Horie, Pousaz), 7 of them in the US; the remaining five are in casinos, media, fashion, cosmetics, and staffing---\textbf{voluntary dropout is tightly coupled with the ``window'' of the US computer revolution}: when the returns to technological revolution are high enough, the expected return on a university degree is overtaken by ``time-point opportunity cost.'' This is the other side of the ``education--era'' relationship: education is a threshold, and its ``abandonment'' is also a function of era dividends.
+
+\textbf{Core finding 4: Completed higher education is the majority (60.4\%).} Across the five regions, South Korea has the highest completion rate (16/20), China second (14/20), reflecting East Asia's highly institutionalized investment in education; the US has the most voluntary dropouts (9/21), and Europe the most ``missing'' (6/20, privacy culture). The normality of educational completion is consistent with existing findings that ``billionaires' educational attainment is generally high'' \citep{lillie2025,wai2013}.
+
+\subsection{Inheritors' Education: Completion, Not Access (H3)}
+
+The sample contains \textbf{28 inheriting billionaires}, defined as those whose wealth came from taking over a family business rather than founding one: 15 South Korean, 9 European, 3 Japanese, and 1 Chinese, with no US inheritors. Each inheritor's education was coded by hand.\footnote{Open data file \texttt{h3\_inheritors\_recode\_v14.csv}.} Twenty-three (82\%) completed higher education, 1 entered university without completing it, 1 completed secondary-level normal school, none had interrupted basic schooling, and 3 have no documented education (Wertheimer and the two Rausings). Among the 25 with known education, 23 (92\%) completed a degree. Eleven (39\%) hold a postgraduate degree, 7 (25\%) of them an MBA or EMBA; 13 (46\%) studied outside the country in which they grew up.
+
+\textbf{Core finding: Inheritors differ from founders in completing higher education, not in entering it.} Among billionaires with known education, inheritors completed a degree far more often than non-inheritors (92\% vs.\ 57\%; Fisher's exact $p=0.001$). The more telling comparison, however, is with founders from comfortable families (non-inheriting ``paternal ascent'' cases), whose class background resembles the inheritors'. These founders \emph{entered} higher education at almost the same rate as inheritors (89\% vs.\ 96\%, $p=0.61$) but \emph{completed} it far less often (59\% vs.\ 92\%, $p=0.010$): eight of them left university voluntarily. Access to higher education is thus shared across affluent backgrounds; what distinguishes heirs is finishing it, typically followed by business or overseas credentials (e.g., chaebol heirs Lee Jae-yong, Koo Kwang-mo, and Shin Dong-bin).
+
+\textbf{Interpretation.} This pattern is consistent with education serving to legitimate inherited status, converting ``inherited wealth'' into ``deserved'' elite standing in a Weberian sense. It is equally consistent with two more mundane accounts: ordinary class reproduction, and the different opportunity costs facing a successor whose position is secure and a founder for whom a degree competes with a time-sensitive opportunity. The data cannot separate these accounts. Region is also a confounder: inheritors are concentrated in South Korea, where degree completion is high among billionaires generally. Establishing a legitimation \emph{function} would require evidence about timing (e.g., credentials acquired just before succession) and about how families present these credentials publicly.
+
+\textbf{Pre-inheritance trajectories.} Pre-succession trajectories were coded in detail for the nine inheritors in the first wave of data collection (before the sample was expanded to 28), so this description is illustrative rather than representative. Chaebol heirs commonly undergo 8--12 years of intra-group rotation (Koo Kwang-mo: LG Electronics $\rightarrow$ Stanford MBA $\rightarrow$ Silicon Valley start-up employee $\rightarrow$ LG US subsidiary $\rightarrow$ group strategy $\rightarrow$ chairmanship, a 12-year path). None of the nine switched industries, and only two had external apprenticeships (Koo Kwang-mo's year in Silicon Valley; Toyoda Akio's overseas study and MBA). Inheritors' paths thus run through ``education + internal apprenticeship'' rather than ``cross-industry risk-taking''---a contrast to the founders' paths.
+
+\subsection{Record Visibility: Missingness Itself Is Data (H4)}
+
+\textbf{Core finding: Individuals' ``visibility'' in publicly searchable sources declines systematically across generation, lineage, and gender.} We use two measures. \emph{Name availability} is the share of persons in a role for whom a specific personal name is recorded; placeholder entries (e.g., ``name not documented'') count as missing. \emph{Field coverage} is the share of the nine coded dimensions not tagged ``missing'' (Table~\ref{tab:reliability}).
+
+\begin{itemize}
+\item \textbf{Intergenerational decline} (name availability): billionaire 100\% $\rightarrow$ father 69.3\% $\rightarrow$ mother 52.5\% $\rightarrow$ paternal grandfather 27.7\% $\rightarrow$ paternal grandmother 10.9\% $\rightarrow$ maternal grandfather 8.9\% $\rightarrow$ maternal grandmother 2.0\% (2 of 101).
+\item \textbf{Lineage gap}: the maternal line is far less visible than the paternal line---paternal versus maternal grandfathers are named in 27.7\% versus 8.9\% of families (field coverage 32.2\% versus 16.1\%).
+\item \textbf{Gender gap}: within each generation, women are less visible than men. Name availability gaps are 16.8~pp for parents (69.3\% vs.\ 52.5\%), 16.8~pp for paternal grandparents (27.7\% vs.\ 10.9\%), and 6.9~pp for maternal grandparents (8.9\% vs.\ 2.0\%); field-coverage gaps are 13.3, 15.8, and 4.5~pp. Pooling all non-billionaire roles, men are named in 35.3\% of cases and women in 21.8\% (13.5~pp). The gap does \emph{not} widen monotonically with generational distance: on the maternal side, grandfathers and grandmothers are both almost entirely undocumented, so lineage matters at least as much as gender. (Comparisons exclude the billionaire generation, which is predominantly male and fully documented by construction.)
+\item \textbf{Regional variation}: South Korean chaebol families document grandparents best (paternal grandfather named in 9/20 families, paternal grandmother in 7/20); no maternal grandmother is named in any Chinese, Japanese, or Korean family, and Japanese maternal grandmothers have the lowest field coverage (2.8\%), possibly reflecting both the Family Registration Law's restrictions on third-party access and maternal-line marginalization.
+\end{itemize}
+
+\textbf{The theoretical significance of ``missingness as data.''} Under a common retrieval protocol, missingness is not merely a failure of data collection but a \textbf{mapping of record-keeping structures}: who is written into public records, and from there into searchable sources, depends on their role in the public sphere, their lineage, and their gender. The grandmother generation lacks not only names but nearly all of education, occupation, and wealth---quantitative evidence of systematic ``female historical invisibility.''
+
+\textbf{An important caveat.} Missingness also reflects retrieval. Information was gathered mainly through web search engines, and a cell was coded missing when nothing was found, so missingness partly measures online searchability. In the reliability check (Section~\ref{sec:reliability}), two cases first coded as ``missing'' were later documented, and the corroboration rule for Chinese-language sources (Section~\ref{sec:strategy}) mechanically raises missingness for Chinese families (only 3 of 80 Chinese grandparents are named). Differences across roles \emph{within} a family should be less exposed to this problem than differences across regions, to the extent that the same sources were searched for every role in a family; we therefore place more weight on the generation, lineage, and gender gradients than on regional contrasts.
+
+\subsection{Cohort Change: Young versus Old Cohorts (H5)}
+
+Splitting the sample by birth year into a young cohort ($\geq$1970, $n=34$) and an old cohort ($<$1970, $n=67$), we examine both fields of study and family origin.
+
+\textbf{Finding 1: Younger billionaires are more concentrated in technical fields.} In the young cohort, 59\% (20/34) chose computer/engineering/physics majors versus 37\% (25/67) in the old cohort, a difference of 22 percentage points (Fisher's exact $p=0.056$). The concentration (Zhang Yiming, Huang Zheng, Wang Xing, Zuckerberg, Page, Cheng Wei, etc.) corresponds to the computer boom and internet takeoff of the late 1990s and early 2000s. Because the list is selected on wealth, this mainly shows \emph{where} recent fortunes were made; it does not show that technical study raises anyone's chances of becoming a billionaire.
+
+\textbf{Finding 2: There is no sign that family origin matters less for younger billionaires.} If the computer revolution had lowered entry barriers, low starting points should be more common in the young cohort. The opposite holds: among cases with known origins, 1 of 23 young-cohort billionaires (4\%) started at the social bottom, against 10 of 59 (17\%) in the old cohort ($p=0.17$); 16 of the 23 rose on a father's intermediate capital. The difference is not statistically reliable, and family origin is unknown for 11 of the 34 young-cohort cases, but the direction contradicts the ``declining family weight'' narrative. Individual cases show the same thing: Wang Xing (wealthy merchant family, able to absorb repeated start-up failures), Zhang Yiming (wage-earning family, linear path), and Huang Zheng (working-class family, top-student ascent plus the mentor Duan Yongping compensating for family resources). In each, the family supplies ``tolerance and channels'' and the era supplies ``opportunity density.''
+
+\textbf{Regional availability differences are themselves a finding.} Young-cohort self-made tech billionaires are scarce in Europe (inheritance-dominated wealth) and South Korea (slow chaebol succession)---\textbf{the national distribution of young-cohort billionaires itself reflects each country's entrepreneurial ecosystem and intergenerational structure.}
+
+% =====================================================================
+\section{Discussion}
+\label{sec:discussion}
+
+\subsection{The Making of Billionaires Is Neither the ``Self-Made'' Myth Nor the ``Inheritance'' Fate}
+
+Our data present a more complex picture than either popular narrative. Among the 82 billionaires with known origins, ``paternal ascent'' (41.5\%) and ``continuity'' (35.4\%) together account for over three-quarters, while genuinely low starting points account for 13.4\%; even among non-inheritors with known origins, only one in five started at the social bottom.
+\textbf{For most billionaires in our sample, ``self-made'' wealth is better described as ``ascent atop existing capital'' than as a ``start from zero.''} This suggests that billionaire research and popular accounts, by focusing on self-made legends, may overstate the weight of individual striving and understate the role of family channels. Two qualifications apply. Because families were selected for diversity rather than at random, these shares describe the sample, not the billionaire population. And because the sample contains no non-billionaires, they do not estimate how much family origin raises the odds of becoming one.
+
+\subsection{Education: Where Era Shocks Meet Family Buffers}
+
+The educational findings are the strongest part of this paper, and they make the family-channel $\times$ era-window framework concrete. \textbf{An era-level shock alone did not interrupt schooling; a shock meeting a family without resources did.} In the cohorts born by 1946, war, colonial rule, and postwar upheaval affected everyone, yet none of the 22 billionaires from ascending or established families left basic education, while 8 of 12 from low-origin or ruined families did. Among low-origin families, the same interruption did not occur once those shocks had passed. Persson, the one post-1946 case, shows that family hardship can produce the same outcome in a stable era. This refines the claim that minimal education among billionaires is ``era-dependent'': it is era-dependent \emph{for families that cannot buffer the era}. In the language of our framework, the family determines whether a shock is absorbed, and the era determines whether a shock occurs.
+
+Education also differs between inheritors and founders, but less than a ``legitimation'' story might suggest. Founders from comfortable families entered higher education about as often as heirs did; heirs are distinguished by \emph{finishing} it and by adding business or overseas credentials. Whether this reflects legitimation, ordinary class reproduction, or the lower opportunity cost of study for a secure successor cannot be decided with these data. Inheritors' paths run through ``education + internal apprenticeship'' rather than cross-industry risk-taking, which contrasts with the founders' paths.
+
+\subsection{``Missingness as Data'': The Structure of Record Visibility}
+
+H4's methodological contribution deserves emphasis. Name availability declines from 100\% for billionaires to 2.0\% for maternal grandmothers, the maternal line is markedly less visible than the paternal line, and within-generation gender gaps reach 16.8 percentage points---\textbf{under a common retrieval protocol, missingness maps the social structure of ``who is recorded and remembered.''} The grandmother generation lacks not only names but nearly all education, occupation, and wealth---quantitative evidence of systematic ``female historical invisibility,'' echoing \citet{kim2025}'s finding of gendered intergenerational transfer in South Korea.
+
+\textbf{A conjecture for future research: privacy as a resource.} Eight low-information families (fill rates 10--33\%) include European old money (e.g., Quandt, Rausing) as well as recent Japanese billionaires. For the former, low visibility may partly reflect active privacy management, which requires legal resources and media relations that wealth can buy. If so, visibility would be a two-track phenomenon: families at the bottom are passively invisible, while families at the top can choose to become invisible. Our data cannot test this. We have no measure of privacy management, and low information among recent self-made billionaires is at least as plausibly passive. Testing the conjecture would require dedicated ``visibility-control'' data, such as biography authorization or records of legal action against media.
+
+\subsection{Cohort Change: New Industries, Old Advantages}
+
+H5 shows that 59\% of young-cohort billionaires studied computer science, engineering, or physics, 22 percentage points more than the old cohort. The technological shift changed \emph{which fields} lead to extreme wealth. But it did not open the door wider to those without family resources: low starting points are rarer, not more common, among younger billionaires with known origins, and most of them rose on a father's intermediate capital. The common claim that the computer revolution reduced the weight of family background finds no support here. If anything, an industry that rewards early technical education and tolerance for repeated start-up failure may favour families that can provide both. Wang Xing (a wealthy family able to absorb repeated failures) and Huang Zheng (a working-class family whose missing resources were compensated by top-student ascent and the mentor Duan Yongping) illustrate the two routes: \textbf{the family supplies ``tolerance and channels''; the era supplies ``opportunity density.''}
+
+\subsection{Dialogue with the Literature}
+
+Relative to existing literature, this study moves billionaire research from ``cross-sectional portraits'' toward ``intergenerational processes,'' using three-generation, maternal-line, five-region data. Its findings connect to two literatures. For research on educational inequality, the era $\times$ family pattern in Table~\ref{tab:h2x} echoes the finding that family shocks reduce children's education \citep{sato2024}: in our cohorts born by 1946, children from families without buffers bore the educational cost of historical shocks, while those from ascending or established families did not. For research on elite reproduction \citep{bourdieu1986,collins1979,lillie2025}, heirs' high completion of higher education, including elite business credentials, fits accounts in which education helps convert inherited advantage into recognized merit, although our data cannot separate this from ordinary class reproduction. Policy implications should be drawn cautiously from a sample of 101 billionaires. The most robust lesson is a general one: whether historical shocks become lasting educational disadvantage depends heavily on whether families can absorb them.
+
+% =====================================================================
+\section{Conclusion}
+\label{sec:conclusion}
+
+This study constructed a ``seven-role, three-generation structure'' life-course database covering 101 super-wealthy families, 707 members, and 733 life-transition events across the United States, Europe, China, Japan, and South Korea, and used it to examine five guiding expectations in an exploratory design. The main conclusions are as follows.
+
+\textbf{First, most billionaires in this sample did not start from zero.} Among those with known family origins, over three-quarters rose on a father's intermediate capital (41.5\%) or continued existing family wealth (35.4\%), and only 13.4\% started at the social bottom; even among founders, a genuinely low starting point is the exception.
+
+\textbf{Second, family channel and era window interact, and education is where the interaction is clearest.} Historical shocks interrupted basic schooling only where families could not absorb them: among billionaires born by 1946, 8 of 12 from low-origin or ruined families left basic education, against none of 22 from ascending or established families, and such interruption all but disappears in later cohorts. This ``era shock $\times$ family buffer'' pattern is the paper's main substantive finding.
+
+\textbf{Third, inheritors are distinguished by completing higher education, not by entering it.} Heirs complete degrees far more often than founders from comfortable families (92\% vs.\ 59\%), although both enter higher education at similar rates. This is consistent with, but does not demonstrate, a legitimating role for education.
+
+\textbf{Fourth, record visibility is highly structured.} Name availability falls from 100\% for billionaires to 2.0\% for maternal grandmothers, the maternal line is far less visible than the paternal line, and within-generation gender gaps reach 16.8 percentage points. Provided retrieval effort is held constant, missingness is itself evidence about who is recorded and remembered.
+
+\textbf{Fifth, new industries have not lowered old barriers.} Younger billionaires are more concentrated in technical fields (59\% vs.\ 37\%), but low starting points are rarer among them, not more common.
+
+These conclusions are descriptive and exploratory. The sample is small and purposively selected, contains no non-billionaires, relies on AI-assisted web retrieval and coding, and was coded within a framework that developed alongside the data. The ``era shock $\times$ family buffer'' pattern in particular should be tested in independent samples and against population base rates of educational attainment by cohort and country. Future work could also code era-level and family-level rupture separately, gather evidence on the timing and public presentation of heirs' credentials, and develop the privacy-as-resource conjecture with dedicated data. We make all data open (including the coding scheme and field dictionary) to support reproducible research in this emerging field.
+
+\textbf{In sum}: The birth of a billionaire is neither a pure personal myth nor a simple inheritance fate. Family resources decide whether historical shocks can be absorbed and whether opportunities can be pursued; the era decides which shocks and opportunities arrive. Understanding this convergence matters not only for describing the ultra-rich but also for understanding equality of opportunity and class reproduction.
+
+% =====================================================================
+% Event-grade table (Table 3 in the manuscript)
+\begin{table}[htbp]
+\centering
+\caption{Life-transition events by reason grade ($n=733$).}
+\label{tab:events}
+\small
+\begin{tabular}{lrr}
+\toprule
+Grade & $n$ & \% \\
+\midrule
+A (personal account) & 124 & 16.9 \\
+B (authoritative record) & 451 & 61.5 \\
+C (researcher inference) & 153 & 20.9 \\
+D (unverifiable) & 5 & 0.7 \\
+\midrule
+Total & 733 & 100.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% =====================================================================
+\section*{Data Availability}
+The full coded database (707 individuals $\times$ 9 dimensions, with reliability tags and source URLs), the event log (733 transitions), the coding scheme (CODING\_SPEC v1.3), and the educational-path classifications are available as open data accompanying this article.
+
+% =====================================================================
+\begin{thebibliography}{99}
+\setlength{\itemsep}{2pt}
+
+% Reference list corrected and verified 2026-10-12.
+
+\bibitem[Anderson et al.(2018)]{anderson2018}
+Anderson, L.~R., Sheppard, P., and Monden, C.~W.~S. (2018). Grandparent effects on educational outcomes: A systematic review. \emph{Sociological Science}, 5, 114--142.
+
+\bibitem[Chiang and Park(2015)]{chiang2015}
+Chiang, Y.-L., and Park, H. (2015). Do grandparents matter? A multigenerational perspective on educational attainment in Taiwan. \emph{Social Science Research}, 51, 163--173.
+
+\bibitem[Hällsten and Kolk(2023)]{hallsten2023}
+H\"allsten, M., and Kolk, M. (2023). The shadow of peasant past: Seven generations of inequality persistence in Northern Sweden. \emph{American Journal of Sociology}, 128(6), 1716--1760.
+
+\bibitem[Toft and Hansen(2022)]{toft2022}
+Toft, M., and Hansen, M.~N. (2022). Dynastic cores and the borrowed time of newcomers: Wealth accumulation and the Norwegian one percent. \emph{British Journal of Sociology}, 73(2), 291--314.
+
+\bibitem[Lillie et al.(2025)]{lillie2025}
+Lillie, K., de Alwis, C., and Tisch, D. (2025). Male heirs and self-made women? Gender, extreme wealth and the Ivy League. \emph{AERA Open}, 11.
+
+\bibitem[Kendzia et al.(2025)]{iza2026}
+Kendzia, M.~J., Neville, T., and Gadgil, M. (2025). \emph{Built, not born: How education predicts billionaire wealth}. IZA Discussion Paper No.~17994. Bonn: IZA Institute of Labor Economics.
+
+\bibitem[Lu et al.(2021)]{lu2021}
+Lu, P., Fan, X., and Fu, F. (2021). Profile of the super rich in China: A social space analysis. \emph{British Journal of Sociology}, 72(3), 543--565.
+
+\bibitem[Sato(2025)]{sato2024}
+Sato, K. (2025). Intergenerational associations between paternal job loss and children's educational attainment in Japan. \emph{Journal of the Japanese and International Economies}, 75, 101341.
+
+\bibitem[Kim(2024)]{kim2025}
+Kim, D. (2024). An equal right to inherit? Inheritance rights and gendered intergenerational transfers in South Korea, 1971--2010. \emph{Population}, 79(2--3).
+
+\bibitem[O'Brien(2024)]{familyweb2023}
+O'Brien, S. (2024). The family web: Multigenerational class persistence in elite populations. \emph{Socio-Economic Review}, 22(1), 1--27.
+
+\bibitem[Wai(2013)]{wai2013}
+Wai, J. (2013). Investigating America's elite: Cognitive ability, education, and sex differences. \emph{Intelligence}, 41(4), 203--211.
+
+\bibitem[Kaplan and Rauh(2013)]{kaplan2013}
+Kaplan, S.~N., and Rauh, J.~D. (2013). Family, education, and sources of wealth among the richest Americans, 1982--2012. \emph{American Economic Review}, 103(3), 158--162.
+
+\bibitem[Korom et al.(2017)]{korom2017}
+Korom, P., Lutter, M., and Beckert, J. (2017). The enduring importance of family wealth: Evidence from the Forbes 400, 1982 to 2013. \emph{Social Science Research}, 65, 75--95.
+
+\bibitem[Chan and Boliver(2013)]{chan2013}
+Chan, T.~W., and Boliver, V. (2013). The grandparents effect in social mobility: Evidence from British birth cohort studies. \emph{American Sociological Review}, 78(4), 662--678.
+
+\bibitem[Lu(2017)]{lu2017}
+Lu, P. (2017). The Horatio Alger myth in China: Origins of the first generation of visibly richest Chinese private entrepreneurs. \emph{China: An International Journal}, 15(2), 75--97.
+
+\bibitem[Landis and Koch(1977)]{landis1977}
+Landis, J.~R., and Koch, G.~G. (1977). The measurement of observer agreement for categorical data. \emph{Biometrics}, 33(1), 159--174.
+
+\bibitem[Bourdieu(1986)]{bourdieu1986}
+Bourdieu, P. (1986). The forms of capital. In J.~G. Richardson (Ed.), \emph{Handbook of Theory and Research for the Sociology of Education} (pp.~241--258). Greenwood.
+
+\bibitem[Collins(1979)]{collins1979}
+Collins, R. (1979). \emph{The Credential Society: An Historical Sociology of Education and Stratification}. Academic Press.
+
+\end{thebibliography}
+
+\end{document}

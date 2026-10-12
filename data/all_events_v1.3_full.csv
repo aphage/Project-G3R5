@@ -1,0 +1,734 @@
+﻿event_id,person_id,year,dimension,old_value,new_value,reason,reason_grade,source_url
+EUS001,US01_P1,1942,D4,居住奥马哈，父亲为股票经纪人,全家迁往华盛顿特区，父亲为美国国会议员,父亲Howard Buffett1942年当选美国众议员，全家随迁,B,https://www.biography.com/business-leaders/warren-buffett
+EUS002,US01_P1,1947,D3,高中毕业,入宾夕法尼亚大学沃顿商学院,完成高中学业进入大学，选择宾大沃顿商学院,B,https://www.biography.com/business-leaders/warren-buffett
+EUS003,US01_P1,1949,D3,宾大沃顿在读,转学到内布拉斯加大学,从宾大转学回内布拉斯加大学（原因未完全记载）,C,https://www.biography.com/business-leaders/warren-buffett
+EUS004,US01_P1,1950,D3,内布拉斯加本科毕业,入哥伦比亚大学商学院师从Graham,仰慕Benjamin Graham价值投资理念，选择哥大深造,B,https://www.biography.com/business-leaders/warren-buffett
+EUS005,US01_P1,1952,D5,未婚,与Susan Thompson结婚,与父母好友的女儿Susan Thompson结婚,B,https://www.biography.com/business-leaders/warren-buffett
+EUS006,US01_P1,1956,D6,Graham-Newman分析师,创立Buffett Partnership Ltd.,Graham-Newman关闭后回到奥马哈创立自己的投资合伙公司,B,https://www.biography.com/business-leaders/warren-buffett
+EUS007,US01_P1,1965,D6,投资合伙管理者,取得Berkshire Hathaway控制权,通过合伙基金持续收购Berkshire股票取得控制权，从纯投资转向控股经营,B,https://www.biography.com/business-leaders/warren-buffett
+EUS008,US01_P1,1969,D6,同时管理合伙和Berkshire,解散Buffett Partnership专注Berkshire,认为市场估值过高难寻低估标的，解散合伙基金,B,https://www.biography.com/business-leaders/warren-buffett
+EUS009,US01_P1,约1977,D5,与Susan共同居住,与Susan分居，Susan搬旧金山,Susan追求歌唱事业搬至旧金山，未离婚仍维持夫妻关系,B,https://www.biography.com/business-leaders/warren-buffett
+EUS010,US01_P1,2004,D5,与Susan婚姻存续（分居）,第一任妻子Susan因心脏病去世,Susan Thompson Buffett 2004年7月因心脏病突发去世,B,https://www.biography.com/business-leaders/warren-buffett
+EUS011,US01_P1,2006,D5,丧偶,与Astrid Menks结婚,2006年8月30日巴菲特76岁生日当天与长期伴侣Astrid Menks结婚,B,https://www.biography.com/business-leaders/warren-buffett
+EUS012,US01_P1,2006,D9,财富主要自身持有,宣布捐出85%财富给慈善,2006年6月宣布将大部分财产捐赠慈善，主要给Gates Foundation,B,https://www.biography.com/business-leaders/warren-buffett
+EUS013,US01_P1,2012,D9,健康良好,诊断前列腺癌，放疗治愈,2012年披露诊断前列腺癌，7月开始放疗11月成功完成,B,https://www.biography.com/business-leaders/warren-buffett
+EUS014,US01_P1,2025,D6,Berkshire Hathaway CEO,卸任CEO留任董事长,2025年12月31日95岁巴菲特正式卸任CEO，继任者Greg Abel,B,https://www.globalpeople.com.cn/305967/306116/index.html
+EUS015,US01_P1,2015,D9,政治倾向未公开明确,公开背书民主党总统候选人Hillary Clinton,巴菲特公开支持民主党，与父亲Howard的共和党保守派形成代际差异,B,https://www.biography.com/business-leaders/warren-buffett
+EUS016,US01_P2,1942,D6,奥马哈股票经纪人,当选美国众议员,1942年竞选获胜从股票经纪人转为联邦议员,B,https://www.biography.com/business-leaders/warren-buffett
+EUS017,US01_P2,1949,D6,美国众议员,竞选失败回奥马哈重操经纪,1948年竞选连任失败，1949年离任回奥马哈,C,https://www.biography.com/business-leaders/warren-buffett
+EUS018,US01_P2,1951,D6,奥马哈股票经纪人,再次当选美国众议员,1950年再次竞选获胜重返国会,C,https://www.biography.com/business-leaders/warren-buffett
+EUS019,US02_P1,1968,D2,公立小学就读,转入私立Lakeside School,父母因盖茨11-12岁行为孤僻对公立学校无聊，13岁送私立Lakeside,B,https://www.biography.com/business-leaders/bill-gates
+EUS020,US02_P1,1973,D3,Lakeside高中毕业,入哈佛大学,以SAT 1590/1600从Lakeside毕业进入哈佛，原计划法律,B,https://www.biography.com/business-leaders/bill-gates
+EUS021,US02_P1,1975,D3,哈佛在读,从哈佛退学未毕业,与Paul Allen为MITS Altair开发BASIC成功，决定退学全身心投入Microsoft创业（本人多次公开陈述）,A,https://www.biography.com/business-leaders/bill-gates
+EUS022,US02_P1,1975,D6,哈佛学生/业余编程,与Paul Allen共同创立Microsoft,1975年为MITS Altair开发BASIC成功后共同创立Microsoft,A,https://www.biography.com/business-leaders/bill-gates
+EUS023,US02_P1,1980,D7,小型计算机语言软件商,IBM选MS-DOS作为PC操作系统,IBM 1980年选择Microsoft为PC提供操作系统；母亲Mary与IBM CEO Opel同为United Way董事会成员被认为有助（B级媒体报道非本人陈述）,B,https://www.biography.com/business-leaders/bill-gates
+EUS024,US02_P1,1986,D6,Microsoft私人公司,Microsoft IPO成百万富翁,1986年3月13日Microsoft纳斯达克IPO，盖茨出售$160万仍持45%（约$3.5亿）,B,https://www.biography.com/business-leaders/bill-gates
+EUS025,US02_P1,1987,D8,百万富翁,亿万富翁,1987年Microsoft股价达$90.75/股，盖茨31岁成亿万富翁创最年轻纪录,B,https://www.biography.com/business-leaders/bill-gates
+EUS026,US02_P1,1994,D5,未婚,与Melinda French结婚,1987年认识Melinda（Microsoft产品经理），1993年订婚，1994年1月1日夏威夷结婚,B,https://www.biography.com/business-leaders/bill-gates
+EUS027,US02_P1,1994,D9,母亲健在,母亲Mary因乳腺癌去世,1994年（结婚后仅数月）母亲Mary Maxwell Gates因乳腺癌去世,B,https://www.biography.com/business-leaders/bill-gates
+EUS028,US02_P1,1995,D8,亿万富翁非首富,首次成福布斯全球首富,1995年福布斯全球富豪榜盖茨首次成全球首富，此后连续13年,B,https://www.biography.com/business-leaders/bill-gates
+EUS029,US02_P1,2000,D6,Microsoft CEO兼董事长,卸任CEO转首席软件架构师,2000年1月将CEO交给Steve Ballmer，自己转任首席软件架构师专注技术,B,https://www.biography.com/business-leaders/bill-gates
+EUS030,US02_P1,2000,D7,仅软件/科技行业,增加慈善/全球健康（Gates Foundation）,2000年与Melinda共同创立Bill & Melinda Gates Foundation，初始投入约$160亿,B,https://www.biography.com/business-leaders/bill-gates
+EUS031,US02_P1,2008,D6,Microsoft首席软件架构师,最后一天全职工作,2006年宣布逐步退出，2008年6月最后一天全职工作，更多投入Gates Foundation,B,https://www.biography.com/business-leaders/bill-gates
+EUS032,US02_P1,2014,D6,Microsoft董事长,卸任董事长转技术顾问,2014年2月Satya Nadella接任CEO，盖茨卸任董事长转任技术顾问,B,https://www.biography.com/business-leaders/bill-gates
+EUS033,US02_P1,2020,D6,Microsoft技术顾问兼董事会成员,辞去Microsoft董事会职务,2020年3月盖茨辞去Microsoft董事会职务专注Gates Foundation和慈善,B,https://www.biography.com/business-leaders/bill-gates
+EUS034,US02_P1,2021,D5,与Melinda婚姻存续,与Melinda French离婚,2021年5月3日宣布结束27年婚姻，8月finalized,B,https://www.biography.com/business-leaders/bill-gates
+EUS035,US02_P2,1943,D6,学生/平民,应征入伍美国陆军,1943年二战期间应征加入美国陆军服役3年打断学业,B,https://m.baike.com/wiki/威廉.h.盖茨/8118879
+EUS036,US02_P2,1946,D6,美国陆军服役,退伍重返大学完成学业,1946年二战结束后退伍重返华盛顿大学完成学士和法律学位,B,https://m.baike.com/wiki/威廉.h.盖茨/8118879
+EUS037,US02_P2,1951,D5,未婚,与Mary Ann Maxwell结婚,1951年与Mary Ann Maxwell结婚育有3子女,B,https://www.biography.com/business-leaders/bill-gates
+EUS038,US02_P2,1994,D5,与Mary婚姻存续,妻子Mary因乳腺癌去世丧偶,1994年妻子Mary Maxwell Gates因乳腺癌去世,B,https://www.biography.com/business-leaders/bill-gates
+EUS039,US02_P2,2000,D6,律师/律所合伙人,增加Gates Foundation联合主席,2000年Gates Foundation成立，William Gates Sr.任联合主席之一,B,https://www.biography.com/business-leaders/bill-gates
+EUS040,US02_P3,1951,D5,未婚,与William H. Gates Sr.结婚,1951年与William H. Gates Sr.结婚育有3子女,B,https://www.biography.com/business-leaders/bill-gates
+EUS041,US02_P3,约1970s,D6,短期教师后家庭主妇,开始活跃于企业和非营利董事会,1970年代起Mary Gates活跃于First Interstate Bank、United Way、UW等董事会,B,https://www.biography.com/business-leaders/bill-gates
+EUS042,US02_P3,1994,D9,健在,因乳腺癌去世,1994年Mary Maxwell Gates因乳腺癌去世，儿子结婚后仅数月,B,https://www.biography.com/business-leaders/bill-gates
+EUS043,US03_P1,1945,D4,与生母Florence Spellman共同生活,被姨妈Lillian和姨父Louis Ellison收养,9个月大时因肺炎，生母Florence（19岁未婚犹太女性）将其送往芝加哥由姨妈一家收养,B,https://www.biography.com/business-leaders/larry-ellison
+EUS044,US03_P1,约1956,D4,以为养父母是亲生父母,12岁时得知养父母非亲生,12岁时得知Louis和Lillian Ellison是姨父姨妈非亲生父母,B,https://www.biography.com/business-leaders/larry-ellison
+EUS045,US03_P1,1962,D3,高中毕业,入伊利诺伊大学厄巴纳-香槟分校,高中毕业后入伊利诺伊大学,B,https://www.biography.com/business-leaders/larry-ellison
+EUS046,US03_P1,约1964,D3,伊利诺伊大学在读,大二时因养母去世退学,大二时养母Lillian去世，Ellison未参加考试即退学,B,https://www.biography.com/business-leaders/larry-ellison
+EUS047,US03_P1,1964,D3,伊利诺伊大学退学,入芝加哥大学一学期后退学,1964年秋入芝加哥大学，首次接触计算机编程，一学期后退学,B,https://www.biography.com/business-leaders/larry-ellison
+EUS048,US03_P1,1977,D6,Amdahl Corporation程序员,与同事创立Software Development Labs（Oracle）,1977年与两位Amdahl同事创立SDL（后改名Oracle），获CIA数据库合同,B,https://www.biography.com/business-leaders/larry-ellison
+EUS049,US03_P1,1986,D6,Oracle私人公司,Oracle IPO后遇会计危机濒临破产,1986年Oracle IPO，但会计问题致市值暴跌濒临破产，后管理重组,B,https://www.biography.com/business-leaders/larry-ellison
+EUS050,US03_P1,1967,D5,未婚,第一次婚姻：与Adda Quinn结婚,1967年与Adda Quinn结婚，1974年离婚,B,https://www.biography.com/business-leaders/larry-ellison
+EUS051,US03_P1,约1977,D5,离婚（第一次）,第二次婚姻：与Nancy Wheeler Jenkins结婚,约1977年与Nancy Wheeler Jenkins结婚，约1978年离婚,B,https://www.biography.com/business-leaders/larry-ellison
+EUS052,US03_P1,1983,D5,离婚（第二次）,第三次婚姻：与Barbara Boothe结婚,1983年与Barbara Boothe结婚，1986年离婚，育有David和Megan,B,https://www.biography.com/business-leaders/larry-ellison
+EUS053,US03_P1,2003,D5,离婚（第三次）,第四次婚姻：与Melanie Craft结婚,2003年与Melanie Craft结婚，2010年离婚,B,https://www.biography.com/business-leaders/larry-ellison
+EUS054,US03_P1,2014,D6,Oracle CEO（1977-2014）,卸任CEO任董事长兼首席技术官,2014年卸任Oracle CEO，任董事长兼CTO，持41%股份,B,https://www.biography.com/business-leaders/larry-ellison
+EUS055,US03_P1,2025,D8,全球第二/第三富豪,2025年9月10日短暂成全球首富（超$4000亿）,2025年9月10日Oracle股价暴涨，Ellison短暂成全球首富（史上第二人），次日回落,B,https://www.biography.com/business-leaders/larry-ellison
+EUS056,US03_P1,约2023,D5,离婚（第四次）,第五次婚姻：与Jolin Zhu结婚（保密至2024年底公开）,约2023年与Jolin Zhu（中国留学生）结婚，婚姻保密至2024年底公开,B,https://www.biography.com/business-leaders/larry-ellison
+EUS057,US04_P1,1964,D4,出生于青少年父母家庭,本名Jeffrey Preston Jorgensen,1964年1月12日出生，生母Jackie 16-17岁高中生，生父Ted Jorgensen 18岁马戏团表演者,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS058,US04_P1,约1966,D4,父母婚姻存续,父母离婚，随母亲生活,约1966年（Jeff 1岁多时）父母因Ted酗酒和不负责任离婚，Ted放弃抚养权,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS059,US04_P1,1968,D4,单亲家庭随母姓Jorgensen,母亲改嫁Miguel Bezos，被收养改姓Bezos,1968年母亲Jackie改嫁古巴移民Miguel Bezos，Jeff被收养改姓Bezos，全家搬休斯顿,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS060,US04_P1,约1974,D4,以为Miguel是生父,10岁时得知Miguel非生父,10岁时Jeff才知道Miguel Bezos不是自己的亲生父亲,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS061,US04_P1,1982,D3,Miami Palmetto高中毕业（valedictorian）,入普林斯顿大学,1982年以毕业生代表（valedictorian）从Miami Palmetto高中毕业入普林斯顿,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS062,US04_P1,1986,D3,普林斯顿大学在读,普林斯顿大学毕业（summa cum laude）,1986年以最高荣誉（summa cum laude）从普林斯顿毕业，计算机科学与电子工程双专业,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS063,US04_P1,1990,D6,华尔街金融工作,成D.E. Shaw最年轻高级副总裁（26岁）,1990年26岁的Bezos成D.E. Shaw对冲基金最年轻高级副总裁,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS064,US04_P1,1994,D6,D.E. Shaw高级副总裁,辞职搬到西雅图创立Amazon.com,1994年辞职搬到西雅图，7月16日Amazon.com上线（在线书店）,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS065,US04_P1,1997,D6,Amazon私人公司,Amazon IPO,1997年Amazon IPO（发行价$18/股）,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS066,US04_P1,1993,D5,未婚,第一次婚姻：与MacKenzie Tuttle结婚,1993年与MacKenzie Tuttle（小说家，普林斯顿毕业，D.E. Shaw行政助理）结婚,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS067,US04_P1,2000,D6,仅Amazon,创立Blue Origin（航天公司）,2000年创立Blue Origin，目标太空探索和殖民,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS068,US04_P1,2013,D7,电子商务/航天,$2.5亿收购《华盛顿邮报》进入媒体业,2013年以$2.5亿收购《华盛顿邮报》,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS069,US04_P1,2017,D8,亿万富翁非首富,成全球首富（Amazon市值破$1万亿）,2017-2018年Amazon市值破$1万亿（史上第二家），Bezos成全球首富,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS070,US04_P1,2019,D5,与MacKenzie婚姻存续,与MacKenzie Scott离婚,2019年宣布离婚，Bezos保留12% Amazon股份（约$1080亿），MacKenzie获4%（约$360亿）,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS071,US04_P1,2021,D6,Amazon CEO,卸任Amazon CEO转执行董事长,2021年卸任Amazon CEO，Andy Jassy接任，Bezos转执行董事长,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS072,US04_P1,2025,D5,离婚（第一次）,第二次婚姻：与Lauren Sanchez在威尼斯结婚,2025年6月与Lauren Sanchez（前电视主持人，2019年公开关系，2023年5月订婚）在威尼斯结婚，奢华三天婚礼约$5000万,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS073,US04_P3,约1963,D5,未婚高中生,第一次婚姻：与Ted Jorgensen奉子成婚,约1963年（16-17岁）与高三男友Ted Jorgensen奉子成婚，父母出钱让两人结婚,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS074,US04_P3,约1966,D5,与Ted婚姻存续,与Ted离婚成单亲母亲,约1966年与Ted Jorgensen离婚（因Ted酗酒和不负责任），成单亲母亲,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS075,US04_P3,1968,D5,单亲母亲,第二次婚姻：与Miguel Bezos结婚,1968年与古巴移民Miguel Bezos结婚，Miguel收养Jeff,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS076,US04_P3,约1987,D3,高中学历（因怀孕中断）,40岁时大学毕业,约1987年（40岁）Jackie Bezos大学毕业，后在卡迪夫大学等场合演讲分享人生经历,B,https://www.biography.com/business-leaders/jeff-bezos
+EUS077,US05_P1,1960,D3,Medford High高中毕业,入约翰斯·霍普金斯大学,1960年从Medford High高中毕业入约翰斯·霍普金斯大学，电气工程专业,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS078,US05_P1,1963,D9,父亲健在,父亲William因心脏病去世，家庭经济陷入困境,1963年（大学高年级时）父亲William因心脏病去世，家庭经济陷入困境，靠母亲做秘书和人寿保险金维持,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS079,US05_P1,1964,D3,霍普金斯大学毕业,入哈佛商学院MBA,1964年从霍普金斯大学毕业入哈佛商学院，1966年获MBA,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS080,US05_P1,1966,D6,哈佛MBA毕业,入所罗门兄弟（Salomon Brothers）,1966年MBA毕业入所罗门兄弟，从一般股票交易员做起,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS081,US05_P1,1972,D6,所罗门兄弟交易员,成所罗门兄弟合伙人,1972年成所罗门兄弟合伙人，负责股票交易和系统开发,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS082,US05_P1,1981,D6,所罗门兄弟合伙人,被解雇获$1000万遣散费,1981年所罗门兄弟被Phibro收购，Bloomberg被解雇获$1000万遣散费,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS083,US05_P1,1981,D6,被解雇,用遣散费创立Innovative Market Systems（Bloomberg L.P.）,1981年用$1000万遣散费创立Innovative Market Systems（后改名Bloomberg L.P.），开发金融数据终端,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS084,US05_P1,1982,D6,Bloomberg L.P.初创,Merrill Lynch成首个大客户并投资$3000万,1982年Merrill Lynch成首个大客户（订购22台终端并投资$3000万）,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS085,US05_P1,1975,D5,未婚,第一次婚姻：与Susan Brown结婚,1975年与Susan Brown（英国裔）结婚，育有2女1子，1993年离婚,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS086,US05_P1,1993,D5,与Susan婚姻存续,与Susan Brown离婚,1993年与Susan Brown离婚（18年婚姻）,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS087,US05_P1,2001,D6,Bloomberg L.P. CEO,辞去CEO参选纽约市长,2001年辞去Bloomberg L.P. CEO参选纽约市长,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS088,US05_P1,2002,D7,金融数据/媒体,任纽约市市长进入政治/公共服务,2002-2013年任纽约市市长三届（共和党→独立人士）,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS089,US05_P1,2014,D6,纽约市长（卸任）,重返Bloomberg L.P.任CEO,2014年卸任纽约市长后重返Bloomberg L.P.任CEO,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS090,US05_P1,2019,D9,未参加总统选举,参加民主党总统初选（花费超$10亿）,2019-2020年参加民主党总统初选，花费超$10亿，失败,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS091,US05_P1,2000,D9,未大规模捐赠,开始大规模慈善捐赠（累计超$100亿）,2000年代起Bloomberg Philanthropies大规模捐赠，累计超$100亿，专注公共卫生、气候变化、教育、枪支安全、艺术,B,https://www.biography.com/political-figures/michael-bloomberg
+EUS092,US06_P1,1979,D4,父母婚姻存续,父母离婚，最初随母亲生活,1979年（Elon 8岁）父母Errol和Maye离婚，Elon最初随母亲生活,B,https://www.biography.com/business-leaders/elon-musk
+EUS093,US06_P1,约1981,D4,随母亲生活,10岁时选择随父亲生活（后称最大遗憾）,约1981年（10岁）Elon选择随父亲Errol生活，后称这是最大的遗憾之一,B,https://www.biography.com/business-leaders/elon-musk
+EUS094,US06_P1,1989,D4,在南非生活,17岁独自移居加拿大（避南非兵役）,1989年（17岁）Elon独自移居加拿大（母亲是加拿大公民），避免南非兵役,B,https://www.biography.com/business-leaders/elon-musk
+EUS095,US06_P1,1989,D3,南非高中毕业,入皇后大学（加拿大）,1989年入皇后大学（加拿大金斯顿），物理学和经济学双专业，未毕业,B,https://www.biography.com/business-leaders/elon-musk
+EUS096,US06_P1,1992,D3,皇后大学在读,转学到宾夕法尼亚大学,1992年从皇后大学转学到宾夕法尼亚大学,B,https://www.biography.com/business-leaders/elon-musk
+EUS097,US06_P1,1995,D3,宾大本科毕业,入斯坦福大学博士（仅2天后退学）,1995年从宾大毕业（物理学学士+经济学学士双学位），入斯坦福应用物理与材料科学博士，仅2天后退学,B,https://www.biography.com/business-leaders/elon-musk
+EUS098,US06_P1,1995,D6,斯坦福博士退学,与弟弟Kimbal创立Zip2,1995年与弟弟Kimbal创立Zip2（在线城市指南/黄页）,B,https://www.biography.com/business-leaders/elon-musk
+EUS099,US06_P1,1999,D6,Zip2创始人,Compaq以$3.07亿收购Zip2，Elon获$2200万,1999年Compaq以$3.07亿收购Zip2，Elon获$2200万（首笔大额财富）,B,https://www.biography.com/business-leaders/elon-musk
+EUS100,US06_P1,1999,D6,Zip2被收购,用收益创立X.com（在线支付）,1999年用Zip2收益创立X.com（在线金融服务/支付）,B,https://www.biography.com/business-leaders/elon-musk
+EUS101,US06_P1,2000,D6,X.com CEO,X.com与Confinity合并后被免去CEO,2000年X.com与Confinity（有PayPal）合并，Elon被董事会免去CEO（后2001年回归推动改名PayPal）,B,https://www.biography.com/business-leaders/elon-musk
+EUS102,US06_P1,2002,D6,PayPal被eBay收购获$1.65亿,创立SpaceX（太空探索）,2002年eBay以$15亿收购PayPal，Elon获$1.65亿；同年创立SpaceX目标火星殖民,B,https://www.biography.com/business-leaders/elon-musk
+EUS103,US06_P1,2004,D7,仅航天/支付,投资Tesla Motors（$650万最大投资者）,2004年投资Tesla Motors $650万（最大投资者），后任董事长，2008年任CEO,B,https://www.biography.com/business-leaders/elon-musk
+EUS104,US06_P1,2000,D5,未婚,第一次婚姻：与Justine Wilson结婚,2000年与Justine Wilson（加拿大作家，皇后大学同学）结婚,B,https://www.biography.com/business-leaders/elon-musk
+EUS105,US06_P1,2002,D9,第一个孩子出生,长子Nevada Alexander 10周时因SIDS夭折,2002年长子Nevada Alexander出生，10周时因婴儿猝死综合征（SIDS）夭折,B,https://www.biography.com/business-leaders/elon-musk
+EUS106,US06_P1,2008,D8,亿万富翁,个人破产边缘（SpaceX/Tesla濒临破产+离婚）,2008年SpaceX三次发射失败、Tesla资金耗尽，Elon个人破产边缘；同年与Justine离婚,B,https://www.biography.com/business-leaders/elon-musk
+EUS107,US06_P1,2008,D5,与Justine婚姻存续,与Justine Wilson离婚（8年婚姻）,2008年与Justine Wilson离婚，育有双胞胎（2004）和三胞胎（2006）,B,https://www.biography.com/business-leaders/elon-musk
+EUS108,US06_P1,2010,D5,离婚（第一次）,第二次婚姻：与Talulah Riley结婚,2010年与Talulah Riley（英国演员）结婚，2012年离婚，2013年复婚，2016年再次离婚,B,https://www.biography.com/business-leaders/elon-musk
+EUS109,US06_P1,2010,D8,个人破产边缘恢复,Tesla IPO后财富恢复增长,2010年Tesla IPO，Elon财富恢复增长,B,https://www.biography.com/business-leaders/elon-musk
+EUS110,US06_P1,2016,D6,仅SpaceX/Tesla,创立The Boring Company和Neuralink,2016年创立The Boring Company（隧道挖掘）和Neuralink（脑机接口）,B,https://www.biography.com/business-leaders/elon-musk
+EUS111,US06_P1,2018,D9,Tesla CEO兼董事长,因'Tesla私有化'推文被SEC罚款$2000万并辞去董事长,2018年因在Twitter发文称考虑以$420/股私有化Tesla，被SEC罚款$2000万并辞去Tesla董事长,B,https://www.biography.com/business-leaders/elon-musk
+EUS112,US06_P1,2020,D8,全球前十富豪,成全球首富（2021年1月首超贝索斯）,2020年Tesla股价暴涨，2021年1月Elon首超贝索斯成全球首富,B,https://www.biography.com/business-leaders/elon-musk
+EUS113,US06_P1,2022,D7,航天/汽车/隧道/脑机接口,$440亿收购Twitter（改名X）进入社交媒体,2022年以$440亿收购Twitter，后改名X,B,https://www.biography.com/business-leaders/elon-musk
+EUS114,US06_P1,2024,D6,未独立做AI,创立xAI（AI公司）,2024年创立xAI（人工智能公司）,B,https://www.biography.com/business-leaders/elon-musk
+EUS115,US06_P1,2025,D8,全球首富,2025年6月短暂成全球首位万亿富豪（$1.01万亿）,2025年6月Forbes估计Elon财富短暂达$1.01万亿成全球首位万亿富豪，随后回落,B,https://www.biography.com/business-leaders/elon-musk
+EUS116,US06_P2,1970,D5,未婚,与Maye Haldeman结婚,1970年与Maye Haldeman（加拿大出生模特/营养师）结婚,B,https://www.biography.com/business-leaders/elon-musk
+EUS117,US06_P2,1979,D5,与Maye婚姻存续,与Maye离婚（9年婚姻）,1979年与Maye Haldeman离婚，育有Elon、Kimbal、Tosca,B,https://www.biography.com/business-leaders/elon-musk
+EUS118,US06_P3,1970,D5,未婚,与Errol Musk结婚,1970年与Errol Musk（南非工程师）结婚,B,https://www.biography.com/business-leaders/elon-musk
+EUS119,US06_P3,1979,D5,与Errol婚姻存续,与Errol离婚成破产单身母亲,1979年与Errol Musk离婚（遭家暴），成破产单身母亲，打五份工独自抚养3子女,B,https://www.biography.com/business-leaders/elon-musk
+EUS120,US06_P3,约1980s,D6,南非模特/营养师,辗转3个国家多个城市开展事业,1980年代起Maye辗转南非、加拿大、美国多个城市开展营养咨询和模特事业,B,https://www.biography.com/business-leaders/elon-musk
+EU001,EU01_P1,1968,D3,Lycée Faidherbe预备班,巴黎综合理工学院土木工程与数学,通过法国大学校竞考进入顶尖工程师大学校,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU002,EU01_P1,1971,D6,学生,Ferret-Savinel建筑公司工程师,大学毕业加入父亲家族企业,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU003,EU01_P1,1974,D7,建筑与土木工程（Ferret-Savinel）,房地产开发（Ferinel）,Bernard说服父亲将公司从工业建筑转向房地产，出售建筑部门，更名Ferinel；[推断]法国建筑业周期性波动及房地产利润率更高,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU004,EU01_P1,1978,D6,Ferinel工程师,Ferinel公司总裁,[推断]父亲退休或交棒，Bernard正式接管家族企业,C,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU005,EU01_P1,1973,D5,未婚,与Anne Dewavrin结婚,个人婚姻选择,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU006,EU01_P1,1990,D5,与Anne Dewavrin婚姻存续,离异；1991年与Hélène Mercier再婚,[推断]婚姻感情破裂，具体原因未公开,D,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU007,EU01_P1,1984,D7,房地产开发（Ferinel）,纺织与奢侈品零售（Boussac/Dior）,法国政府拟出让Boussac集团（含Dior），Arnault在Lazard合伙人协助下收购Financière Agache并赢得竞标，以象征性1法郎收购；[推断]房地产积累资本支撑杠杆收购，Dior品牌价值为核心吸引力,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU008,EU01_P1,1987,D7,纺织与奢侈品（Dior/Boussac）,奢侈品集团（LVMH联合创始人）,与Moët Hennessy CEO和Louis Vuitton总裁合作，将Louis Vuitton与Moët Hennessy合并为LVMH,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU009,EU01_P1,1989,D6,LVMH主要股东之一,LVMH董事长兼CEO（敌意收购获得控制权）,1988-1989年持续增持LVMH股份至43.5%，达到阻断少数；与Racamier战略分歧激化，1989年1月被选举为执行管理委员会主席，驱逐Racamier,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU010,EU01_P1,1999,D8,亿万富翁（具体排名未记载）,时尚界首富（首次超越Ortega）,LVMH股价上涨及多品牌扩张推动财富增长,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU011,EU01_P1,1999,D8,通过Groupe Arnault直接持有资产,设立比利时控股公司Pilinvest（持有Agache 81%股权）,[推断]税务规划及家族财富传承结构优化；比利时较法国更有利的税收环境,C,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU012,EU01_P2,1974,D7,建筑与土木工程（Ferret-Savinel所有者）,房地产开发（Ferinel）,在儿子Bernard说服下出售工业建筑部门，公司转型房地产，更名Ferinel,B,https://en.wikipedia.org/wiki/Bernard_Arnault
+EU013,EU02_P1,约1950,D2,在校小学生,辍学，14岁进入Gala衬衫店当学徒,家庭极度贫困，拖欠学费无法继续学业；父亲铁路工作调动迁居拉科鲁尼亚后需补贴家用,C,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU014,EU02_P1,1963,D6,服装店雇员/制衣工人,Confecciones Goa创始人（生产绗缝浴袍，居家起步）,[推断]积累制衣和零售经验后决定自主创业；从自家客厅开始生产浴袍和内衣,C,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU015,EU02_P1,1966,D5,未婚,与Rosalía Mera Goyenechea结婚（女裁缝，Zara联合创始人）,个人婚姻选择；两人同为制衣行业从业者,B,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU016,EU02_P1,1975,D7,服装制造与批发（Confecciones Goa）,时装零售（Zara第一家门店在拉科鲁尼亚开业）,[推断]合作企业临时取消订单导致Goa难以维持，决定开设自有零售门店直接面向消费者；Zara名称[推断]来源于电影《Zorba the Greek》,C,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU017,EU02_P1,1986,D5,与Rosalía Mera婚姻存续,与Rosalía Mera离异,[推断]婚姻感情破裂，具体原因未公开（Ortega极度注重隐私）,D,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU018,EU02_P1,1985,D6,Zara及Confecciones Goa独立运营,Inditex集团成立（整合多品牌）,[推断]业务扩张需要集团化管理架构；为后续多品牌战略和上市做准备,C,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU019,EU02_P1,2001,D8,私营企业主（财富未公开量化）,上市公司控股股东（Inditex IPO，持有约59.29%股份）,公司发展需要公开市场融资；[推断]家族财富传承规划；IPO前2000年首次公开露面接受媒体采访,B,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU020,EU02_P1,2001,D5,离异（与Flora Pérez长期伴侣关系）,与Flora Pérez Marcote结婚,个人婚姻选择；[推断]与长期伴侣正式结婚,B,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU021,EU02_P1,2011,D6,Inditex集团董事长,卸任董事长，Pablo Isla接任；任名誉董事长,[推断]年龄因素（75岁）及职业经理人接班计划；Ortega一贯低调，倾向退居幕后,C,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU022,EU02_P1,2015,D8,全球顶级富豪（排名前三）,短暂超越Bill Gates成为世界首富（峰值约800亿美元）,Inditex股价持续上涨推动财富增长；快时尚模式全球扩张,B,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU023,EU02_P1,2013,D9,前妻Rosalía Mera在世,前妻Rosalía Mera去世（享年69岁）,自然死亡（具体原因未详细公开）,B,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU024,EU02_P1,2017,D9,常规慈善捐赠,基金会捐赠3.2亿欧元用于西班牙癌症防治,[推断]个人慈善意愿；西班牙公共医疗系统设备不足；基金会成立于2001年,C,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU025,EU02_P1,约1940s,D1,居住于莱昂省Busdongo火车站宿舍,迁居Tolosa，后迁居拉科鲁尼亚,父亲铁路工作调动导致家庭多次搬迁,B,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU026,EU02_P1,约2010s,D7,主要财富集中于Inditex股权,通过Pontegadea大规模布局全球房地产及能源基础设施投资,[推断]财富多元化配置需求；Inditex股权财富需要分散投资；房地产作为长期保值资产,C,https://en.wikipedia.org/wiki/Amancio_Ortega
+EU027,EU03_P1,2017,D8,母亲Liliane在世（财富约395亿美元）,继承母亲全部财富，财富因投资和欧莱雅股价增至三倍（约882亿美元）,母亲Liliane Bettencourt2017年9月去世，Françoise作为独生女继承全部欧莱雅股权和家族控股公司Téthys Invest,B,https://en.wikipedia.org/wiki/Fran%C3%A7oise_Bettencourt_Meyers
+EU028,EU03_P1,2008,D9,与母亲关系正常,起诉François-Marie Banier骗取母亲财产并申请宣告母亲无行为能力（Bettencourt丑闻爆发）,[推断]发现母亲向摄影师Banier赠送巨额资产（估计13亿欧元），怀疑母亲被剥削；秘密录音揭示政治献金等丑闻,C,https://en.wikipedia.org/wiki/Fran%C3%A7oise_Bettencourt_Meyers
+EU029,EU03_P1,2010,D9,与母亲诉讼中,与母亲庭外和解，结束诉讼,[推断]家庭关系修复意愿；法律和舆论压力；和解条件包括Banier被排除出母亲遗嘱,C,https://en.wikipedia.org/wiki/Fran%C3%A7oise_Bettencourt_Meyers
+EU030,EU03_P1,2023,D6,欧莱雅副董事长/董事会成员,欧莱雅董事长,[推断]代际传承完成，正式成为欧莱雅集团最高决策者,C,https://en.wikipedia.org/wiki/Fran%C3%A7oise_Bettencourt_Meyers
+EU031,EU03_P2,1940-1942,D9,La Cagoule成员,为纳粹占领时期宣传报纸La Terre Française撰写60+篇反犹文章,[推断]受Vichy法国政府宣传影响；个人法西斯信仰；后称'年轻时的错误',C,https://en.wikipedia.org/wiki/Andr%C3%A9_Bettencourt
+EU032,EU03_P2,1944-1945,D9,亲纳粹合作者,加入反德抵抗运动（人生重大转向）,[推断]战争形势变化；个人政治立场转变；战后因抵抗运动获法国战争十字勋章和抵抗运动勋章,C,https://en.wikipedia.org/wiki/Andr%C3%A9_Bettencourt
+EU033,EU03_P2,1950,D5,未婚,与Liliane Schueller（欧莱雅创始人独女）结婚,个人婚姻选择；[推断]通过婚姻进入欧莱雅家族核心圈和法国顶级富豪阶层,B,https://en.wikipedia.org/wiki/Andr%C3%A9_Bettencourt
+EU034,EU03_P3,1927,D9,母亲在世,5岁时母亲Louise Doncieux去世（重大人生变故）,自然死亡（具体原因未记载）；父亲Eugène Schueller后娶女儿的英国家庭教师,B,https://en.wikipedia.org/wiki/Liliane_Bettencourt
+EU035,EU03_P3,1957,D8,父亲在世（欧莱雅主要股东）,父亲去世，继承欧莱雅财富，成为主要股东（财富量级跃迁）,父亲Eugène Schueller1957年去世，Liliane作为独生女继承欧莱雅多数股权,B,https://en.wikipedia.org/wiki/Liliane_Bettencourt
+EU036,EU03_P3,1974,D8,持有欧莱雅多数股权,将近一半股权交换雀巢（Nestlé）3%股权（重大股权结构变更）,[推断]担心法国左翼政府上台后将公司国有化；通过与雀巢交叉持股建立防御机制,C,https://en.wikipedia.org/wiki/Liliane_Bettencourt
+EU037,EU03_P6,1907,D6,索邦大学实验室助理,开发Oréale染发剂，自行生产销售给巴黎理发师（创业起点）,一位理发师请他开发新型染发剂，Schueller借此机会建立自己的研究工作室；创新染发剂配方,B,https://en.wikipedia.org/wiki/Eug%C3%A8ne_Schueller
+EU038,EU03_P6,1909,D6,自行生产销售染发剂,注册公司Société Française de Teintures Inoffensives pour Cheveux（欧莱雅前身正式成立）,产品成功后需要正式公司架构进行规模化生产和销售,B,https://en.wikipedia.org/wiki/Eug%C3%A8ne_Schueller
+EU039,EU03_P6,1930s,D9,企业家,资助并支持法国法西斯组织La Cagoule，在欧莱雅总部为其举办会议,[推断]个人法西斯信仰和反犹立场；1941年在《经济革命》中公开表达亲纳粹观点,B,https://en.wikipedia.org/wiki/Eug%C3%A8ne_Schueller
+EU040,EU03_P7,约1927,D9,在世,去世（女儿Liliane年仅5岁，重大人生变故）,[推断]自然死亡，具体原因未记载；去世后丈夫Eugène Schueller娶了女儿的英国家庭教师,B,https://en.wikipedia.org/wiki/Liliane_Bettencourt
+EU041,EU04_P1,1956,D9,父亲在世,9岁时父亲Alec因前列腺癌去世（重大人生变故，家庭经济陷入困境）,疾病导致父亲早逝；James本人描述此后家庭'penniless',B,https://en.wikipedia.org/wiki/James_Dyson
+EU042,EU04_P1,1956,D2,[推断]当地公立小学,Gresham's School（独立寄宿学校），校长代付学费,父亲去世后家庭经济困难，但Gresham's校长同意代付学费使其得以继续精英寄宿教育（贵人相助）,B,https://en.wikipedia.org/wiki/James_Dyson
+EU043,EU04_P1,1966-1970,D3,Byam Shaw艺术学校美术,皇家艺术学院家具与室内设计，后转向产品设计,[推断]对设计的兴趣和结构工程师Anthony Hunt的指导促使其从美术转向工业设计,C,https://en.wikipedia.org/wiki/James_Dyson
+EU044,EU04_P1,1983,D6,发明家/设计师（原型阶段）,G-Force吸尘器在日本通过目录销售推出（英国无人愿意代理）,[推断]英国制造商和经销商因担心扰乱尘袋替换市场而拒绝代理；被迫寻找海外市场，日本通过目录销售模式接受创新产品,C,https://en.wikipedia.org/wiki/James_Dyson
+EU045,EU04_P1,1993,D6,发明家（产品在海外销售）,创立Dyson Ltd，在Malmesbury开设研究中心和工厂（创业关键节点）,[推断]G-Force在日本成功（1991年获国际设计博览会奖）后积累资本和信心，决定在英国建立自有制造公司,C,https://en.wikipedia.org/wiki/James_Dyson
+EU046,EU04_P1,1999,D9,市场竞争中,起诉Hoover（UK）专利侵权胜诉，获400万英镑赔偿,Hoover Triple Vortex无袋吸尘器故意复制Dyson专利设计的核心部分；高等法院判决Hoover赔偿,B,https://en.wikipedia.org/wiki/James_Dyson
+EU047,EU04_P1,2017,D6,Dyson公司创始人/首席工程师,创立戴森工程技术学院（Dyson Institute of Engineering and Technology）,[推断]应对英国工程人才短缺；将企业研发与高等教育结合；个人对工程教育的长期关注,C,https://en.wikipedia.org/wiki/James_Dyson
+EU048,EU04_P2,1956,D9,在世,因前列腺癌去世（约40多岁，导致9岁的James丧父、家庭经济崩溃）,疾病导致早逝；其收入是家庭主要经济来源，去世后家庭'penniless',B,https://en.wikipedia.org/wiki/James_Dyson
+EU049,EU05_P1,1931,D6,儿童,5岁开始卖火柴（批量从斯德哥尔摩进货，骑自行车卖给邻居）,[推断]商业天赋早期显现；Småland地区贫困文化鼓励儿童劳动和创业,C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU050,EU05_P1,1942,D9,普通学生,16岁加入瑞典法西斯组织New Swedish Movement（Nysvenska Rörelsen），活跃至1945年,[推断]受父亲和祖母（Sudet-Germany背景）的政治影响；1994年被公开后称'一生中最大错误',C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU051,EU05_P1,1943,D6,学生/小商贩,17岁在叔叔Ernst厨房桌上创立IKEA（IKEA=Ingvar Kamprad+Elmtaryd+Agunnaryd）,父亲因学业成功给出现金奖励，这笔钱成为IKEA启动资金；[推断]多年小商贩经验积累了商业技能和客户网络,B,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU052,EU05_P1,1948,D7,邮购零售（火柴、鱼、种子、文具等）,增加家具品类（业务关键转型）,[推断]邮购业务扩张需要更高价值产品；家具是Småland地区传统产业，供应链便利,C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU053,EU05_P1,1976,D9,居住于瑞典,移居瑞士Épalinges（Vaud州），居住至2014年,[推断]避税（瑞典高税率）；[推断]生活方式选择；IKEA国际化需要靠近欧洲中心,C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU054,EU05_P1,1982,D8,个人直接持有IKEA股权,将IKEA股权转让给荷兰注册的Stichting INGKA基金会（自己任主席）,[推断]税务规划；[推断]家族财富传承和公司控制权稳定；基金会章程禁止家族从基金中受益（导致Forbes和Bloomberg财富估算差异巨大）,C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU055,EU05_P1,1994,D9,法西斯活动未公开,二战时期法西斯活动被公开（Per Engdahl私人信件公开），公开道歉,Per Engdahl去世后私人信件被公开，揭示Kamprad1942-1945年的法西斯组织活动；Kamprad在致IKEA员工信中称'一生中最大错误',B,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU056,EU05_P1,2013,D6,Inter IKEA Holding SA董事会主席,辞去董事会，幼子Mathias接任董事长（代际传承）,[推断]年龄因素（87岁）；代际接班计划已进行多年；三个儿子均在IKEA担任领导角色,C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU057,EU05_P1,2014,D1,居住于瑞士Épalinges（1976-2014）,搬回瑞典SmålandÄlmhult,[推断]第二任妻子Margaretha 2011年去世后希望回到出生地；[推断]回归家族根源,C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU058,EU05_P4,1896,D1,居住于德国图林根,携全家移民瑞典Småland，购买Elmtaryd农场（449公顷，当地最大）,[推断]作为贵族幼子无继承权，需要寻找新的发展机会；在杂志上看到广告后决定购买瑞典农场；19世纪末欧洲贵族次子继承问题的典型解决方案,B,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU059,EU05_P4,约1900,D9,在世,在儿子Feodor出生后几年自杀（重大人生变故，农场由妻子Franziska继承）,[推断]移民瑞典后农场经营遇到困难；[推断]适应新环境的压力；具体原因未记载；自杀后449公顷农场由妻子Franziska继承并最终传给儿子Feodor,C,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU060,EU05_P5,约1900,D6,农场主夫人,丈夫Achim自杀后独立经营Elmtaryd农场（449公顷），成为独立农场主,丈夫Achim自杀后，Franziska作为妻子继承农场并独立经营；[推断]从下层家庭出身到独立经营449公顷农场，展现了非凡的经营能力,B,https://en.wikipedia.org/wiki/Ingvar_Kamprad
+EU061,EU06_P1,1975,D1,居住于意大利Farigliano,11岁随家人迁居比利时布鲁塞尔，就读欧洲学校（重大生活环境变更）,[推断]家族企业国际化需要；[推断]比利时税收环境较意大利有利；欧洲学校提供多语言国际教育,C,https://en.wikipedia.org/wiki/Giovanni_Ferrero
+EU062,EU06_P1,1997,D6,完成学业返回欧洲进入家族企业,与哥哥Pietro共同担任费列罗联合CEO（代际接班开始）,[推断]父亲Michele Ferrero交棒计划；兄弟分工共同管理集团,B,https://en.wikipedia.org/wiki/Giovanni_Ferrero
+EU063,EU06_P1,2011,D6,联合CEO（与哥哥Pietro共同管理）,唯一CEO（哥哥Pietro在南非意外去世）,哥哥Pietro Ferrero Jr.2011年4月在南非意外去世（具体原因未详细记载），Giovanni从联合CEO变为唯一CEO,B,https://en.wikipedia.org/wiki/Giovanni_Ferrero
+EU064,EU06_P1,2015,D8,父亲Michele在世（集团执行董事长）,父亲去世，接任执行董事长，继承集团全部控制权（财富量级跃迁）,父亲Michele Ferrero2015年2月14日在摩纳哥去世，Giovanni作为唯一在世的儿子继承集团全部控制权和所有权,B,https://en.wikipedia.org/wiki/Giovanni_Ferrero
+EU065,EU06_P1,2017,D6,同时兼任CEO和执行董事长,聘请Lapo Civiletti任CEO，自己专任执行董事长（治理结构现代化）,[推断]集团规模扩大需要专业CEO管理日常运营；[推断]创始人家族从日常管理转向战略监督；家族企业治理现代化,C,https://en.wikipedia.org/wiki/Giovanni_Ferrero
+EU066,EU06_P2,1949,D6,24岁，在父亲公司工作,父亲Pietro去世后接手费列罗公司（年轻接班，重大人生变故）,父亲Pietro Ferrero1949年3月因[推断]心脏病（过度劳累）去世，年仅50岁；Michele作为独生子24岁接手公司,B,https://en.wikipedia.org/wiki/Michele_Ferrero
+EU067,EU06_P2,约1960,D7,传统糕点/糖果制造,发明Nutella巧克力酱（在gianduja酱中加入植物油降低成本），公司进入快速增长期,与Francesco Rivella合作，在传统gianduja榛子巧克力酱中加入植物油，大幅降低成本并改善口感；Nutella成为全球最畅销的巧克力酱,B,https://en.wikipedia.org/wiki/Michele_Ferrero
+EU068,EU06_P2,1997,D6,费列罗集团所有者/执行董事长（全面管理）,将日常管理交给两个儿子（联合CEO），自己任执行董事长（代际接班开始）,[推断]年龄因素（72岁）；两个儿子已在集团内历练多年；逐步交棒但保留战略控制权,C,https://en.wikipedia.org/wiki/Michele_Ferrero
+EU069,EU06_P4,1940,D6,糕点师,在都灵开设大型糕点店但失败，返回Alba（事业重大挫折）,[推断]都灵市场竞争激烈；[推断]经营管理不善；失败后返回Alba重新开始,C,https://en.wikipedia.org/wiki/Pietro_Ferrero
+EU070,EU06_P4,1946,D6,Alba糖果实验室（研发阶段）,推出Giandujot榛子巧克力酱，大获成功；5月注册成立Ferrero公司（公司正式诞生）,二战期间利用当地丰富的榛子作为低成本原料开发巧克力榛子酱（替代昂贵的纯巧克力）；产品推出后需求激增，需要正式公司架构进行规模化生产,B,https://en.wikipedia.org/wiki/Pietro_Ferrero
+EU071,EU06_P4,1948,D9,工厂正常运营,Alba工厂遭Tanaro河洪水淹没（重大自然灾害），月底恢复生产,自然灾难（Tanaro河洪水）；工厂被淹没但快速恢复生产，展现了企业韧性,B,https://en.wikipedia.org/wiki/Pietro_Ferrero
+EU072,EU06_P4,1949,D9,在世（50岁，公司快速增长期）,因过度劳累[推断]心脏病去世，年仅50岁（英年早逝，儿子24岁接班）,[推断]因公司快速增长期亲自驾驶Topolino在皮埃蒙特各地配送产品，过度劳累导致心脏病发作；具体死因未经医学确认,C,https://en.wikipedia.org/wiki/Pietro_Ferrero
+ECN001,CN01_P1,1947,D1,上海富裕商人家庭,福建福清农村贫困家庭,时局动荡(国共内战)，父曹河仁举家迁回老家；家产运输船沉没财产尽失,A,http://paper.people.com.cn/hqrw/html/2017-01/01/content_1759993.htm
+ECN002,CN01_P1,1960,D2,在校学生(小学/初一),辍学放牛娃,家庭贫困交不起学费；本人顽皮闯祸；14岁辍学回家放牛,A,https://www.ckgsb.edu.cn/chuang/content/news_detail/771
+ECN003,CN01_P1,1969,D5,未婚,已婚(妻陈凤英),家庭需要有人照顾生病的母亲陈惠珍；经人介绍结婚,B,http://paper.people.com.cn/hqrw/html/2009-03/10/content_263907.htm
+ECN004,CN01_P1,1976,D6,个体小商贩,玻璃厂采购员/业务员,朋友建议参与筹建乡镇玻璃厂，获得稳定职业进入制造业,B,http://paper.people.com.cn/mszk/html/2015-09/21/content_1618157.htm
+ECN005,CN01_P1,1983,D6,玻璃厂采购员(雇员),承包玻璃厂(经营者),乡镇企业连年亏损濒临倒闭，抓住改革开放承包制机遇承包工厂,A,http://paper.people.com.cn/mszk/html/2015-09/21/content_1618157.htm
+ECN006,CN01_P1,1985,D7,水表玻璃制造,汽车玻璃制造,发现国内汽车玻璃被进口垄断售价奇高的市场机遇，立志'为中国人做一片自己的玻璃',A,http://paper.people.com.cn/hqrw/html/2017-01/01/content_1759993.htm
+ECN007,CN01_P1,1987,D6,承包乡镇玻璃厂,创立福耀玻璃有限公司,汽车玻璃业务成功后扩大经营，联合11股东集资627万元成立合资企业,B,https://news.fznews.com.cn/node/23603/20250617/6850d6fe5b81e.shtml
+ECN008,CN01_P1,1993,D8,非上市企业所有者,A股上市公司董事长,福耀玻璃成功在上海证券交易所上市，福建省最早上市民营企业,B,https://m.baike.com/wiki/%E6%9B%B9%E5%BE%B7%E6%97%BA/1528060
+ECN009,CN01_P1,2011,D9,个人持有福耀股票,捐赠3亿股创河仁慈善基金会,实践慈善理念，以父亲曹河仁之名创立全国性非公募基金会,A,https://www.jiemian.com/article/13473888.html
+ECN010,CN01_P2,约1930s,D6,福清农村贫困青年,日本布店学徒,家道中落，舅舅帮助东渡日本谋生,B,https://www.ckgsb.edu.cn/chuang/content/news_detail/771
+ECN011,CN01_P2,约1940s,D6,日本学徒,上海商人(永安百货股东),学徒期满回国，在上海从商成功成为永安百货股东之一,B,http://paper.people.com.cn/hqrw/html/2017-01/01/content_1759993.htm
+ECN012,CN01_P2,1947,D8,上海富裕商人,福清农村贫困居民,时局动荡举家迁回福清，家产运输船沉没财产全部丢失,A,http://paper.people.com.cn/hqrw/html/2017-01/01/content_1759993.htm
+ECN013,CN01_P3,1947,D1,上海商人家庭主妇,福清农村贫困家庭主妇,随夫举家迁回福清，家产随船沉没家庭陷入贫困,B,https://www.ckgsb.edu.cn/chuang/content/news_detail/771
+ECN014,CN01_P3,1947,D8,带有嫁妆首饰家庭富裕,变卖嫁妆买地建房家庭贫困,家产沉没后变卖从上海带出的首饰嫁妆在福清买地建二层小楼安家,B,https://www.jiemian.com/article/2509379.html
+ECN015,CN02_P1,1949,D1,宿迁小官吏家庭中等生活,杭州贫困家庭(父亲失业),新中国成立，父宗启騄因'旧官僚'背景失去工作，举家迁回祖籍杭州；全家靠母亲小学教师工资度日,B,https://www.stcn.com/article/detail/1129762.html
+ECN016,CN02_P1,1963,D2,初中毕业学生(17岁),知青下乡(舟山马目农场),本想报考师范学校但因家庭成分(非贫下中农)被拒；为减轻家庭负担报名前往舟山当知青,A,http://capital.people.com.cn/BIG5/n1/2018/0207/c405954-29809876.html
+ECN017,CN02_P1,约1966,D6,舟山马目农场盐工,绍兴茶场茶农/调度员,马目农场精简人员转至绍兴茶场继续劳动；1964年起任调度员,B,https://m.baike.com/wiki/%E5%AE%97%E5%BA%86%E5%90%8E/733663
+ECN018,CN02_P1,1978,D6,绍兴茶场知青(下乡15年),杭州校办纸箱厂工人/推销员,母亲王树珍提前退休，宗庆后'顶职'回城进入校办工厂；恰逢十一届三中全会召开改革开放开始,A,http://mpre.lifeweek.com.cn/h5/article/detail.do?artId=220486
+ECN019,CN02_P1,1980,D5,未婚,已婚(妻施幼珍),经介绍与施幼珍(曾为黑龙江知青，杭州八中毕业)结婚，1980年5月1日举行婚礼,B,https://m.baike.com/wiki/%E6%96%BD%E5%B9%BC%E7%8F%8D/7069685010336486692
+ECN020,CN02_P1,1987,D6,校办企业经销部经理,承包经销部创立杭州保灵儿童营养食品厂,借14万元承包上城区校办企业经销部，同年7月筹建儿童营养食品厂开始娃哈哈创业；改革开放城市经济体制改革提供承包机遇,A,https://www.zj.chinanews.com.cn/nzxzl/2024-02-26/detail-ihcyasak6266974.shtml
+ECN021,CN02_P1,1988,D7,代加工花粉口服液,自主研发娃哈哈儿童营养液,代加工模式受制于人，在浙江医科大学朱寿民教授指导下开发自有产品儿童营养液一炮打响,B,https://m.jiemian.com/article/2457074.html
+ECN022,CN02_P1,1991,D6,娃哈哈营养食品厂(100余人),兼并杭州罐头食品厂(2000余职工),出资8000万元有偿兼并资不抵债的国营杭州罐头食品厂，接收全部2000多职工和500多退休人员，3个月扭亏为盈,B,https://m.jiemian.com/article/2457074.html
+ECN023,CN02_P1,1996,D6,纯内资民营企业,与法国达能集团合资,经香港百富勤牵线与达能达成合资意向，引进4300万美元组建5家合资公司,B,https://m.jiemian.com/article/2457074.html
+ECN024,CN02_P1,2007-2009,D9,与达能合资合作,'达娃之争'国际商战胜诉,达能欲以40亿元低价强行并购娃哈哈非合资公司遭拒后在多国提起诉讼；宗庆后聘请国际法律团队应诉最终全面胜诉，2009年9月和解读达能出售合资公司股份,B,https://m.jiemian.com/article/2457074.html
+ECN025,CN02_P1,2010,D8,亿万富翁,中国首富(胡润800亿/福布斯534亿),娃哈哈集团持续高速增长利润丰厚，赢得达能官司后品牌价值和企业控制权进一步提升,B,http://www.chinanews.com.cn/cj/2010/09-29/2564690.shtml
+ECN026,CN02_P1,2024,D9,在世娃哈哈集团董事长,因病医治无效逝世,2024年2月25日10时30分因病医治无效在杭州逝世享年79岁，娃哈哈集团发布官方讣告,B,https://www.chinanews.com.cn/cj/2024/02-25/10169463.shtml
+ECN027,CN02_P2,约1940s,D6,中国大学化学系学生,南京政府邮政/宿迁县政府职员,大学毕业后在南京政府邮政系统谋得小职员职位，后转至宿迁县政府任职,B,https://m.baike.com/wiki/%E5%AE%97%E5%90%AF%E9%A8%84/7340949728392560651
+ECN028,CN02_P2,1945,D6,宿迁县政府职员,被接收官员构陷入狱,抗日战争胜利后国民党接收官员清算，宗启騄被构陷入狱,B,https://m.baike.com/wiki/%E5%AE%97%E5%90%AF%E9%A8%84/7340949728392560651
+ECN029,CN02_P2,1949,D6,宿迁县政府职员(出狱后),失业举家迁回杭州,新中国成立因'旧官僚'背景失去工作举家迁回祖籍杭州；后尝试运输生意但失败,B,https://m.thepaper.cn/newsDetail_forward_26478678
+ECN030,CN02_P2,1949,D8,有稳定政府职员收入,失业无收入家庭靠妻子工资维持,因历史背景在新政权下无法就业运输生意失败陷入长期贫困,B,https://www.globalpeople.com.cn/n4/2024/0226/c305917-21379415.html
+ECN031,CN02_P3,约1920s,D4,与父母同住(贵族家庭),父母双亡与哥哥相依为命,父母先后去世(母亲早逝六年后父亲过世)，由哥哥抚养长大,B,https://www.hzzx.gov.cn/cshz/content/2024-02/26/content_8693024.htm
+ECN032,CN02_P3,1949,D6,官宦家庭妻子(非主要经济来源),家庭唯一经济来源(小学教师),丈夫宗启騄1949年后失业，王树珍的小学教师工资成为全家七口唯一收入来源,B,https://www.globalpeople.com.cn/n4/2024/0226/c305917-21379415.html
+ECN033,CN02_P3,1979,D6,在职小学教师,退休(提前退休),提前退休让儿子宗庆后'顶职'回城进入校办工厂工作,A,https://www.zj.chinanews.com.cn/nzxzl/2024-02-26/detail-ihcyasak6266974.shtml
+ECN034,CN02_P4,1906,D4,父亲宗承烈在世,父亲去世(抗洪落水身亡),1906年重庆江津特大洪水，宗承烈参与指挥抗洪救灾落水遇冷受惊不治身亡,B,https://m.jiemian.com/article/2457074.html
+ECN035,CN02_P4,民国时期,D6,地方官吏(武汉/广西/广东幕僚),北洋政府张作霖手下财政部长/次长,[推断]民国初年政治格局变化，宗继先进入北洋政府任职，具体升迁路径未记载,C,https://m.jiemian.com/article/2457074.html
+ECN036,CN02_P4,约1940s,D6,北洋政府官员,南京汪伪政府中将秘书官,[推断]抗战时期汪精卫政权成立，宗继先转入汪伪政府任职；此政治选择可能影响其后代在1949年后的命运,C,https://m.jiemian.com/article/2457074.html
+ECN037,CN03_P1,1963,D2,高中毕业生,重庆建筑工程学院大学生,1963年考入重庆建筑工程学院暖通专业；因父亲任摩逊曾在国民党412工厂任会计的历史问题，政审差点受阻,A,https://www.gfbzb.gov.cn/ssts/querybyid.action?item=TYFC&artid=824760053
+ECN038,CN03_P1,1974,D6,大学毕业生(待分配),基建工程兵(技术员),1974年应征入伍成为基建工程兵，参与辽阳化纤总厂工程建设(从法国引进的大型化工企业),B,https://www.gfbzb.gov.cn/ssts/querybyid.action?item=TYFC&artid=824760053
+ECN039,CN03_P1,1978,D9,普通技术干部,出席全国科学大会,因工程建设中的贡献出席1978年全国科学大会(荣誉里程碑),B,https://www.ckgsb.com/faculty/news/detail/157/6866.html
+ECN040,CN03_P1,1983,D6,基建工程兵副所长(技术副团级),深圳南油集团电子公司副总经理,1983年因国家大裁军复员转业至深圳南海石油后勤服务基地，任南油集团下属电子公司副总经理,B,https://www.ckgsb.com/faculty/news/detail/157/6866.html
+ECN041,CN03_P1,1987,D6,南油集团副总经理(被开除),集资2.1万创立华为技术有限公司,因工作失误导致公司被骗200万被南油集团开除；1987年9月15日集资2.1万元(2500美元)在深圳创立华为,A,https://m.baike.com/wiki/%E4%BB%BB%E6%AD%A3%E9%9D%9E/253012
+ECN042,CN03_P1,2018,D9,华为正常发展,美国制裁华为孟晚舟被拘押,2018年美国开始制裁华为，孟晚舟在加拿大被拘押(重大人生危机)；2021年孟晚舟回国,B,https://www.globalpeople.com.cn/n4/2025/0703/c305917-21626883.html
+ECN043,CN03_P2,1931,D2,浙江浦江青年,北平民大经济系学生,1931年考入北平民大经济系(民国时期北京私立大学),B,https://wenhui.whb.cn/third/jinri/201905/22/264803.html
+ECN044,CN03_P2,1937,D6,北平民大经济系学生,辍学参加抗日救亡运动,抗战爆发后辍学参加抗日救亡运动,B,https://wenhui.whb.cn/third/jinri/201905/22/264803.html
+ECN045,CN03_P2,1949,D6,抗日救亡/工厂会计,贵州创办民族中学(校长),1949年后到贵州从事教育工作，创办镇宁民族中学任校长,B,https://wenhui.whb.cn/third/jinri/201905/22/264803.html
+ECN046,CN03_P2,1966-1976,D9,中学校长/教育家,被关进牛棚受冲击,文革期间因曾在国民党412工厂任会计的历史问题被关进牛棚受冲击,B,http://m.toutiao.com/group/4080562234/
+ECN047,CN04_P1,1958,D1,四川苍溪元坝镇(出生),四川金川县(随父迁居),1958年随父母到金川县，父亲任大金县森林工业局副局长,B,https://m.baike.com/wiki/%E7%8E%8B%E4%B9%89%E5%85%A8/19477106
+ECN048,CN04_P1,1970,D6,森工局营林处职工(15岁),沈阳军区侦察兵,1970年12月入伍沈阳军区任侦察兵(鸭绿江边)；受父亲老红军影响,B,https://m.baike.com/wiki/%E7%8E%8B%E5%81%A5%E6%9E%97/1075916
+ECN049,CN04_P1,1978,D2,军队干部,大连陆军学院学员,1978年被推荐到大连陆军学院读书，后留校工作,B,http://paper.people.com.cn/hqrw/html/2012-05/06/content_1045837.htm
+ECN050,CN04_P1,1986,D6,正团级军官(28岁),大连市西岗区政府办公室主任,1986年百万大裁军，以正团级军官身份转业到大连市西岗区人民政府任办公室主任,B,http://paper.people.com.cn/hqrw/html/2012-05/06/content_1045837.htm
+ECN051,CN04_P1,1989,D6,区政府办公室主任,西岗区住宅开发公司总经理,1989年1月主动请缨任欠债149万濒临破产的西岗区住宅开发公司总经理，进入房地产行业(旧城改造),A,http://t.m.youth.cn/transfer/index/url/elite.youth.cn/i_news/201208/t20120821_2372759.htm
+ECN052,CN04_P1,1992,D6,西岗区住宅开发公司,万达集团股份有限公司,1992年8月西岗区住宅开发公司正式改名为万达集团股份有限公司,B,https://m.baike.com/wiki/%E7%8E%8B%E5%81%A5%E6%9E%97/1075916
+ECN053,CN04_P1,2013,D8,亿万富翁,中国首富(福布斯860亿元),2013年福布斯中国富豪榜860亿元首次成为中国首富,B,http://finance.people.com.cn/n/2014/0501/c1004-24965148.html
+ECN054,CN04_P1,2017,D9,高速扩张的万达帝国,资金链危机大规模卖资产转型,2017年万达遭遇资金链危机，大规模出售文旅项目和酒店资产转型轻资产,B,https://m.baike.com/wiki/%E7%8E%8B%E5%81%A5%E6%9E%97/1075916
+ECN055,CN04_P2,1933,D6,四川苍溪农民,红四方面军战士(连长),1933年红四方面军进入四川时参加红军，因为'参军最可能让自己天天有饭吃',B,https://m.baike.com/wiki/%E7%8E%8B%E4%B9%89%E5%85%A8/19477106
+ECN056,CN04_P2,1949,D6,解放军(一野野战医院科员),转业到地方(陕西华县土改团),新中国成立后转业到地方，先后在陕西华县土改团、西南伐木公司、大金森工局任职,B,https://m.baike.com/wiki/%E7%8E%8B%E4%B9%89%E5%85%A8/19477106
+ECN057,CN04_P2,1979,D6,四川省林业学校副校长,离休,1979年离休，享受离休干部待遇,B,https://m.baike.com/wiki/%E7%8E%8B%E4%B9%89%E5%85%A8/19477106
+ECN058,CN05_P1,1982,D2,高中毕业生(首次高考),高考落榜(数学1分),1982年首次高考数学仅1分落榜；后在表弟的帮助下开始复读,A,http://m.toutiao.com/group/6734842587334574605/
+ECN059,CN05_P1,1984,D2,高考复读生(第三次高考),杭州师范学院本科生,1984年第三次高考数学79分，总分差本科线5分，因杭州师范学院英语专业本科未招满幸运升入本科(教育里程碑/人生转折),A,http://m.toutiao.com/group/6734842587334574605/
+ECN060,CN05_P1,1988,D6,杭州师范学院毕业生,杭州电子工业学院英语讲师,1988年大学毕业，任杭州电子工业学院英文及国际贸易讲师，答应校长待5年(月薪89元),B,https://m.baike.com/wiki/%E9%A9%AC%E4%BA%91/19516163
+ECN061,CN05_P1,1995,D6,大学英语讲师(兼职翻译社),创办中国黄页(互联网创业),1995年4月创办'中国黄页'(中国第一家互联网商业信息发布网站)，被称为'到处推销中国黄页的骗子'；从美国接触互联网后决定创业,A,http://jjckb.xinhuanet.com/dspd/2011-06/24/content_317557_3.htm
+ECN062,CN05_P1,1999,D6,外经贸部网站开发(北京),回杭州创立阿里巴巴,1999年3月辞职回杭州，与18人(十八罗汉)在湖畔花园公寓创立阿里巴巴，50万元启动资金,A,https://static.nfapp.southcn.com/content/201909/10/c2609764.html
+ECN063,CN05_P1,2014,D8,非上市企业创始人,纽交所上市公司(中国首富),2014年9月阿里巴巴纽交所上市(IPO融资250亿美元当时全球最大IPO)，马云财富暴增成为中国首富,B,https://m.baike.com/wiki/%E9%A9%AC%E4%BA%91/19516163
+ECN064,CN05_P1,2019,D6,阿里巴巴集团董事局主席,正式退休,2019年9月10日卸任阿里巴巴集团董事局主席正式退休，从事教育慈善农业,B,https://static.nfapp.southcn.com/content/201909/10/c2609764.html
+ECN065,CN05_P1,2020,D9,蚂蚁集团筹备IPO,蚂蚁集团IPO暂停(重大挫折),2020年11月蚂蚁集团IPO暂停(估值2万亿元)，马云财富缩水，此后淡出公众视野,B,https://m.baike.com/wiki/%E9%A9%AC%E4%BA%91/19516163
+ECN066,CN05_P4,约1902,D1,嵊州谷来镇马溪村(农村),杭州阔板桥(城市),7-8岁时从嵊州马溪村移居杭州，住杭州阔板桥(重大生活变迁),B,https://www.jiemian.com/article/3492053.html
+ECN067,CN06_P1,1992,D2,宿迁中学高中毕业生(高考状元),中国人民大学学生,1992年以宿迁高考状元身份考入中国人民大学社会学系；全村凑500元+76个鸡蛋送其上大学(教育里程碑/人生转折),A,http://m.toutiao.com/group/7458497551969501722/
+ECN068,CN06_P1,1998,D6,外企职员,中关村京东公司创始人(卖刻录机),1998年6月18日在中关村海沙市场租柜台卖刻录机和光碟，创立京东公司(京东多媒体)，初始资金约2万元,A,http://paper.ce.cn/jjrb/html/2017-05/22/content_334043.htm
+ECN069,CN06_P1,2003,D7,IT硬件零售(中关村实体店),互联网电商(京东多媒体网),2003年非典疫情后关闭所有门店转型电商；2004年1月京东多媒体网上线(京东商城前身),A,http://paper.ce.cn/jjrb/html/2017-05/22/content_334043.htm
+ECN070,CN06_P1,2014,D8,非上市电商创始人,纳斯达克上市公司(亿万富翁),2014年5月22日京东在纳斯达克上市(IPO融资17.8亿美元)，刘强东财富暴增,B,https://m.baike.com/wiki/%E5%88%98%E5%BC%BA%E4%B8%9C/2660276
+ECN071,CN06_P1,2018,D9,京东集团CEO,明尼苏达事件(重大人生危机),2018年8月31日在美国明尼苏达州因涉嫌性侵被逮捕(后不起诉)，对个人声誉和京东股价造成重大影响,B,https://m.baike.com/wiki/%E5%88%98%E5%BC%BA%E4%B8%9C/2660276
+ECN072,CN06_P1,2019,D6,京东集团CEO(法定代表人),退居二线(卸任法定代表人等职务),2019年逐步退居二线，卸任京东法定代表人等职务,B,https://m.baike.com/wiki/%E5%88%98%E5%BC%BA%E4%B8%9C/2660276
+ECN073,CN06_P2,约1967,D6,船民家庭青年(17岁),顶替父亲跑船(运河船民),17岁时父亲去世，开始顶替父亲在运河跑船的工作(重大人生变故/职业起点),B,https://m.baike.com/wiki/%E5%88%98%E5%BF%97%E6%88%90/7458795602542657573
+ECN074,CN06_P2,约1980s,D6,农民(短暂务农),借2000元买小船重操旧业跑船,曾在村里做农民(可能因跑船不景气)，后借2000元买小船重操旧业跑船运输(从徐州买煤运到扬州，从扬州买瓷器运到徐州),B,https://m.jiemian.com/article/2410078.html
+ECN075,CN06_P2,1998,D8,跑船运输(有船),船沉了(财产损失),1998年(?)船沉了，财产损失；与刘强东1998年中关村创业时间接近,B,https://m.jiemian.com/article/2410078.html
+EJP001,JP01_P1,1972,D6,佳世客(JUSCO)超市普通店员,小郡商事（父亲的男装店）店员,对佳世客杂货铺工作感到枯燥无聊，9个月后辞职；在父亲强烈要求下回乡继承家业；本人自述托关系进去的明明没做什么工作却总发牢骚,A,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645;https://epaper.gmw.cn/zhdsb/html/2012-08/01/nw.D110000zhdsb_20120801_3-12.htm
+EJP002,JP01_P1,1984,D7,男士西服零售（高端定制，小郡商事）,休闲服装零售（大众自助式，优衣库）,发现男士西服销售高度依赖店员接待经验有局限性；参加海外商业考察团时在美国大学生活协会发现自主服务销售方式；察觉到休闲服市场潜力；1984年6月在广岛开设优衣库1号店,A,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645;https://epaper.gmw.cn/zhdsb/html/2012-08/01/nw.D110000zhdsb_20120801_3-12.htm
+EJP003,JP01_P1,1984,D6,小郡商事专务董事,小郡商事社长,父亲柳井等1984年9月因病退位社长，柳井正正式接任；此前25岁时父亲已交予账本和公章,A,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645
+EJP004,JP01_P1,1991,D6,小郡商事株式会社,迅销(Fast Retailing)株式会社,1991年9月1日宣布公司更名，正式拓展全国连锁企业尽快实现上市目标；迅销意为迅速捕捉顾客需求迅速商品化迅速销售,A,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645
+EJP005,JP01_P1,1994,D8,非上市民营企业,广岛证券交易所上市公司（每股7200日元）,1994年7月14日迅销公司在广岛证券交易所上市，资金问题得到缓解；为后续全国扩张和国际化提供资本基础,B,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645
+EJP006,JP01_P1,2002,D6,迅销集团社长,迅销集团会长（社长由玉冢元一接任）,2002年11月将社长职位交给玉冢元一，计划从经营一线引退；柳井正自述天性懒散接手家族企业真不是我的本意,A,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645
+EJP007,JP01_P1,2005,D6,迅销集团会长（玉冢元一任社长）,复任迅销集团社长兼会长,玉冢元一经营不善，柳井正于2005年将其撤换重新出任社长,B,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645
+EJP008,JP01_P1,2023,D6,优衣库社长（兼迅销集团董事长兼CEO）,退任优衣库社长（冢越大介接任），仍任迅销集团董事长,2023年8月28日宣布退任优衣库社长，9月1日由执行董事冢越大介接任；为优衣库成立以来首次更换社长；柳井正表示此举是为确保公司在没有他参与时也能运转,B,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E7%AB%A0%E7%94%B7/2062457;https://m.cls.cn/detail/1454130
+EJP009,JP01_P2,1949,D6,未记载（推断受雇于服装店或其他行业）,独立经营Men's Shop小郡商事（男士西服店，个体经营）,战后日本经济恢复期，1949年3月在山口县宇部市开设男士西服店；推断利用家族在九州山口经营服装店的传统和资源创业,C,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645
+EJP010,JP01_P2,1964,D6,个体经营店,小郡商事株式会社（法人化）,业务发展，1964年由个人持有改为股份有限公司；推断为扩大经营和规范管理,B,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645
+EJP011,JP01_P2,1984,D6,小郡商事社长,退位（因病），长子柳井正接任社长,1984年9月因病退位社长；此前1972年已将服装店交给柳井正经营自己忙于土建公司,A,https://m.baike.com/wiki/%E6%9F%B3%E4%BA%95%E6%AD%A3/2142645;https://epaper.gmw.cn/zhdsb/html/2012-08/01/nw.D110000zhdsb_20120801_3-12.htm
+EJP012,JP02_P1,1973,D2,久留米大学附属高等学校高一在读（日本）,赴美留学（美国加州）,1973年16岁时参加赴美短期英语培训班受美国自由开放氛围感染；阅读《犹太人的商法》深受触动；不顾家人强烈反对决定留学；父亲因病住院仍在病榻上表示支持；1974年2月正式赴美,A,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;https://zzrb.zynews.cn/html/2016-08/10/content_758855.htm
+EJP013,JP02_P1,1976,D6,UC Berkeley学生,学生+发明者+创业者（发明电子翻译机并出售）,在伯克利期间定下每天一个发明的规矩（每天5分钟从字典随机找3个名词组合构思）；利用美国喷射推进实验室(JPL)资源发明世界首台多国语言翻译机；1977年回日推销夏普以4000万日元（约100万美元）买下专利获得第一桶金,A,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;http://finance.ce.cn/rolling/201409/23/t20140923_3579335.shtml
+EJP014,JP02_P1,1980,D6,美国Unison World公司经营者（美国）,回日本创业（Unison World日本→软件银行）,1980年3月UC Berkeley毕业后决定回日本发展事业；将美国Unison World公司交给友人留下I shall return；回日后在40个行业展开市场调研1年半后选择软件批发行业1981年9月创立软件银行,A,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;http://paper.people.com.cn/hqrw/html/2012-12/26/content_1165695.htm
+EJP015,JP02_P1,1981,D7,电子产品进口/发明（美国时期）,计算机软件批发/出版（日本，SoftBank）,回日后在40个行业做市场调研每个项目做10年预想损益计算最终选择计算机软件批发行业；1981年9月在东京千代田区以1000万日元注册软件银行；1981年大阪电子展取得与日本最大软件公司哈德森的独家代理合同,A,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605
+EJP016,JP02_P1,约1990-1991,D9,韩国国籍（在日韩国人，使用日本名安本正义）,日本国籍（归化，保留本姓孙）,妻子大野优美劝说国籍不过是符号且孩子即将出生没有日本国籍会有诸多不便；孙正义坚持归化时保留孙姓但日本户籍系统无孙姓被拒；妻子先去改姓孙使系统中出现该姓孙正义随后成功以孙姓归化；归化年份有1990年和1991年两种说法,A,https://m.jiemian.com/article/1500457.html;https://zzrb.zynews.cn/html/2016-09/04/content_767590.htm
+EJP017,JP02_P1,1995,D7,软件批发/出版,互联网风险投资（投资雅虎）,1995年几个赴美留学后计划创业的学生（包括杨致远）来找孙正义取经会面即将结束时孙正义决定做投资人；首笔投资200万美元后追加至1亿美元获得雅虎37%股份；1996年雅虎上市,B,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605
+EJP018,JP02_P1,2000,D7,互联网投资（雅虎等）,投资阿里巴巴（中国电商，决定性投资）,2000年摩根士丹利亚洲分析师在北京安排孙正义与多家中国互联网CEO会面每人20分钟；马云说了6分钟孙正义便打断决定投资4000万美元最终马云接受2000万美元；软银成为阿里巴巴最大股东（上市前约34%）,A,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;http://finance.ce.cn/rolling/201409/23/t20140923_3579335.shtml
+EJP019,JP02_P1,2006,D7,互联网/软件,电信运营（收购沃达丰日本，更名软银移动）,2006年4月以200亿日元收购当时运营不佳的日本第三大移动运营商沃达丰日本更名软银移动；通过价格战夺取市场份额；2008年获得iPhone在日本销售权；战略多元化,B,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605
+EJP020,JP02_P1,2014,D8,财富约数十亿美元级别,财富净值166亿美元（跃居日本首富）,2014年9月16日阿里巴巴在美国纽交所上市（当时美股最大企业IPO），软银持有约34%股份，孙正义财富净值暴涨至166亿美元,B,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;https://www.chinanews.com/gj/2011/03-10/2897085.shtml
+EJP021,JP02_P2,约1960s,D7,渔民/养猪（贫困体力劳动）,经营小生意（咖啡店等）,推断为改善家庭经济状况从体力劳动转向小商业；曾经营咖啡店但选址偏僻生意不佳孙正义曾建议父亲派发免费咖啡券促销,C,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;http://m.toutiao.com/group/6985356171624448516/
+EJP022,JP02_P2,约1970s初,D7,小生意（咖啡店等）,柏青哥店/消费信贷/酒类批发（获得成功）,推断转向柏青哥业（在日韩裔群体常见行业因日本主流社会对韩裔就业歧视）；同时经营消费信贷和酒类批发；获得商业成功家庭经济状况大幅改善,C,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;http://m.toutiao.com/group/6757701851254096388/
+EJP023,JP02_P2,约1970s,D1,佐贺县鸟栖市无番地棚户区（贫困）,北九州（经济改善后迁居）,推断柏青哥店和消费信贷生意成功后家庭从鸟栖市的朝鲜人棚户区迁至北九州经济状况大幅改善；上初中时家庭已搬到北九州,C,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;https://m.thepaper.cn/newsDetail_forward_18975829
+EJP024,JP02_P4,约1914,D1,朝鲜半岛庆尚北道大邱（农民）,日本九州（矿工→农民/养猪）,日本殖民朝鲜时期（1910-1945）推断为寻求经济机会从朝鲜半岛移民日本；中文自媒体称1914年约18岁时藏在渔船底下偷渡渡过对马海峡；到日后取日本姓安本先在九州做矿工后务农养猪；此移民细节仅见于中文自媒体日语正规媒体未确认具体年份,C,https://m.baike.com/wiki/%E5%AD%99%E6%AD%A3%E4%B9%89/1060605;http://m.toutiao.com/group/7537500444982952500/
+EJP025,JP03_P4,1933,D7,纺织机械（丰田自动织布机制作所）,汽车制造（在织机所内设立汽车部）,丰田喜一郎1920年代赴欧美考察汽车工业后决心发展汽车；1933年在丰田自动织布机制作所内设立汽车部；利用父亲丰田佐吉G型自动织机专利费（卖给英国普拉特公司10万英镑）作为汽车研发第一桶金；从织机到汽车为决定性行业转型,A,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E5%96%9C%E4%B8%80%E9%83%8E/1123802;http://paper.people.com.cn/hqrw/html/2014-11/16/content_1514345.htm
+EJP026,JP03_P4,1937,D6,丰田自动织布机制作所汽车部,丰田汽车工业株式会社（独立公司，创始人）,1937年8月28日丰田汽车工业株式会社正式成立（资本金1200万日元）；从织机所内部分离为独立公司；丰田利三郎（丰田佐吉婿养子）任第一任社长，丰田喜一郎任副社长后任社长,A,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E5%96%9C%E4%B8%80%E9%83%8E/1123802;http://paper.people.com.cn/hqrw/html/2014-11/16/content_1514345.htm
+EJP027,JP03_P4,1950,D6,丰田汽车工业株式会社社长,辞职（因劳资争议）,1950年丰田汽车遭遇严重经营危机，劳资争议爆发，员工罢工；丰田喜一郎作为社长引咎辞职；这是丰田汽车创业史上最大挫折；1952年3月丰田喜一郎去世（享年57岁）,A,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E5%96%9C%E4%B8%80%E9%83%8E/1123802;https://www.dongchedi.com/article/7309130894210728475
+EJP028,JP03_P2,1952,D6,名古屋大学工学博士（刚毕业/研究）,进入丰田汽车工业公司任董事会成员,1952年7月父亲丰田喜一郎去世，丰田章一郎（时年27岁）进入丰田汽车工业公司任董事会成员，负责汽车技术/质量管理/工厂管理；从学术研究转向企业经营；这是丰田家族第三代进入经营的起点,A,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E5%96%9C%E4%B8%80%E9%83%8E/1123802;http://www.cfbr.com.cn/mobile/news/378.html
+EJP029,JP03_P2,1982,D6,丰田汽车副社长,丰田汽车第六任社长（丰田家族第三代回归经营）,1982年7月丰田汽车工业与丰田汽车销售合并为丰田汽车株式会社，丰田章一郎从叔父丰田英二手中接任第六任社长；任社长期间推动丰田全球化（北美建厂等）和混合动力技术（普锐斯1997年上市）；丰田从日本企业变为全球汽车巨头,A,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E5%96%9C%E4%B8%80%E9%83%8E/1123802;http://paper.people.com.cn/hqrw/html/2014-11/16/content_1514345.htm
+EJP030,JP03_P1,2009,D6,丰田汽车副社长,丰田汽车第11任社长（丰田家族第四代长孙回归经营）,2009年6月丰田章男在次贷危机后丰田遭遇历史性巨亏的背景下接任第11任社长；这是创始人家族（丰田喜一郎之孙）时隔14年再次出任社长；上任后立即面临2010年丰田大规模召回事件（刹车门），赴美国国会作证；带领丰田走出危机恢复为全球最大汽车制造商,A,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E7%AB%A0%E7%94%B7/2062457;http://paper.people.com.cn/hqrw/html/2014-11/16/content_1514345.htm;http://m.toutiao.com/group/7603658126767800867/
+EJP031,JP03_P1,2023,D6,丰田汽车社长,退任社长转任会长（董事长），佐藤恒治任社长,2023年4月丰田章男退任社长转任会长，由执行董事佐藤恒治接任第12任社长；这是丰田汽车首次由非创始家族成员（非丰田家）出任社长；丰田章男表示需要在新时代做出改变自己将作为会长支持新体制,A,https://m.baike.com/wiki/%E4%B8%B0%E7%94%B0%E7%AB%A0%E7%94%B7/2062457;http://m.toutiao.com/group/7603658126767800867/
+EJP032,JP04_P2,1898,D8,小地主/村委会议员（村中比较殷实）,破产（失去祖屋和良田，家道中落）,松下政楠在和歌山米谷交易所进行米谷投机失败，1898年前后破产失去祖屋和良田；从村中比较殷实的小地主沦为破产农民；这是松下幸之助4岁时的重大家庭变故，直接导致其9岁辍学当学徒,A,https://book.douban.com/subject/1449468/blockquotes;http://m.toutiao.com/group/6455080895211684109/
+EJP033,JP04_P1,1904,D2,和佐村寻常小学四年级在读,辍学，到大阪船场火盆店当学徒,1904年（9岁，小学四年级）因家庭贫困（父亲米商投机失败破产后家道中落）被父亲送到大阪船场火盆店当学徒；从此离开学校，开始学徒生涯；这是松下幸之助人生的第一个重大转折,A,https://book.douban.com/subject/1449468/blockquotes;http://m.toutiao.com/group/6455080895211684109/
+EJP034,JP04_P1,1910,D6,五代自行车商会学徒（自行车零售/修理）,大阪电灯株式会社配线员/检查员（从自行车转向电器）,1910年（16岁）在五代自行车商会做了约6年学徒后，进入大阪电灯株式会社任配线员/检查员；从自行车行业转向新兴的电器行业；这是决定性的行业转型，为后来创立松下电器奠定基础,A,https://book.douban.com/subject/1449468/blockquotes;http://m.toutiao.com/group/6455080895211684109/
+EJP035,JP04_P1,1918,D6,大阪电灯株式会社配线员/检查员,创立松下电气器具制作所（创业，95日元起步）,1917年从大阪电灯辞职；1918年3月（23岁）在大阪创立松下电气器具制作所，创业资金仅95日元（约等于当时3个月工资）；最初生产电灯插座等电器配件；从雇员转为创业者；这是松下电器的起点,A,https://book.douban.com/subject/1449468/blockquotes;http://m.toutiao.com/group/6455080895211684109/
+EJP036,JP04_P1,1935,D6,松下电气器具制作所（个人企业）,松下电器产业株式会社（法人化）,1935年12月松下电气器具制作所改组成立松下电器产业株式会社（法人化）；从个人企业变为股份公司；为后续大规模扩张和全球化奠定组织基础,A,https://book.douban.com/subject/1449468/blockquotes;http://m.toutiao.com/group/6455080895211684109/
+EJP037,JP04_P1,1945,D9,二战期间为日军生产电器（公司扩张）,二战战败（公司被盟军接管，重大挫折）,1945年日本二战战败，松下电器因战时为日军生产被盟军列为受限公司，松下幸之助被整肃（一度被解除社长职务）；公司面临解散危机；后通过工会请愿等方式松下幸之助复职；这是松下电器创业史上最大挫折,A,https://book.douban.com/subject/1449468/blockquotes;http://m.toutiao.com/group/6455080895211684109/
+EJP038,JP04_P1,1961,D6,松下电器产业株式会社社长,退任社长任会长（董事长），松下正治（婿养子）任第二代社长,1961年松下幸之助退任社长转任会长，由女婿平田正治（收为婿养子改名松下正治，东京帝国大学法学部毕业）接任第二代社长；因无亲生儿子采用婿养子继承制；松下幸之助退任后仍作为会长/顾问影响公司经营,A,https://book.douban.com/subject/1449468/blockquotes;https://paper.dzwww.com/shrb/PDF/20120831/A31.pdf
+EJP039,JP05_P1,1945,D1,鹿儿岛市药师町（有印刷作坊的普通家庭）,二战中房屋和印刷作坊被美军炸毁（重大变故）,1945年二战末期鹿儿岛遭美军空袭，稻盛和夫家的房屋和父亲的印刷作坊被炸毁；家庭失去主要生计来源；战后父亲心灰意冷一蹶不振，由母亲卖和服/黑市买卖换食物维持家庭；这是稻盛和夫童年的重大变故,A,http://m.toutiao.com/group/7596123614299046451/;http://m.toutiao.com/group/6862609895024394760/
+EJP040,JP05_P1,1958,D6,松风工业（绝缘子制造，濒临破产企业）技术员,辞职（因领导嫌弃学历太低），后创立京瓷,1958年稻盛和夫在松风工业工作期间，新任领导嫌弃其鹿儿岛大学学历太低（非帝大/旧帝大出身），态度冷淡；稻盛和夫愤而辞职；朝子（后来的妻子）等几位员工追随辞职；这直接促成1959年创立京都陶瓷（京瓷）,A,https://view.inews.qq.com/a/20221128A06WQ600;http://m.toutiao.com/group/7596123614299046451/
+EJP041,JP05_P1,1959,D6,松风工业前技术员（已辞职）,创立京都陶瓷株式会社（京瓷/Kyocera，300万日元，8人创业）,1959年4月（27岁）稻盛和夫以300万日元资本金与7位同事（包括妻子朝子）共同创立京都陶瓷株式会社；从濒临破产企业的技术员转为创业者；京瓷后来成为全球精密陶瓷龙头企业并进入世界500强,A,https://view.inews.qq.com/a/20221128A06WQ600;http://m.toutiao.com/group/7596123614299046451/
+EJP042,JP05_P1,1984,D7,精密陶瓷/电子元件制造（京瓷）,通信行业（创立第二电电株式会社，现KDDI）,1984年日本电信电话公社（NTT）民营化，通信市场开放；稻盛和夫（52岁）判断通信业将有巨大发展，创立第二电电株式会社（DDI）；从精密陶瓷行业进入通信行业；后DDI与KDD、IDO合并为KDDI，成为日本第二大通信公司并进入世界500强,A,https://view.inews.qq.com/a/20221128A06WQ600;http://m.toutiao.com/group/7596123614299046451/
+EJP043,JP05_P1,1997,D9,京瓷/KDDI创始人（企业经营者）,出家（临济宗妙心寺派，法名大和）,1997年（65岁）稻盛和夫在京都临济宗妙心寺派圆福寺出家，法名大和；从企业经营者转为佛门修行者；出家后仍作为京瓷/KDDI名誉会长影响公司；这是日本企业家中罕见的重大人生转折,A,https://view.inews.qq.com/a/20221128A06WQ600;http://m.toutiao.com/group/7596123614299046451/
+EJP044,JP05_P1,2010,D6,京瓷/KDDI名誉会长（已退居二线/出家）,出任日本航空(JAL)会长（重建破产的日航）,2010年1月日本航空(JAL)申请破产保护（日本战后最大破产案之一）；日本政府邀请稻盛和夫（78岁）出任日航会长重建日航；稻盛和夫以零薪酬出任；运用阿米巴经营哲学和会计学改革，仅用2年8个月使日航重建成功并重新上市；这是稻盛和夫人生最后一次重大挑战,A,https://view.inews.qq.com/a/20221128A06WQ600;http://m.toutiao.com/group/7596123614299046451/
+EJP045,JP06_P1,1995,D6,日本兴业银行（现瑞穗银行）职员（哈佛MBA毕业后回行）,辞职创业（成立MDM顾问公司）,1995年1月阪神大地震，三木谷浩史目睹亲友丧生（神户是其故乡），深刻意识到人生无常一切都可能变化；同时在兴业银行工作中感受到日本官僚主导体制的僵化；决定在有生之年试试人生可能性；1995年从兴业银行辞职，11月成立MDM顾问公司；这是三木谷浩史人生的决定性转折,A,http://finance.sina.cn/sa/2013-11-01/detail-iiznezxt2340994.d.html;https://m.jiemian.com/article/350757.html
+EJP046,JP06_P1,1997,D7,管理咨询（MDM顾问公司）,互联网电商（创立乐天市场/Rakuten）,1997年2月三木谷浩史设立乐天市场网络购物商城（企业改名乐天株式会社/Rakuten）；从管理咨询转向互联网电商；乐天从电商平台扩展到搜索引擎、网络旅行社、网络证券金融、通信、棒球/足球俱乐部等多元化生态；成为日本最大电商平台,A,http://finance.sina.cn/sa/2013-11-01/detail-iiznezxt2340994.d.html;https://m.jiemian.com/article/350757.html;https://book.douban.com/subject/5269436/
+EJP047,JP06_P1,2010,D9,日语为工作语言的日本企业,推动乐天内部英语化（Englishnization，重大管理变革）,2010年三木谷浩史宣布乐天集团内部全面英语化（Englishnization），将英语作为公司官方工作语言；员工晋升硬条件之一是TOEIC分数（目标800分以上）；这是日本大企业中罕见的激进管理变革；目的是推动乐天全球化和吸引国际人才；引发日本社会广泛讨论,A,https://m.jiemian.com/article/350757.html;https://book.douban.com/subject/5269436/
+E001,KR01_P2,1936,D6,学生/养病,马山碾米合作厂厂长,父亲资助下首次创业,B,https://m.baike.com/wiki/%E6%9D%8E%E7%A7%89%E5%96%86/4959068
+E002,KR01_P2,1937,D6,碾米厂厂长,破产/失业,日本战时银行回收贷款导致资金链断裂,B,https://m.baike.com/wiki/%E6%9D%8E%E7%A7%89%E5%96%86/4959068
+E003,KR01_P2,1938,D6,失业,三星商会创始人,大邱创立贸易公司，出口果蔬鱼干,B,https://m.baike.com/wiki/%E6%9D%8E%E7%A7%89%E5%96%86/4959068
+E004,KR01_P2,1953,D7,贸易,制糖（第一制糖）,战后进口替代政策，韩国第一家制糖厂,B,https://m.baike.com/wiki/%E6%9D%8E%E7%A7%89%E5%96%86/4959068
+E005,KR01_P2,1954,D7,制糖,纺织（第一毛织）,战后进口替代，韩国第一家毛纺织厂,B,https://m.baike.com/wiki/%E6%9D%8E%E7%A7%89%E5%96%86/4959068
+E006,KR01_P2,1969,D7,纺织/化工,电子（三星电子）,多元化战略，进军电子行业,B,https://m.baike.com/wiki/%E6%9D%8E%E7%A7%89%E5%96%86/4959068
+E007,KR01_P2,1969,D4,长子李孟熙为继承人,三子李健熙为继承人,长子经营不力被废、次子因走私事件被逐出，立三子李健熙,B,https://m.baike.com/wiki/%E6%9D%8E%E5%AD%9F%E7%86%99/4385477
+E008,KR01_P2,1983,D7,电子,半导体,决定进军半导体，投资6亿美元,B,https://m.baike.com/wiki/%E6%9D%8E%E7%A7%89%E5%96%86/4959068
+E009,KR01_P1,1966,D6,学生,东洋广播公司播音员,MBA结业后进入三星旗下媒体,B,https://m.baike.com/wiki/%E6%9D%8E%E5%81%A5%E7%86%99/270013
+E010,KR01_P1,1978,D6,播音员,三星物产副会长,父亲安排进入集团核心管理层,B,https://m.baike.com/wiki/%E6%9D%8E%E5%81%A5%E7%86%99/270013
+E011,KR01_P1,1987,D6,三星物产副会长,三星集团会长,父亲李秉喆去世，接任会长,B,https://m.baike.com/wiki/%E6%9D%8E%E5%81%A5%E7%86%99/270013
+E012,KR01_P1,1993,D7,多元化财阀,品质经营/新经营,法兰克福宣言'除了妻儿一切都要变'，推动三星转型,A,https://m.baike.com/wiki/%E6%9D%8E%E5%81%A5%E7%86%99/270013
+E013,KR01_P1,2005,D4,4子女,3子女（幼女自杀）,幼女李允馨在美国自杀,B,https://m.baike.com/wiki/%E6%9D%8E%E5%81%A5%E7%86%99/270013
+E014,KR02_P1,1935,D6,农民/苦力,米店伙计,离家到京城（首尔）寻找工作,B,https://m.baike.com/wiki/%E9%83%91%E5%91%A8%E6%B0%B8/305755
+E015,KR02_P1,1938,D6,米店伙计,米店老板,接管经营米店,B,https://m.baike.com/wiki/%E9%83%91%E5%91%A8%E6%B0%B8/305755
+E016,KR02_P1,1939,D6,米店老板,失业/关闭,日本战时管制关闭米店,B,https://m.baike.com/wiki/%E9%83%91%E5%91%A8%E6%B0%B8/305755
+E017,KR02_P1,1940,D7,粮食零售,汽车维修（亚道服务）,创立汽车修理厂,B,https://m.baike.com/wiki/%E9%83%91%E5%91%A8%E6%B0%B8/305755
+E018,KR02_P1,1947,D7,汽车维修,建筑（现代土建）,创立现代土建公司，进军建筑业,B,https://m.baike.com/wiki/%E9%83%91%E5%91%A8%E6%B0%B8/305755
+E019,KR02_P1,1967,D7,建筑,汽车制造（现代汽车）,创立现代汽车，进军汽车工业,B,https://m.baike.com/wiki/%E9%83%91%E5%91%A8%E6%B0%B8/305755
+E020,KR02_P1,1987,D6,现代集团会长,名誉会长/让位,将现代汽车经营权让给弟弟郑世永,B,https://m.baike.com/wiki/%E9%83%91%E5%91%A8%E6%B0%B8/305755
+E021,KR03_P4,1947,D6,商人,乐喜化学创始人,创建韩国第一家化学企业,B,https://m.baike.com/wiki/%E5%85%B7%E4%BB%81%E4%BC%9A/5045263
+E022,KR03_P4,1958,D7,化工,电子（金星社）,创立金星社，进军电子行业,B,https://m.baike.com/wiki/%E5%85%B7%E4%BB%81%E4%BC%9A/5045263
+E023,KR03_P2,1950,D6,釜山师范学校教师,乐喜化学理事,父亲指示进入家族企业,B,https://world.huanqiu.com/article/9CaKrnKokkH
+E024,KR03_P2,1970,D6,乐喜化学理事,LG集团第二任会长,父亲具仁会去世后接任,B,https://world.huanqiu.com/article/9CaKrnKokkH
+E025,KR03_P1,1975,D6,学生,乐喜化学经理,阿什兰大学毕业后进入家族企业,B,https://m.baike.com/wiki/%E5%85%B7%E6%9C%AC%E8%8C%82/1524093
+E026,KR03_P1,1980,D7,化工,电子（金星社）,调入金星社任执行理事,B,https://m.baike.com/wiki/%E5%85%B7%E6%9C%AC%E8%8C%82/1524093
+E027,KR03_P1,1995,D6,LG集团管理层,LG集团第三任会长,父亲具滋暻退位，接任会长,B,https://m.baike.com/wiki/%E5%85%B7%E6%9C%AC%E8%8C%82/1524093
+E028,KR03_P1,1995,D7,乐喜金星,LG（国际化品牌）,将集团名称从'乐喜金星'改为'LG'，推动国际化,B,https://m.baike.com/wiki/%E5%85%B7%E6%9C%AC%E8%8C%82/1524093
+E029,KR03_P1,2004,D4,独子（已去世）,养子具光谟为继承人,独子因事故去世，收养胞弟具本绫长子具光谟,B,https://m.baike.com/wiki/%E5%85%B7%E6%9C%AC%E8%8C%82/1524093
+E030,KR04_P2,1973,D6,鲜京集团管理层,SK集团第二任会长,兄长崔钟健去世后接任,B,https://m.baike.com/wiki/%E5%B4%94%E6%B3%B0%E6%BA%90/2145454
+E031,KR04_P1,1988,D5,未婚,已婚（卢素英）,与前总统卢泰愚长女卢素英在青瓦台举行婚礼,B,https://m.baike.com/wiki/%E5%B4%94%E6%B3%B0%E6%BA%90/2145454
+E032,KR04_P1,1998,D6,SK株式会社专务,SK集团第三任会长,父亲崔钟贤去世后接任,B,https://m.baike.com/wiki/%E5%B4%94%E6%B3%B0%E6%BA%90/2145454
+E033,KR04_P1,2003,D9,自由,入狱3年,摩根合同案被判入狱,B,https://m.baike.com/wiki/%E5%B4%94%E6%B3%B0%E6%BA%90/2145454
+E034,KR04_P1,2013,D9,自由,入狱4年,挪用公款、渎职等再被判入狱,B,https://m.baike.com/wiki/%E5%B4%94%E6%B3%B0%E6%BA%90/2145454
+E035,KR04_P1,2015,D9,入狱,特赦出狱,获总统特赦,B,https://m.baike.com/wiki/%E5%B4%94%E6%B3%B0%E6%BA%90/2145454
+E036,KR04_P1,2022,D5,已婚,离婚,法院准予与卢素英离婚,B,https://www.stcn.com/article/detail/3386024.html
+E037,KR04_P1,2026,D8,共同财产,9440亿韩元分割,离婚财产分割重审判9440亿韩元，创韩国纪录,B,https://www.stcn.com/article/detail/3386024.html
+E038,KR05_P1,1979,D6,学生,新世界百货理事,进入三星旗下新世界百货任营业事业本部理事,B,https://m.baike.com/wiki/%E6%9D%8E%E6%98%8E%E7%86%99/23358896
+E039,KR05_P1,1997,D6,新世界百货副总经理,新世界集团会长,将新世界从三星集团分离，独立成立新世界集团,B,https://m.baike.com/wiki/%E6%9D%8E%E6%98%8E%E7%86%99/23358896
+E040,KR05_P1,2005,D8,普通富豪,韩国女首富,成为韩国唯一持股市值超过1万亿韩元的女富豪,B,https://m.thepaper.cn/newsDetail_forward_9710399
+E041,KR06_P5,1932,D6,家庭主妇,山茶发油制作者/销售者,在开城开始制作山茶发油，在昌城商店销售（品牌起源）,B,https://m.jiemian.com/article/2364539.html
+E042,KR06_P2,1945,D6,商店经营者,太平洋商会创始人,将母亲的昌城商店改名太平洋商会并迁至首尔,B,https://m.jiemian.com/article/2364539.html
+E043,KR06_P1,1997,D6,管理层,爱茉莉太平洋集团董事长,接手家族企业经营,B,https://m.baike.com/wiki/%E5%BE%90%E5%BA%86%E5%9F%B9/23214309
+E044,KR06_P1,2015,D8,韩国富豪,福布斯韩国第2位,2015年福布斯韩国富豪榜第2位,B,http://paper.people.com.cn/hqrw/html/2015-06/16/content_1662582.htm
+EY001,US07_P1,1996,D6,对计算机感兴趣的学生,12岁用Atari BASIC编写Zucknet即时通讯程序,父亲牙医诊所需要通讯工具，Zuckerberg 12岁时编写Zucknet供父亲诊所和家庭使用,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY002,US07_P1,约2000,D2,Ardsley High School在读,转学到Phillips Exeter Academy（私立精英预科）,父母为满足Zuckerberg的计算机兴趣，将其从公立Ardsley High转到私立Phillips Exeter；在Exeter获古典文学文凭，任击剑队队长,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY003,US07_P1,约2001,D6,高中生,开发Synapse音乐推荐软件（类似Pandora），AOL和微软均表示收购意向,高中时开发AI音乐推荐软件Synapse，AOL和微软均试图收购或雇佣，Zuckerberg拒绝,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY004,US07_P1,2002,D3,Phillips Exeter Academy毕业,入哈佛大学（心理学+计算机科学双专业）,2002年从Exeter毕业入哈佛，选择心理学+计算机科学双专业（母亲为精神科医生，父亲为技术迷牙医，双专业选择体现家庭影响）,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY005,US07_P1,2003,D4,哈佛学生,在哈佛兄弟会派对认识Priscilla Chan,2003年在哈佛兄弟会派对认识Priscilla Chan（哈佛本科生，后成为儿科医生），开始交往,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY006,US07_P1,2004,D3,哈佛大二在读,从哈佛大学退学（未毕业）,2004年2月创立Facebook后，6月从哈佛退学搬至加州Palo Alto专注公司发展；2017年获哈佛荣誉博士,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY007,US07_P1,2004,D6,哈佛学生/业余开发者,与Moskovitz/Hughes/Saverin共同创立TheFacebook,2004年2月在哈佛宿舍共同创立TheFacebook；6月搬至Palo Alto；2005年获Accel Partners $1270万投资后改名Facebook,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY008,US07_P1,2007,D9,无诉讼,与Winklevoss兄弟的ConnectU诉讼以$6500万和解,Winklevoss兄弟指控Zuckerberg窃取Facebook创意，诉讼以$6500万和解（含现金和Facebook股份）,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY009,US07_P1,2008,D8,百万富翁/千万富翁,23岁成全球最年轻亿万富翁（Forbes估计$139亿）,2008年Forbes估计Zuckerberg身家$139亿，23岁成全球最年轻亿万富翁，也是历年来自主创业的最年轻富豪,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY010,US07_P1,2010,D9,未大规模捐赠,签署Giving Pledge，承诺捐出至少50%财富,2010年12月签署Giving Pledge，承诺捐出至少50%财富；同年被时代周刊评为年度人物,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY011,US07_P1,2012,D6,Facebook私人公司,Facebook IPO（融资$160亿，估值$1040亿）,2012年5月Facebook IPO，融资$160亿，估值$1040亿，为史上最大互联网IPO之一；Zuckerberg持股约28%,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY012,US07_P1,2012,D5,与Priscilla Chan交往（2003起）,与Priscilla Chan结婚（Facebook IPO次日惊喜婚礼）,2012年5月19日（Facebook IPO次日）在Palo Alto自家后院举行惊喜户外婚礼，宾客原以为是庆祝Chan医学院毕业,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY013,US07_P1,2012,D7,仅社交网络（Facebook）,$10亿收购Instagram进入图片社交,2012年4月Facebook以$10亿收购Instagram（当时仅13名员工），后成为超20亿用户的平台,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY014,US07_P1,2014,D7,社交网络+图片社交,$190亿收购WhatsApp进入即时通讯,2014年2月Facebook以$190亿收购WhatsApp，为公司最大收购，后WhatsApp用户接近30亿,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY015,US07_P1,2015,D9,未大规模捐赠,宣布捐出99% Facebook股份（约$450亿）给Chan Zuckerberg Initiative,2015年11月在女儿Max出生时的公开信中宣布，将捐出99% Facebook股份（当时约$450亿）用于改善世界；CZI专注疾病研究、教育和公共卫生,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY016,US07_P1,2018,D9,无重大数据丑闻,剑桥分析数据丑闻（8700万用户数据被滥用）,2018年3月曝光Cambridge Analytica利用约8700万Facebook用户数据进行政治宣传，Facebook股价下跌15%；Zuckerberg出席国会听证,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY017,US07_P1,2021,D6,Facebook公司CEO,Facebook公司更名为Meta，任Meta创始人/董事长/CEO,2021年10月Zuckerberg宣布Facebook公司更名为Meta，聚焦元宇宙和VR/AR；任Meta创始人/董事长/CEO,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY018,US07_P1,2025,D7,社交/元宇宙,宣布Meta年度投资$600亿于AI,2025年1月Zuckerberg宣布Meta将在2025年投资$600亿于AI，包括在路易斯安那州建设400万平方英尺数据中心；Meta推出多个开源AI模型,B,https://www.biography.com/business-leaders/mark-zuckerberg
+EY019,US07_P2,约1970s,D6,牙科学生,成为牙医并在自家住宅开诊所,Edward Zuckerberg从牙科学生成为牙医，在自家住宅开设牙科诊所（当地有名的'无痛牙医'）；通过相亲认识Karen Kempner,B,http://m.toutiao.com/group/6610001489119150600/
+EY020,US08_P1,约1979,D6,普通儿童,6岁起沉迷父亲带回家的工作站，拆解硬件研究,父亲Carl Page（MSU计算机科学教授）带回家的工作站，6岁的Page第一件事是拆解硬件研究工作原理再装回；父亲经常开面包车带全家参加电脑展,B,https://www.biography.com/business-leaders/larry-page
+EY021,US08_P1,1995,D3,密歇根大学工程学学士毕业,入斯坦福大学计算机科学博士,1995年从密歇根大学毕业（工程学学士），入斯坦福大学计算机科学博士项目；在斯坦福遇到Sergey Brin,B,https://www.biography.com/business-leaders/larry-page
+EY022,US08_P1,1996,D6,斯坦福博士生,与Sergey Brin开发BackRub搜索算法（Google前身）,1996-1997年在斯坦福与Sergey Brin共同开发BackRub搜索引擎（基于网页链接Popularity排名），后改名Google,B,https://www.biography.com/business-leaders/larry-page
+EY023,US08_P1,1998,D3,斯坦福博士在读,从斯坦福休学（未完成博士），创立Google,1998年9月从斯坦福休学，与Brin从家人朋友投资者筹集$100万，在车库创立Google公司,B,https://www.biography.com/business-leaders/larry-page
+EY024,US08_P1,2001,D6,Google CEO（1999-2001）,卸任CEO，Eric Schmidt接任，Page任产品总裁,2001年在投资者要求下，Page将CEO职位交给Eric Schmidt（前Novell CTO），自己任产品总裁专注产品,B,https://www.biography.com/business-leaders/larry-page
+EY025,US08_P1,2004,D8,千万富翁/百万富翁,Google IPO，Page和Brin成为亿万富翁,2004年8月Google IPO（纳斯达克，荷兰式拍卖），Page和Brin成为亿万富翁,B,https://www.biography.com/business-leaders/larry-page
+EY026,US08_P1,2006,D7,仅搜索引擎/广告,$16.5亿收购YouTube进入视频分享,2006年Google以$16.5亿股票收购YouTube（当时最大用户原创视频网站）,B,https://www.biography.com/business-leaders/larry-page
+EY027,US08_P1,2007,D5,未婚,与Lucinda Southworth结婚,2007年与研究科学家Lucinda Southworth结婚；Page极度注重隐私，婚礼细节和子女信息不公开,B,https://www.biography.com/business-leaders/larry-page
+EY028,US08_P1,2011,D6,Google产品总裁（2001-2011）,重新任Google CEO,2011年Page重新接任Google CEO（Eric Schmidt转任执行董事长），开始'更多雄心'战略，包括Android、Chrome、Google+等,B,https://www.biography.com/business-leaders/larry-page
+EY029,US08_P1,2015,D6,Google CEO,创立Alphabet（Google母公司），任Alphabet CEO,2015年Page和Brin宣布创立Alphabet作为Google母公司，Page任Alphabet CEO，Sundar Pichai任Google CEO；Alphabet包含Waymo自动驾驶、Verily生命科学、Calico抗衰老等,B,https://www.biography.com/business-leaders/larry-page
+EY030,US08_P1,2018,D9,出席公开活动,拒绝出席参议院情报委员会听证,2018年Page拒绝出席参议院情报委员会关于外国干预选举的听证，引发争议；同时因给被指控性行为不端的高管$9000万离职金而受审视,B,https://www.biography.com/business-leaders/larry-page
+EY031,US08_P1,2019,D6,Alphabet CEO（2015-2019）,卸任Alphabet CEO，留任董事会成员和最大股东,2019年12月3日Page和Brin宣布同时卸任Alphabet CEO和总裁，Sundar Pichai接任Alphabet CEO；Page和Brin保留董事会席位和最大个人股东身份，退居幕后,B,https://www.biography.com/business-leaders/larry-page
+EY032,US08_P1,2026,D8,全球前五富豪,2026年4月成史上第3位身家突破$3000亿的富豪,2026年4月Page身家突破$3000亿，成为继Musk、Ellison之后史上第3位达到此里程碑的富豪；核心驱动力为Alphabet股价上涨（AI业务）；2026年8月约$2920亿（全球第2）,B,https://www.163.com/dy/article/KNOACITN0530UH99.html
+EY033,US08_P2,约1960s,D6,计算机科学学生,成为密歇根州立大学计算机科学教授/AI先驱,Carl Page获得计算机科学博士学位后，成为密歇根州立大学计算机科学教授，为AI领域先驱；与Gloria Page结婚,B,https://www.biography.com/business-leaders/larry-page
+EU07_E001,EU07_P1,1983,D1,-,生于斯德哥尔摩Vantörs教区，Rågsved工薪社区,自然出生,B,https://sv.wikipedia.org/wiki/Daniel_Ek
+EU07_E002,EU07_P1,约1990,D2,普通小学生,小学期间开始学习编程和网站开发,[推断]1990年代瑞典IT热潮+个人兴趣驱动,C,https://sv.wikipedia.org/wiki/Daniel_Ek
+EU07_E003,EU07_P1,约1997,D4,学生,为本地企业制作商业网站，组建小型团队,[推断]编程技能变现+创业意识觉醒,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E004,EU07_P1,1999,D6,16岁高中生,被Google拒绝后决定自创搜索引擎,[推断]被拒后的逆反心理+技术自信,C,https://sv.wikipedia.org/wiki/Daniel_Ek
+EU07_E005,EU07_P1,2000,D4,学生/业余开发者,成为Rågsved青年中心Oasen的互联网搭建者,[推断]社区资源+技术能力展示,C,https://sv.wikipedia.org/wiki/Daniel_Ek
+EU07_E006,EU07_P1,2002,D3,KTH工程物理在读生,辍学全职投入IT行业,第一学年以理论数学为主，与实际技能和创业兴趣不符,B,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E007,EU07_P1,2002,D4,刚辍学的开发者,Jajja CTO→Tradera高级职位,[推断]辍学后需立即获得收入和行业经验,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E008,EU07_P1,2005,D4,Stardoll CTO,创立在线广告公司Advertigo,[推断]积累足够经验和人脉后独立创业,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E009,EU07_P1,2006,D7,Advertigo创始人,出售获数百万瑞典克朗，一度考虑退休,[推断]首次大额变现后的迷茫期,C,https://sv.wikipedia.org/wiki/Daniel_Ek
+EU07_E010,EU07_P1,2006,D6,短暂退休状态,与Martin Lorentzon共同创立Spotify AB,Napster关闭+Kazaa盗版泛滥，意识到需创建比盗版更好且补偿音乐产业的服务,B,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E011,EU07_P1,2008,D4,创业公司创始人,Spotify音乐流媒体服务在瑞典和欧洲正式上线,[推断]与四大唱片公司完成授权谈判,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E012,EU07_P1,2011,D6,欧洲流媒体服务商,通过Sean Parker和Facebook合作进入北美市场,[推断]欧洲市场增长见顶+美国是全球最大音乐市场,C,https://sv.wikipedia.org/wiki/Daniel_Ek
+EU07_E013,EU07_P1,2016,D5,长期伴侣关系,与Sofia Levander在科莫湖结婚,自然婚姻,B,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E014,EU07_P1,2016,D8,Spotify CEO,与Lorentzon联名公开信批评瑞典高税收和住房政策,[推断]瑞典股票期权税制阻碍初创公司吸引人才,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E015,EU07_P1,2018,D7,私有公司CEO,Spotify在纽交所直接上市（DPO），净资产大幅增长,[推断]公司规模达到上市门槛+创始人变现需求,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E016,EU07_P1,2021,D9,Spotify CEO/亿万富豪,出价约18亿英镑收购Arsenal FC被拒,[推断] lifelong球迷身份+财富达到可收购英超俱乐部水平,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E017,EU07_P1,2021,D4,Spotify CEO,与Shakil Khan创立投资公司，承诺10亿美元投资欧洲硬科技,[推断]欧洲缺乏硬科技投资+个人财富多元化,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E018,EU07_P1,2025,D6,Spotify CEO,卸任CEO转任执行董事长，专注资本配置和长期战略,[推断]公司进入成熟期+个人兴趣转向投资和监管事务,C,https://en.wikipedia.org/wiki/Daniel_Ek
+EU07_E019,EU07_P3,约1983-1990,D1,-,在Rågsved独自抚养Daniel Ek,[推断]与Daniel Ek父亲离异或非婚生，具体原因未记载,D,https://sv.wikipedia.org/wiki/Daniel_Ek
+EYJ001,JP07_P1,1993,D2,早稻田实业高中高一全勤优等生,高二组建硬核朋克乐队任鼓手，学业荒废,1993年高二年级时对音乐产生强烈兴趣，组建硬核朋克乐队并担任鼓手；从优等生转向叛逆少年；自述讨厌循规蹈矩的生活,A,https://m.thepaper.cn/newsDetail_forward_7982061;http://www.bigorangemedia.com/12775
+EYJ002,JP07_P1,1994,D3,早稻田实业高中毕业（可直升早稻田大学）,放弃上大学，无高等教育学历,高中毕业后主动放弃早稻田大学直升资格；自述每天搭电车上学时看到郁郁寡欢的上班族，决定永远不要像他们一样；家人要求至少念到高中毕业，但不要求上大学；这是罕见的反精英路径选择,A,https://m.thepaper.cn/newsDetail_forward_7982061;http://world.people.com.cn/n1/2018/0921/c1002-30308589.html;https://user.guancha.cn/wap/content?id=1244281
+EYJ003,JP07_P1,1995,D6,无业/高中毕业生（美国游学后）,开始从事进口CD/唱片邮购业务（个人经营）,1995年（20岁）利用自己对音乐的兴趣和商业头脑，开始从事进口CD/唱片的邮购业务；这是创业起点；从音乐爱好者转向小商人,A,https://corp.zozo.com/about/history/;https://baike.weixin.qq.com/v176241360.htm?baike_inner=relationship;https://m.thepaper.cn/newsDetail_forward_7982061
+EYJ004,JP07_P1,1998,D6,个人邮购业务（未公司化）,成立有限会社Start Today（公司化）,1998年5月正式成立有限会社スタート・トゥデイ（Start Today Ltd.），以进口CD/唱片的目录邮购为业务；从个人经营转向公司化运营；为后续电商转型奠定基础,A,https://corp.zozo.com/about/history/;https://baike.weixin.qq.com/v176241360.htm?baike_inner=relationship
+EYJ005,JP07_P1,2004,D7,进口CD/唱片邮购+网络时尚买手店（音乐零售为主）,推出ZOZOTOWN综合时尚电商平台（服装零售为主）,2000-2004年间Start Today共开设17家不同风格的网络时尚买手店；2004年将这些店铺整合成综合服装电商网站ZOZOTOWN；从音乐零售转向时尚电商为决定性行业变迁；ZOZOTOWN后来成为日本最大时尚电商平台,A,https://m.thepaper.cn/newsDetail_forward_7982061;https://corp.zozo.com/about/history/;https://baike.weixin.qq.com/v176241360.htm?baike_inner=relationship
+EYJ006,JP07_P1,2010,D8,非上市公司创始人/经营者,上市公司CEO（东证Mothers上市）,2010年Start Today在东京证券交易所Mothers指数上市；六年后（2012年）升东证一部；上市使前泽友作财富大幅增长，成为日本富豪榜年轻成员,B,https://corp.zozo.com/about/history/;https://cosmos.wikisort.org/cosmonaut/en/Cosmonaut/Yusaku_Maezawa
+EYJ007,JP07_P1,2018,D9,企业家/电商CEO,签约SpaceX星舰绕月旅行（dearMoon项目，首位私人乘客）,2018年宣布与SpaceX签约，成为首位乘坐星舰（Starship）绕月飞行的私人乘客；计划带领8位艺术家同行（dearMoon项目）；这是全球瞩目的重大公众事件；前泽因此成为国际知名人物,A,http://world.people.com.cn/n1/2018/0921/c1002-30308589.html;https://www.whb.cn/zhuzhan/huanqiu/20180918/213516.html;https://m.baike.com/wiki/%E5%89%8D%E6%B3%BD%E5%8F%8B%E4%BD%9C/11889338
+EYJ008,JP07_P1,2019,D6,ZOZO/Start Today代表董事社长（经营者）,出售ZOZO给雅虎日本，退出经营（转向艺术收藏/投资）,2019年9月雅虎日本（现LINE Yahoo）宣布收购ZOZO；前泽友作出售约30%股份（约9200万股），获得约2400亿日元（约37亿美元）；从企业经营者转向全职艺术收藏家、投资人和社会媒体名人；这是重大职业和财富变现事件,A,https://nen-syu.com/maezawa-yusaku-income-2026/;https://m.baike.com/wiki/%E5%89%8D%E6%B3%BD%E5%8F%8B%E4%BD%9C/11889338;https://m.thepaper.cn/newsDetail_forward_7982061
+EYJ009,JP07_P1,2024,D9,SpaceX绕月旅行计划进行中（dearMoon）,宣布取消绕月旅行计划,2024年6月前泽友作宣布取消SpaceX星舰绕月旅行计划；原计划2023年出发但一再延后，短期内无明确时间表；2018年签约的费用未能收回；从积极推进太空旅行转向放弃,A,https://user.guancha.cn/wap/content?id=1244281;https://www.iesdouyin.com/share/video/7377314594227817769
+EYJ010,JP08_P1,1996,D9,日本大学法学部学生（未接触互联网）,访美时首次接触互联网（重大启蒙）,1996年田中良和访美时首次接触互联网；从此对硅谷和互联网动态高度关注；这是其后来从事互联网创业的关键启蒙事件；从法学学生转向互联网爱好者,A,http://paper.people.com.cn/rmrbhwb/html/2020-05/01/content_1984867.htm;https://m.huanqiu.com/article/9CaKrnJAdE0
+EYJ011,JP08_P1,1999,D6,日本大学法学部应届毕业生（法学专业）,入职索尼通信网络公司（从法学转向互联网行业）,1999年日本大学法学部毕业后入职索尼通信网络公司（Sony Communication Network，现So-net）；非计算机专业出身，在索尼工作期间自学编程和网站开发；从法学专业转向互联网行业为重大职业转折,A,https://m.baike.com/wiki/%E7%94%B0%E4%B8%AD%E8%89%AF%E5%92%8C/2623451;https://m.techweb.com.cn/article/2011-04-25/1023922.shtml;https://theorg.com/org/gree-inc/org-chart/yoshikazu-tanaka
+EYJ012,JP08_P1,2000,D6,索尼通信网络公司员工（大企业ISP）,加入乐天（Rakuten，创业型电商公司）,2000年离开索尼加入乐天公司；自述需要进入一个具有初创企业环境和文化的大公司，学习如何经营企业；在乐天工作4年，管理在线产品评论、博客等产品；从大企业转向创业型公司为重要学习阶段,A,http://paper.people.com.cn/rmrbhwb/html/2020-05/01/content_1984867.htm;https://m.yicai.com/news/2716684.html;https://m.techweb.com.cn/article/2011-04-25/1023922.shtml
+EYJ013,JP08_P1,2003,D6,乐天公司员工（全职）,业余时间开始开发GREE社交网站（副业创业）,2003年（26岁）受美国Friendster等社交网站启发，开始在业余时间开发GREE社交网站；GREE命名灵感来自美国社会心理学家斯坦利·米尔格拉姆的六度分隔理论；从全职雇员转向业余创业者；这是创业起点,A,https://m.baike.com/wiki/%E7%94%B0%E4%B8%AD%E8%89%AF%E5%92%8C/2623451;https://m.yicai.com/news/2716684.html;https://www.forbeschina.com/lists/441
+EYJ014,JP08_P1,2004,D6,乐天公司员工（全职）+GREE个人网站运营,从乐天辞职，创立GREE株式会社（正式创业）,2004年2月GREE作为个人网站对外开放，3月用户数即超过1万；迅速增长的用户数促使田中良和在2004年10月从乐天辞职，12月正式创立GREE株式会社并任总裁；从雇员转为创业者为决定性人生转折；当时年仅27岁,A,https://m.baike.com/wiki/%E7%94%B0%E4%B8%AD%E8%89%AF%E5%92%8C/2623451;https://m.techweb.com.cn/article/2011-04-25/1023922.shtml;https://theorg.com/org/gree-inc/org-chart/yoshikazu-tanaka
+EYJ015,JP08_P1,2007,D7,社交网络服务（SNS，用户交流平台）,手机社交游戏（全球先驱，社交游戏平台）,2007年田中良和带领GREE推出手机社交游戏，成为全球手机社交游戏的先驱；从纯社交网络转向社交游戏平台为重大产品/行业变迁；GREE借此实现爆发式增长，在日本年轻人中拥有极高人气,A,https://m.baike.com/wiki/%E7%94%B0%E4%B8%AD%E8%89%AF%E5%92%8C/2623451;https://www.gameres.com/844654.html;https://m.huanqiu.com/article/9CaKrnJAdE0
+EYJ016,JP08_P1,2010,D8,非上市公司创始人/CEO,上市公司CEO（东证上市），33岁成亚洲最年轻白手起家亿万富翁,2010年GREE在东京证券交易所上市；同年（33岁）田中良和被评为35岁以下亚洲最年轻白手起家亿万富翁；2011年财富达22亿美元（福布斯）；上市使其成为日本富豪榜最年轻成员之一,A,http://paper.people.com.cn/rmrbhwb/html/2020-05/01/content_1984867.htm;https://www.forbeschina.com/lists/441;http://japan.people.com.cn/n/2015/0304/c35463-26635345-22.html
+EYJ017,JP08_P1,2011,D7,日本国内社交游戏平台,全球化扩张（收购美国OpenFeint、与腾讯合作）,2011年GREE收购美国移动游戏公司OpenFeint，并与中国最大门户网站腾讯展开合作；从日本国内市场转向全球化扩张；目标是超越来自海外的竞争对手（如Facebook）；在全球扩张方面与腾讯携手合作,A,https://www.forbeschina.com/lists/441;https://m.yicai.com/news/2716684.html
+YE001,KR07_P1,2004,D4,具本绫长子（家族边缘）,具本茂养子+集团接班人,具本茂独子因车祸去世，恪守长子继承传统，将胞弟具本绫长子具光谟收为养子并指定为接班人,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914;https://m.sohu.com/a/232661469_788222/
+YE002,KR07_P1,2006,D6,学生（罗切斯特理工毕业）,LG电子高级经理,继承人培养起点，进入LG电子学习企业经营,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914;https://china.huanqiu.com/article/9CaKrnKePDG
+YE003,KR07_P1,2007,D3,LG电子在职,斯坦福大学商学院硕士在读,考入斯坦福大学商学院深造，提升经营管理能力,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914;https://china.huanqiu.com/article/9CaKrnKePDG
+YE004,KR07_P1,2008,D6,斯坦福商学院在读,硅谷初创企业员工（约1年）,中途中断斯坦福学业，进入硅谷初创企业工作一年，获取外部科技创业经验,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914;https://china.huanqiu.com/article/9CaKrnKePDG
+YE005,KR07_P1,2009,D6,硅谷初创企业,LG集团美国新泽西法人（HE事业本部）,完成斯坦福学业后返回LG，在美国新泽西法人负责电视机业务（HE事业本部），积累海外业务经验,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE006,KR07_P1,约2012,D6,HE事业本部（电视）,H&A事业本部（白色家电）,从电视业务调往白色家电业务（H&A事业本部），全面了解LG家电业务,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE007,KR07_P1,2014,D6,美国新泽西法人H&A事业本部,LG集团经营战略组常务,晋升为LG集团经营战略组常务，进入集团核心战略决策层,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914;https://m.nbd.com.cn/articles/2018-11-14/1272451.html
+YE008,KR07_P1,2015,D6,经营战略组常务,LG Synergy团队常务董事,晋升为LG Synergy团队常务董事，负责集团子公司间协同整合,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE009,KR07_P1,2018,D6,LG Synergy常务董事,LG电子B2B事业本部情报显示器部门部长,担任LG电子B2B事业本部情报显示器部门部长，积累B2B业务一线经验，为接班做最后准备,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE010,KR07_P1,2018,D6,LG电子B2B部长,LG集团会长（第四代）,养父具本茂2018年5月去世，6月具光谟正式就任LG集团会长，开启第四代经营时代,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914;https://china.huanqiu.com/article/9CaKrnKePDG
+YE011,KR07_P1,2018,D7,传统家电/电子为主,引进外部高管+多元化治理,LG化学首次从外部引进高管（原3M首席副董事长辛学喆任副董事长），打破家族内部晋升传统,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE012,KR07_P1,2020,D7,LG化学（含电池业务）,LG新能源独立拆分,2020年12月1日LG新能源成立，从LG化学拆分电池业务，聚焦新能源电池,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE013,KR07_P1,2022,D8,未上市,LG新能源上市（韩国史上最大IPO）,2022年1月27日LG新能源在韩交所上市，募资680亿人民币，上市首日暴涨99%，市值一度达7500亿人民币，成为韩国第三大上市公司,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE014,KR07_P1,2022,D7,传统制造,清洁技术投资,决定5年内投资超2万亿韩元于生物材料、废塑料、废电池回收等环保清洁技术领域,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914
+YE015,KR07_P1,2024,D4,养子继承关系稳定,生父具本绫遗产纠纷,曝出具光谟与生父具本绫联合诈取LG集团遗产的家族纠纷，养子继承的特殊性引发关注,B,https://news.qq.com/rain/a/20240111A00B5U00
+YE016,KR07_P2,1972,D5,未婚,已婚（金英植）,与韩国前保障社会部长官金太东的女儿金英植结婚，财阀-政界联姻典型案例,B,https://m.baike.com/wiki/%E5%85%B7%E6%9C%AC%E8%8C%82/1524093
+YE017,KR07_P2,1995,D6,LG集团管理层,LG集团第三任会长,父亲具滋暻退位，具本茂接任LG集团会长，同年将集团名称从'乐喜金星'改为'LG',B,https://m.baike.com/wiki/%E5%85%B7%E6%9C%AC%E8%8C%82/1524093
+YE018,KR07_P2,2004,D4,独子（已去世）,养子具光谟为继承人,独子因车祸去世后，将胞弟具本绫长子具光谟收为养子并指定为集团接班人,B,https://m.baike.com/wiki/%E5%85%B7%E5%85%89%E8%B0%9F/20740914;https://m.sohu.com/a/232661469_788222/
+EV001,US09_P1,1999,D3,Niskayuna High School毕业,入罗德岛设计学院(RISD)学工业设计,高中老师发现艺术才能并鼓励追寻艺术之路；Chesky崇拜Norman Rockwell，选择工业设计而非传统大学,B,https://book.douban.com/subject/26821943/
+EV002,US09_P1,2004,D6,RISD学生,洛杉矶任工业设计师,2004年RISD工业设计BFA毕业，在洛杉矶找到工业设计师工作；父母认为他会回老家可能卖保险,B,http://m.toutiao.com/group/6699599973891179021/
+EV003,US09_P1,2007,D6,洛杉矶工业设计师,辞职，带$1000储蓄搬至旧金山找Joe Gebbia,对工业设计工作不满，大学同学Joe Gebbia邀请搬至旧金山；辞职时仅$1000储蓄,B,https://juejin.cn/post/6844903424455081991
+EV004,US09_P1,2007,D6,旧金山失业/交不起房租,与Gebbia在公寓放气垫床开'AirBed & Breakfast',2007年旧金山设计大会期间酒店满房，Chesky和Gebbia交不起房租，决定在公寓放气垫床提供住宿+早餐，Airbnb雏形诞生,B,https://juejin.cn/post/6844903424455081991
+EV005,US09_P1,2008,D6,气垫床早餐实验,与Gebbia、Blecharczyk正式创立Airbnb,2008年正式将AirBed & Breakfast转型为Airbnb平台；创业初期靠卖竞选主题麦片(Obama O's/Cap'n McCain's)筹集资金,B,https://juejin.cn/post/6844903424455081991
+EV006,US09_P1,2009,D6,Airbnb初创公司,获Y Combinator投资,2009年Airbnb加入Y Combinator孵化器，获得种子投资和创业指导；Paul Graham建议聚焦纽约市场,B,https://tech.sina.cn/2017-07-25/detail-ifyihrwk2307007.d.html
+EV007,US09_P1,2015,D9,Airbnb CEO,奥巴马任命为全球企业家总统大使,2015年奥巴马政府任命Chesky为Presidential Ambassador for Global Entrepreneurship，代表美国企业家精神,B,http://m.toutiao.com/group/6267084170948034818/
+EV008,US09_P1,2020,D8,亿万富翁（私有公司估值）,Airbnb IPO，财富大幅增长,2020年12月Airbnb在纳斯达克IPO，首日股价翻倍，估值超$1000亿；Chesky持约11-13%股份，财富大幅增长,B,https://tech.sina.cn/2017-07-25/detail-ifyihrwk2307007.d.html
+EV009,US10_P1,2002,D3,Middlesex School毕业,入斯坦福大学管理科学与工程系,2002年从私立寄宿学校Middlesex School毕业，入斯坦福大学选择管理科学与工程专业（而非纯计算机科学），可能与父母商业背景有关,B,https://m.jiemian.com/article/2506442.html
+EV010,US10_P1,2006,D6,斯坦福毕业,加入Google任产品营销经理,2006年斯坦福毕业后加入Google，负责Gmail/Google Calendar/Docs/Reader等产品的产品营销；工作约2年,B,https://m.baike.com/wiki/%E5%87%AF%E6%96%87%C2%B7%E6%96%AF%E7%89%B9%E7%BD%97%E5%A7%86/4451786
+EV011,US10_P1,2008,D6,Google产品营销经理,离职创业（因未能进入Google APM项目）,在Google工作约2年后，因未能进入Google的associate product manager(APM)项目而感到挫败，决定离职创业,B,https://m.baike.com/wiki/%E5%87%AF%E6%96%87%C2%B7%E6%96%AF%E7%89%B9%E7%BD%97%E5%A7%86/4451786
+EV012,US10_P1,2009,D6,离职创业,创立Burbn（基于位置的社交应用）,2009年创立Burbn，结合Foursquare的位置签到+社交游戏元素；获得天使投资,B,https://m.baike.com/wiki/%E5%87%AF%E6%96%87%C2%B7%E6%96%AF%E7%89%B9%E7%BD%97%E5%A7%86/4451786
+EV013,US10_P1,2010,D6,Burbn创始人,与Mike Krieger将Burbn转型为Instagram,2010年与Mike Krieger分析Burbn使用数据，发现用户最爱的功能是照片分享，决定将Burbn转型为纯照片分享应用Instagram；2010年10月上线,B,https://m.jiemian.com/article/2498655.html
+EV014,US10_P1,2012,D6,Instagram独立公司CEO,以$10亿将Instagram卖给Facebook,2012年4月Facebook以$10亿（现金+股票）收购Instagram（仅13名员工），Systrom继续任Instagram CEO；这是Facebook历史上关键收购之一,B,https://m.jiemian.com/article/2498655.html
+EV015,US10_P1,2018,D6,Instagram CEO（Facebook旗下）,与Mike Krieger一同离开Facebook/Instagram,2018年9月Systrom与联合创始人Mike Krieger宣布离开Facebook/Instagram，据传与Zuckerberg在产品方向上存在分歧,B,https://m.jiemian.com/article/2498655.html
+EV016,US11_P1,2002,D3,佛罗里达高中毕业,入哈佛大学经济学专业,2002年从佛罗里达高中毕业，入哈佛大学选择经济学专业（而非计算机科学）；父亲精神科医生+母亲教师的专业人士家庭背景,B,https://m.baike.com/wiki/%E8%BE%BE%E6%96%AF%E6%B1%80%C2%B7%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BB%B4%E8%8C%A8/2676696
+EV017,US11_P1,2004,D4,哈佛大二学生,与Mark Zuckerberg同住一间寝室（随机分配）,2004年初哈佛大二时，Moskovitz与Mark Zuckerberg、Chris Hughes、Bill Olsen同住一间寝室（随机分配）；'刚开始不过是因为我坐在了扎克伯格的旁边',B,http://m.toutiao.com/group/3922805129/
+EV018,US11_P1,2004,D6,哈佛经济学学生,与Zuckerberg共同创立Facebook（第3号员工）,2004年2月与Zuckerberg、Hughes、Saverin共同创立Facebook；Moskovitz主要负责技术编程和后台运营，为Facebook第3号员工,B,https://m.baike.com/wiki/%E8%BE%BE%E6%96%AF%E6%B1%80%C2%B7%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BB%B4%E8%8C%A8/2676696
+EV019,US11_P1,2004,D3,哈佛大二在读,从哈佛退学，搬至Palo Alto,2004年6月从哈佛退学（经济学专业未毕业），随Facebook团队搬至加州Palo Alto专注公司发展,B,https://m.baike.com/wiki/%E8%BE%BE%E6%96%AF%E6%B1%80%C2%B7%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BB%B4%E8%8C%A8/2676696
+EV020,US11_P1,2008,D6,Facebook CTO/工程副总裁,离开Facebook，保留约8%股份,2008年离开Facebook（保留略高于8%的股份），与前Facebook工程师Justin Rosenstein共同创立Asana；离开原因：希望做更通用的生产力工具,B,http://m.toutiao.com/group/7565815817481241107/
+EV021,US11_P1,2008,D6,离开Facebook,与Justin Rosenstein创立Asana,2008年与Justin Rosenstein共同创立Asana（团队协作/工作管理SaaS平台），任CEO；目标是改善团队协作方式,B,https://m.baike.com/wiki/%E8%BE%BE%E6%96%AF%E6%B1%80%C2%B7%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BB%B4%E8%8C%A8/2676696
+EV022,US11_P1,2012,D8,千万富翁/亿万富翁（私有股份）,Facebook IPO，财富暴增,2012年5月Facebook IPO，Moskovitz持有的约8%股份价值暴增，成为亿万富翁；曾是全球最年轻白手起家亿万富翁（比Zuckerberg小8天）,B,http://m.toutiao.com/group/6267084170948034818/
+EV023,US11_P1,2020,D8,亿万富翁（Facebook股份+私有Asana）,Asana IPO，财富进一步增长,2020年Asana在纽交所IPO，Moskovitz财富进一步增长；2025年Forbes估计约$120亿,B,http://m.toutiao.com/group/7565764354830844454/
+EUY_E001,EU08_P1,1979,D1,-,生于斯德哥尔摩，父亲铁路工人/母亲护士,自然出生,B,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E002,EU08_P1,约1986,D1,完整家庭,7岁父母离异，随母亲和妹妹生活，父亲搬至乡下,[推断]父亲精神疾病和酗酒导致婚姻破裂,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E003,EU08_P1,约1986,D2,Edsbyn小学生,搬回斯德哥尔摩继续小学，开始在父亲Commodore 128上学编程,[推断]离异后家庭搬迁+父亲技术启蒙,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E004,EU08_P1,约1987,D4,学生,8岁制作第一个游戏（文字冒险）,[推断]编程技能积累+个人兴趣,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E005,EU08_P1,约1994,D3,初中生,15岁开始学习平面设计（教师建议而非游戏开发）,[推断]教师认为平面设计比游戏开发更有就业前景,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E006,EU08_P1,约1998,D3,高中学生,高中未毕业即进入职场，任网页设计师,[推断]对传统教育失去兴趣+编程技能足以就业,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E007,EU08_P1,2004,D4,网页设计师/Game Federation,加入Midasplayer（King）任Flash游戏开发者,[推断]游戏行业经验积累+稳定收入需求,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E008,EU08_P1,2009,D6,jAlbum程序员,受Infiniminer启发，5月17日在TIGSource发布Minecraft Classic版,Infiniminer开源项目展示了体素沙盒游戏的潜力,B,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E009,EU08_P1,2009,D4,jAlbum程序员,创立Mojang Studios，全职开发Minecraft,[推断]Minecraft早期成功带来收入信心,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E010,EU08_P1,2010,D6,Mojang创始人,拒绝Valve工作邀约，继续Minecraft开发,[推断]Minecraft增长势头良好+独立创业意愿,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E011,EU08_P1,2011,D6,Minecraft首席开发者,Minecraft正式发售，销量超400万，将创作权移交Jens Bergensten,[推断]厌倦日常开发管理+想尝试新项目,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E012,EU08_P1,2011,D5,单身,与Elin Zetterstrand结婚,自然婚姻,B,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E013,EU08_P1,2012,D5,已婚,与Elin Zetterstrand离婚（婚姻持续约1年）,[推断]无法考证具体原因,D,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E014,EU08_P1,2014,D7,Mojang CEO/亿万富豪,9月宣布离开Mojang，11月以25亿美元卖给微软，获约18亿美元,无法承受媒体关注和公众压力，'我不是企业家/CEO，我是程序员',B,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E015,EU08_P1,2016,D9,亿万富豪/公众人物,因Twitter争议言论（女权、种族、跨性别）成为两极化人物,[推断]出售公司后心理状态变化+社交媒体使用习惯,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E016,EU08_P2,约1986,D5,已婚（育有两子）,与妻子Ritva离异，搬至乡下小屋,[推断]抑郁症/酗酒/药物滥用导致婚姻破裂,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E017,EU08_P2,未记载,D9,铁路工人,因抢劫入狱,[推断]精神疾病和酗酒导致犯罪行为,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E018,EU08_P3,约1986,D1,已婚护士,离异成为单亲母亲，从Edsbyn搬回斯德哥尔摩抚养两子,[推断]丈夫精神疾病和酗酒导致婚姻破裂,C,https://en.wikipedia.org/wiki/Markus_Persson
+EUY_E019,EU09_P1,1984,D1,-,生于苏联Dolgoprudny，父亲Gazprom物理学家/工程师,自然出生,B,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E020,EU09_P1,约1990,D2,幼儿,6岁开始阅读经济学和商业书籍,[推断]知识分子家庭环境熏陶+个人早熟兴趣,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E021,EU09_P1,约1990s,D9,学生,开始练习拳击和游泳,[推断]苏联体育文化+个人兴趣,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E022,EU09_P1,2007,D3,学生,获MIPT应用物理硕士+NES应用经济与金融硕士（双硕士）,[推断]科学家庭背景+个人学术能力,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E023,EU09_P1,2006,D4,在读研究生,移居英国伦敦，任Lehman Brothers股票衍生品交易员,[推断]苏联解体后俄罗斯人才外流+伦敦金融中心机会,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E024,EU09_P1,2008,D4,Lehman Brothers交易员,Lehman Brothers破产，转投Credit Suisse任交易员,Lehman Brothers 2008年9月破产（全球金融危机）,B,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E025,EU09_P1,2013,D6,Credit Suisse交易员,离开Credit Suisse，12月创立Revolut Ltd，自投30万英镑,旅行中遇到的跨境支付手续费和汇率不公问题,B,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E026,EU09_P1,2015,D4,Revolut创始人,7月Revolut应用正式上线（多币种卡）,[推断]产品开发完成+市场测试通过,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E027,EU09_P1,2017,D6,金融科技创业公司,获英国电子货币牌照，业务扩展,[推断]公司规模达到监管门槛+需要牌照扩展业务,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E028,EU09_P1,2021,D7,Revolut CEO,Revolut成为英国最有价值金融科技公司（估值330亿美元）,[推断]疫情加速数字化金融+用户增长,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E029,EU09_P1,2022,D9,俄罗斯/英国双重国籍,公开谴责俄罗斯入侵乌克兰，放弃俄罗斯国籍,俄罗斯2022年2月全面入侵乌克兰，父亲为乌克兰人,B,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E030,EU09_P1,2023,D4,Revolut CEO,创立QuantumLight风投公司（AI驱动投资分析）,[推断]个人财富增长+欧洲硬科技投资机会,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E031,EU09_P1,2024,D6,金融科技公司,7月获英国限制性银行牌照（PRA/FCA批准）,[推断]多年监管申请+公司合规体系成熟,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E032,EU09_P1,2025,D9,英国居民,10月将官方居住地从英国迁至阿联酋（避税）,英国废除non-dom税务身份+高资本利得税,B,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E033,EU09_P1,2025,D7,Revolut CEO/股东,10月Revolut估值达750亿美元（30亿美元融资），成为欧洲最有价值私营公司,[推断]全球金融科技增长+Revolut用户达5000万,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E034,EU09_P1,2026,D6,限制性银行牌照,3月获英国完整银行牌照，存款受FSCS保护（12万英镑以下）,[推断]mobilisation阶段完成+监管机构确认运营就绪,C,https://en.wikipedia.org/wiki/Nik_Storonsky
+EUY_E035,EU09_P2,2017,D4,Gazprom体系科学家,任Gazprom Promgaz科学副总监+天然气研究所第一副科学总监,[推断]职业晋升+学术成就认可,C,https://fintechmagazine.com/banking/Fintech-trailblazer-Nikolay-Storonsky-Revoluts-dynamic-CEO
+EYJ018,JP09_P1,1996,D3,东京大学文学部在读（原定专攻宗教学）,从东京大学辍学（无大学学位）,1996年在东京大学读书期间与同学集资600万日元（从女朋友父亲处借入）创立网页制作公司Livin' on the Edge；决定放弃东京大学学位全力创业；从精英学术路径转向互联网创业，是重大人生转折,A,https://www.questionai.com/knowledge/k8EkWPhQ6b-takafumi-horie;http://epaper.gmw.cn/zhdsb/html/2017-09/06/nw.D110000zhdsb_20170906_3-04.htm;https://m.cj.sina.cn/page/aHR0cDovL2ZpbmFuY2Uuc2luYS5jb20uY24vcm9sbC8yMDEwMDgyMC8yMjQwODUyMTEzMS5zaHRtbA
+EYJ019,JP09_P1,1996,D6,东京大学学生（无业/创业准备）,创立Livin' on the Edge（网页制作公司，600万日元起步）,1996年从女朋友父亲处借600万日元原始资本，在东京六本木一间7坪潮湿阴冷小屋中创立网页制作公司Livin' on the Edge（意为'生活在边缘'，活力门前身）；从学生转为创业者；这是创业起点,A,https://m.cj.sina.cn/page/aHR0cDovL2ZpbmFuY2Uuc2luYS5jb20uY24vcm9sbC8yMDEwMDgyMC8yMjQwODUyMTEzMS5zaHRtbA;https://news.sina.com.cn/w/2006-01-20/14278038341s.shtml;http://epaper.gmw.cn/zhdsb/html/2017-09/06/nw.D110000zhdsb_20170906_3-04.htm
+EYJ020,JP09_P1,2000,D8,非上市公司创始人/经营者,上市公司CEO（东证Mothers上市），28岁成亿万富翁,2000年Livin' on the Edge在东京证券交易所Mothers指数上市；上市使堀江贵文在28岁时成为亿万富翁；从初创公司经营者变为上市公司CEO；这是财富和地位的重大跃升,A,http://epaper.gmw.cn/zhdsb/html/2017-09/06/nw.D110000zhdsb_20170906_3-04.htm;https://news.sina.com.cn/w/2006-01-20/14278038341s.shtml
+EYJ021,JP09_P1,2004,D7,网页制作/互联网服务（Livin' on the Edge）,互联网门户/媒体（收购Livedoor作为主体公司）,2004年收购当时经营不善的Livedoor（活力门），并将其作为主体公司；从网页制作/互联网服务转向互联网门户/媒体；通过大规模并购（20次收购狂潮，44家子公司）快速扩张；2002年9月销售额59亿日元，2003年108亿日元，2005年达784亿日元,A,https://news.sina.com.cn/w/2006-01-20/14278038341s.shtml;https://www.iesdouyin.com/share/video/6850766734840925447
+EYJ022,JP09_P1,2005,D9,互联网企业家（亿万富翁）,试图收购日本放送（挑战日本财界传统秩序）,2005年活力门试图通过大量购买股票收购日本放送（富士电视台旗下），震动日本财界和传统媒体；这是对日本'财团-媒体-政官'传统秩序的直接挑战；堀江贵文因此成为日本最具争议的企业家；同年公司市值膨胀5万倍达约30亿美元（33岁）,A,https://news.sina.com.cn/w/2006-01-20/14278038341s.shtml;http://epaper.gmw.cn/zhdsb/html/2017-09/06/nw.D110000zhdsb_20170906_3-04.htm;https://m.baike.com/wiki/%E6%B4%BB%E5%8A%9B%E9%97%A8%E4%BA%8B%E4%BB%B6/5066460
+EYJ023,JP09_P1,2006,D6,活力门CEO（亿万富翁，日本最具影响力企业家之一）,被逮捕/辞去CEO（从亿万富翁到阶下囚，重大断裂）,2006年1月16日活力门办公室被东京地方检察厅突击搜查；1月23日堀江贵文因涉嫌违反《证券交易法》（做假账、披露虚假信息）被正式逮捕；1月24日宣布辞去CEO；公司资产从1万亿日元缩水到4000亿日元，日经指数大跌；这是日本战后最具影响力的商业丑闻（活力门事件），导致东证社长辞职,A,https://m.baike.com/wiki/%E6%B4%BB%E5%8A%9B%E9%97%A8%E4%BA%8B%E4%BB%B6/5066460;https://news.sina.com.cn/w/2006-01-20/14278038341s.shtml;https://news.cctv.com/world/20070327/103046.shtml
+EYJ024,JP09_P1,2007,D9,被逮捕/保释中（2006年4月以3亿日元保释）,被判处有期徒刑2年6个月（实刑）,2007年3月16日东京地方法院以违反《证券交易法》为由判处堀江贵文有期徒刑2年6个月（实刑，非缓刑）；堀江当庭表示不服并上诉；从保释自由人到被判处实刑，是重大法律挫折；逮捕后94天内体重减少15kg,A,https://news.cctv.com/world/20070327/103046.shtml;https://financie-times.com/column/horiemon/
+EYJ025,JP09_P1,2011,D6,上诉期间（自由/限制活动）,开始服刑（入狱）,2011年上诉审判决确定，堀江贵文开始服刑（实际入狱）；从2006年被逮捕到2011年实际入狱，经历了5年的司法程序；入狱是职业和人生的最低点,A,https://financie-times.com/column/horiemon/;https://m.cj.sina.cn/page/aHR0cDovL2ZpbmFuY2Uuc2luYS5jb20uY24vcm9sbC8yMDEwMDgyMC8yMjQwODUyMTEzMS5zaHRtbA
+EYJ026,JP09_P1,2013,D6,服刑中（囚犯）,假释出狱（重大重建起点）,2013年堀江贵文假释出狱（服刑约2年）；从囚犯重新回归社会；出狱后转型为实业家、著作家、YouTuber、太空旅游倡导者，经营多家企业；从'日本最具争议企业家'到'多元内容创作者'的重建；这是断裂-重建路径的关键转折点,A,https://financie-times.com/column/horiemon/;https://m.cj.sina.cn/page/aHR0cDovL2ZpbmFuY2Uuc2luYS5jb20uY24vcm9sbC8yMDEwMDgyMC8yMjQwODUyMTEzMS5zaHRtbA;http://epaper.gmw.cn/zhdsb/html/2017-09/06/nw.D110000zhdsb_20170906_3-04.htm
+EYJ027,JP10_P1,1997,D6,东京大学经济学部在读学生,创立Find Job!（IT招聘网站，在读期间创业）,1997年11月（22岁）笠原健治在东京大学读书期间创立IT系招聘网站Find Job!；大学期间从对政治的兴趣转向经济/互联网；从学生转为创业者；这是创业起点,A,http://paper.people.com.cn/rmrbhwb/html/2019-11/29/content_1958924.htm;https://m.jiemian.com/article/3342925.html;https://m.baike.com/wiki/%E7%AC%A0%E5%8E%9F%E5%81%A5%E6%B2%BB/789026
+EYJ028,JP10_P1,1999,D6,个人经营Find Job!网站,设立有限会社E-Mercury（公司化，资本金300万日元）,1999年6月设立有限会社E-Mercury（资本金300万日元），将Find Job!业务公司化；2000年变更为株式会社；从个人经营转向公司化运营；为后续社交网络业务奠定基础,A,https://m.jiemian.com/article/3342925.html;https://m.baike.com/wiki/%E7%AC%A0%E5%8E%9F%E5%81%A5%E6%B2%BB/789026
+EYJ029,JP10_P1,2004,D7,互联网招聘（Find Job!）,社交网络服务（推出Mixi SNS网站）,2004年2月笠原健治推出Mixi社交网站（SNS）；从互联网招聘转向社交网络为决定性行业变迁；Mixi后来成为日本最大社交网站，在日本年轻人中拥有极高人气；这是公司发展的关键转折点,A,http://paper.people.com.cn/rmrbhwb/html/2019-11/29/content_1958924.htm;https://m.baike.com/wiki/%E7%AC%A0%E5%8E%9F%E5%81%A5%E6%B2%BB/789026;https://m.jiemian.com/article/3342925.html
+EYJ030,JP10_P1,2006,D8,非上市公司创始人/社长,上市公司社长（东证Mothers上市），30岁成亿万富翁,2006年9月14日Mixi在东京证券交易所Mothers（创业板）上市；笠原健治在30岁时成为亿万富翁，是日本最年轻白手起家亿万富翁之一；从初创公司经营者变为上市公司CEO；这是财富和地位的重大跃升,A,https://m.baike.com/wiki/%E7%AC%A0%E5%8E%9F%E5%81%A5%E6%B2%BB/789026;http://paper.people.com.cn/rmrbhwb/html/2019-11/29/content_1958924.htm
+EYJ031,JP10_P1,2013,D7,社交网络服务（Mixi SNS，逐渐衰落）,手机游戏（推出《怪物弹珠》，公司起死回生）,2010年代Mixi作为社交网络逐渐衰落（被Twitter、Facebook、LINE等竞争），公司面临生存危机；2013年推出手游《怪物弹珠》（Monster Strike）大获成功，成为日本最畅销手游之一；从社交网络转向手机游戏为重大产品转型，公司起死回生；这是'衰落-重建'的温和版案例,A,https://m.jiemian.com/article/3342925.html;http://paper.people.com.cn/rmrbhwb/html/2019-11/29/content_1958924.htm
+EYJ032,JP10_P1,2026,D8,Mixi创始人/董事（持有大量股份）,向1700名员工无偿转让约18亿日元股份（财富分享）,2026年5月笠原健治将个人持有的Mixi股份约68万股（时价总额约18亿日元）无偿转让给公司及完全子公司的正社员/役员等约1700人；创业者将个人持有股份直接赠与员工的做法在日本极为罕见；体现'成果を分かち合いたい'（想分享成果）的理念；这是重大财富分配行为,A,https://www.itmedia.co.jp/news/spv/2605/29/news120.html;https://plus-web3.com/media/latestnews_1000_9228/
+YE201,KR08_P1,2007,D6,首尔大学齿医学科学生,三星医疗院齿科住院医师,首尔大学齿医学科毕业后进入三星医疗院担任住院医师，开始牙医职业生涯,B,http://wiki1.kr/index.php/%EC%9D%B4%EC%8A%B9%EA%B1%B4
+YE202,KR08_P1,2008,D6,三星医疗院住院医师,全罗南道新安郡公共保健医,作为兵役替代服务被派往全罗南道新安郡偏远岛屿担任公共保健医，服役3年,B,http://wiki1.kr/index.php/%EC%9D%B4%EC%8A%B9%EA%B1%B4
+YE203,KR08_P1,2011,D6,公共保健医（牙医）,Viva Republica创始人/CEO,2011年4月创立㈜비바리퍼블리카（Viva Republica），辞去牙医职业全职创业，公司名源于法国大革命'共和国万岁'（受卢梭共和主义影响）,B,http://wiki1.kr/index.php/%EC%9D%B4%EC%8A%B9%EA%B1%B4;https://www.fortune.com/asia/2025/04/23/toss-founder-lee-seunggun-south-korea-viva-republica/
+YE204,KR08_P1,2011-2014,D7,牙医/医疗,互联网创业（连续失败）,创业初期先后推出移动SNS'울라불라'、移动投票应用'다보트'等多个项目，连续8次创业失败,B,http://wiki1.kr/index.php/%EC%9D%B4%EC%8A%B9%EA%B1%B4
+YE205,KR08_P1,2015,D7,互联网创业（8次失败）,金融科技（Toss）,2015年2月26日推出第9个项目Toss（简单汇款应用），获得成功；初期因不经过公共认证书的汇款方式违反法规被暂停，亲自走访金融当局和银行说服，4年后正式获批,B,http://wiki1.kr/index.php/%EC%9D%B4%EC%8A%B9%EA%B1%B4;https://www.economist.co.kr/article/view/ecn201602260023
+YE206,KR08_P1,2016,D6,Viva Republica CEO,韩国金融科技产业协会首任会长,2016年4月-2018年2月担任韩国金融科技产业协会（한국핀테크산업협회）首任会长，成为韩国金融科技行业代表人物,B,http://wiki1.kr/index.php/%EC%9D%B4%EC%8A%B9%EA%B1%B4
+YE207,KR08_P1,2018,D8,非上市公司创始人,金融科技独角兽创始人,2018年底Viva Republica完成8000万美元融资，估值达12亿美元，成为韩国首个金融科技独角兽,B,https://thegioihoinhap.vn/ceo-lee-seung-gun-cua-ky-lan-nganh-cong-nghe-tai-chinh-toss/
+YE208,KR08_P1,2020,D6,Viva Republica CEO,韩国创业论坛共同议长,2020年2月起担任韩国创业论坛（코리아스타트업포럼）共同议长，与Kurly金슬아、직방안성우共同代表韩国创业生态,B,http://wiki1.kr/index.php/%EC%9D%B4%EC%8A%B9%EA%B1%B4
+YE209,KR08_P1,2021,D8,高净值个人,亿万富翁（billionaire）,2021年福布斯估算李承建成为韩国新晋亿万富翁，其持有的Viva Republica股权价值超过10亿美元,B,https://www.fortune.com/asia/2025/04/23/toss-founder-lee-seunggun-south-korea-viva-republica/
+YE210,KR08_P1,2025,D8,股权持有,借入650亿韩元增持,2025年10月借入650亿韩元用于增持Viva Republica股份，还款预期依赖公司赴美IPO成功；其持股15.45%，按10万亿韩元目标估值计算股权价值约1.5万亿韩元,B,https://www.chosun.com/english/market-money-en/2025/10/29/WIRHGLDA6BF6LGUEPU27GLCAQA/
+YE211,KR08_P1,2026,D7,金融科技企业,大型企业集团（财阀级）,2026年5月被韩国公正交易委员会指定为公开披露企业集团（资产超5万亿韩元），Viva Republica正式进入韩国大型企业集团行列；计划2026年Q2 IPO（可能KOSPI+纳斯达克双重上市），目标估值10万亿韩元以上,B,https://m.koreaherald.com/article/10729684;https://www.glinsight.com/toss-bank-posts-record-earnings-in-q3-gl-insight/
+EV024,US16_P1,1995,D6,COMDEX创始人,以$8.62亿将COMDEX卖给软银,1995年将COMDEX及相关资产以$8.62亿卖给软银(SoftBank)，获得巨额财富,B,https://m.baike.com/wiki/%E8%90%A7%E7%99%BB%C2%B7%E8%89%BE%E5%BE%B7%E6%A3%AE/7065970014428747015
+EV025,US16_P1,1988,D6,COMDEX创始人,创立拉斯维加斯金沙集团,1988年创立拉斯维加斯金沙集团(Las Vegas Sands)，进入博彩/酒店业,B,https://m.baike.com/wiki/%E8%90%A7%E7%99%BB%C2%B7%E8%89%BE%E5%BE%B7%E6%A3%AE/7065970014428747015
+EV026,US16_P1,2004,D8,千万富翁/亿万富翁,Las Vegas Sands IPO+澳门威尼斯人开业,2004年Las Vegas Sands在纽交所IPO，同年在澳门开业威尼斯人澳门，财富暴增,B,https://m.baike.com/wiki/%E8%90%A7%E7%99%BB%C2%B7%E8%89%BE%E5%BE%B7%E6%A3%AE/7065970014428747015
+EV027,US17_P1,1959,D3,Brown大学经济学学生,离校加入父亲Turner Advertising Company,1959年离开Brown大学（经济学专业，未获学位），加入父亲的Turner Advertising Company,B,https://m.baike.com/wiki/%E7%89%B9%E5%BE%B7%C2%B7%E7%89%B9%E7%BA%B3/1140120
+EV028,US17_P1,1963,D6,父亲公司员工,父亲自杀后继承家族广告公司（24岁）,1963年父亲Robert Edward Turner II自杀（双相情感障碍），Ted Turner年仅24岁继承家族广告牌广告公司,B,https://m.baike.com/wiki/%E7%89%B9%E5%BE%B7%C2%B7%E7%89%B9%E7%BA%B3/1140120
+EV029,US17_P1,1976,D6,广告公司老板/电视台老板,创立TBS（全美第一个有线电视频道）,1976年将WTCG(WTBS)电视台信号送上卫星，创立TBS Superstation（全美第一个有线电视频道）,B,https://m.baike.com/wiki/%E7%89%B9%E5%BE%B7%C2%B7%E7%89%B9%E7%BA%B3/1140120
+EV030,US17_P1,1980,D6,TBS创始人,创立CNN（全球第一个24小时有线电视新闻网）,1980年6月1日创立CNN(Cable News Network)，全球第一个24小时有线电视新闻网，颠覆新闻行业,B,https://m.baike.com/wiki/%E7%89%B9%E5%BE%B7%C2%B7%E7%89%B9%E7%BA%B3/1140120
+EV031,US17_P1,1996,D6,Turner Broadcasting CEO,以$75亿将Turner Broadcasting卖给Time Warner,1996年将Turner Broadcasting以$75亿卖给Time Warner（换股），任Time Warner副董事长,B,https://m.baike.com/wiki/%E7%89%B9%E5%BE%B7%C2%B7%E7%89%B9%E7%BA%B3/1140120
+EV032,US18_P1,1992,D1,乌克兰Fastiv学生,与母亲和祖母移居美国加州Mountain View,1992年16岁与母亲和祖母从乌克兰Fastiv移居美国加州Mountain View（靠社会支持项目入住小两居室公寓），父亲留在乌克兰,B,https://m.baike.com/wiki/%E7%AE%80%C2%B7%E5%BA%93%E5%A7%86/9445404
+EV033,US18_P1,1997,D6,自学编程/SJSU学生,加入Yahoo!任基础设施工程师,1997年加入Yahoo!任基础设施工程师（工作9年至2007年），从San Jose State University辍学,B,https://m.baike.com/wiki/%E7%AE%80%C2%B7%E5%BA%93%E5%A7%86/9445404
+EV034,US18_P1,2009,D6,Yahoo!前工程师/失业,与Brian Acton共同创立WhatsApp,2009年与前Yahoo!同事Brian Acton共同创立WhatsApp即时通讯应用（Koum选名字因为'WhatsApp'听起来像'What's up'）,B,https://m.baike.com/wiki/%E7%AE%80%C2%B7%E5%BA%93%E5%A7%86/9445404
+EV035,US18_P1,2014,D8,千万富翁/亿万富翁,以$190亿将WhatsApp卖给Facebook,2014年2月以$190亿将WhatsApp卖给Facebook（当时为史上最大科技收购案，$40亿现金+$120亿Facebook股票+$30亿限制性股票）,B,https://m.baike.com/wiki/%E7%AE%80%C2%B7%E5%BA%93%E5%A7%86/9445404
+EV036,US18_P1,2018,D6,WhatsApp CEO（Facebook旗下）,因隐私分歧离开WhatsApp/Facebook,2018年因与Facebook在隐私政策和数据共享上的分歧而离开WhatsApp/Facebook（拒绝将WhatsApp数据与Facebook整合）,B,https://m.baike.com/wiki/%E7%AE%80%C2%B7%E5%BA%93%E5%A7%86/9445404
+EV037,US19_P1,2012,D6,Airbnb软件工程师,创立Coinbase（美国第一家受监管比特币交易所）,2012年与Fred Ehrsam共同创立Coinbase（美国第一家受监管的比特币交易所，最初为比特币钱包服务）,B,无
+EV038,US19_P1,2021,D8,亿万富翁,Coinbase纳斯达克直接上市（估值$860亿）,2021年4月Coinbase在纳斯达克直接上市(Direct Listing)，开盘估值约$860亿，是美国最大加密货币交易所,B,无
+EV039,US20_P1,1998,D3,UCLA计算机工程+商业经济学学生,辍学加入Scour（毕业前几个月）,1998年从UCLA辍学（毕业前几个月，计算机工程+商业经济学双专业），加入Scour多媒体搜索引擎创始团队,B,https://m.jiemian.com/article/401002.html
+EV040,US20_P1,2000,D6,Scour创始团队成员,Scour被起诉$2500亿申请破产,2000年Scour被MPAA/RIAA等30多家媒体公司起诉$2500亿，申请破产（第一次创业失败）,B,https://m.jiemian.com/article/401002.html
+EV041,US20_P1,2007,D6,Red Swoosh创始人,将Red Swoosh以约$1900万卖给Akamai,2007年将Red Swoosh（P2P内容分发网络）以约$1900万卖给Akamai，获得第一笔创业财富,B,https://m.jiemian.com/article/401002.html
+EV042,US20_P1,2009,D6,Red Swoosh前创始人/天使投资人,与Garrett Camp共同创立Uber,2009年与Garrett Camp共同创立UberCab（后改名Uber，打车/共享出行平台，最初为黑色轿车预约服务）,B,https://m.jiemian.com/article/401002.html
+EV043,US20_P1,2017,D6,Uber CEO,因一系列丑闻被迫辞去Uber CEO,2017年6月因一系列丑闻（性骚扰文化、性别歧视、#DeleteUber运动、Waymo诉讼等）被迫辞去Uber CEO,B,https://m.jiemian.com/article/401002.html
+EV044,US20_P1,2017,D4,父母婚姻稳定,母亲Bonnie船难去世，父亲Donald重伤,2017年5月父母遭遇船难（母亲Bonnie Kalanick去世，父亲Donald重伤），是重大人生悲剧,B,https://m.baike.com/wiki/%E7%89%B9%E6%8B%89%E7%BB%B4%E6%96%AF%C2%B7%E5%8D%A1%E5%85%B0%E5%B0%BC%E5%85%8B/21374897
+EV045,US21_P1,1993,D4,普通中学生,14岁入侵网络被FBI调查（判社区服务）,14岁时入侵大学/企业网络被FBI调查，后因未成年判社区服务（不入狱），成为熟练黑客/程序员,B,无
+EV046,US21_P1,1999,D6,高中毕业生/自学程序员,19岁与Shawn Fanning创立Napster,1999年19岁时与Shawn Fanning共同创立Napster（全球第一个大规模P2P音乐文件共享平台，改变音乐行业）,B,无
+EV047,US21_P1,2004,D6,Plaxo被逐出/失业,成为Facebook首任总裁/早期投资者,2004年成为Facebook早期投资者（投资$50万）和首任总裁，帮助Zuckerberg从Peter Thiel处获得首笔风投，将Facebook从哈佛扩展至全美,B,无
+EV048,US21_P1,2005,D6,Facebook总裁,离开Facebook,2005年离开Facebook（与Zuckerberg在产品方向上有分歧，后因吸毒问题被Zuckerberg要求离开）,B,无
+EUV3_E001,EU10_P1,1962,D1,-,生于西德Bad Homburg，Quandt工业家族,自然出生,B,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E002,EU10_P1,1982,D8,家族继承人,父亲去世继承Altana 50.1%+BMW 12.5%，成为亿万富豪,父亲Herbert Quandt去世,B,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E003,EU10_P1,1990,D5,单身,与Jan Klatten结婚,自然婚姻,B,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E004,EU10_P1,1997,D6,股东,加入BMW监事会（与弟弟Stefan）,[推断]家族企业治理参与,C,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E005,EU10_P1,2006,D8,Altana大股东,Altana制药业务以45亿欧元出售给Nycomed，获大额分红,[推断]聚焦特种化工+股东回报,C,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E006,EU10_P1,2008,D9,低调富豪,被骗子Helg Sgarbi勒索，公开承认婚外情,[推断]个人隐私被利用,C,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E007,EU10_P1,2015,D8,BMW 12.5%股东,母亲去世后BMW持股增至19.2%,母亲Johanna Quandt去世,B,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E008,EU10_P1,2018,D5,已婚,与Jan Klatten分居,[推断]无法考证具体原因,D,https://en.wikipedia.org/wiki/Susanne_Klatten
+EUV3_E009,EU10_P2,1959,D6,工业家,增持BMW至50%拯救其破产,[推断]BMW面临被戴姆勒收购危机，Quandt反向增持,C,https://en.wikipedia.org/wiki/Herbert_Quandt
+EUV3_E010,EU10_P2,1982,D9,工业帝国所有者,去世，遗产由子女继承,自然死亡,B,https://en.wikipedia.org/wiki/Herbert_Quandt
+EUV3_E011,EU10_P4,1933,D9,工业家,加入纳粹党，家族企业与纳粹合作,[推断]政治立场+商业利益,C,https://en.wikipedia.org/wiki/G%C3%BCnther_Quandt
+EUV3_E012,EU10_P4,1954,D9,工业帝国创始人,去世，遗产由Herbert继承,自然死亡,B,https://en.wikipedia.org/wiki/G%C3%BCnther_Quandt
+EUV3_E013,EU11_P1,1966,D1,-,生于西德Bad Homburg，Quandt工业家族,自然出生,B,https://en.wikipedia.org/wiki/Stefan_Quandt
+EUV3_E014,EU11_P1,1982,D8,家族继承人,父亲去世继承BMW 17.4%，成为亿万富豪,父亲Herbert Quandt去世,B,https://en.wikipedia.org/wiki/Stefan_Quandt
+EUV3_E015,EU11_P1,1993,D6,KIT毕业生,加入BCG慕尼黑任顾问,[推断]咨询行业经验积累,C,https://en.wikipedia.org/wiki/Stefan_Quandt
+EUV3_E016,EU11_P1,1997,D6,顾问/股东,加入BMW监事会,[推断]家族企业治理参与,C,https://en.wikipedia.org/wiki/Stefan_Quandt
+EUV3_E017,EU11_P1,2005,D5,单身,与Katharina Quandt结婚,自然婚姻,B,https://en.wikipedia.org/wiki/Stefan_Quandt
+EUV3_E018,EU11_P1,2015,D8,BMW 23.7%股东,母亲去世后持股增至25.83%，成为BMW最大单一股东,母亲Johanna Quandt去世,B,https://en.wikipedia.org/wiki/Stefan_Quandt
+EUV3_E019,EU11_P1,2015,D9,BMW大股东,持股超30%触发德国强制收购要约，后获BaFin豁免,[推断]母亲遗产继承导致持股临时超过阈值,C,https://en.wikipedia.org/wiki/Stefan_Quandt
+EUV3_E020,EU12_P1,1939,D1,-,生于德国Heilbronn，食品零售商家庭,自然出生,B,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E021,EU12_P1,1963,D5,单身,与Franziska Weipert结婚,自然婚姻,B,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E022,EU12_P1,1968,D6,食品零售商,与父亲开设第一家超市Handelshof（Backnang）,[推断]家族零售业务扩张,C,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E023,EU12_P1,1973,D6,超市经营者,创立Lidl折扣店（从Ludwig Lidl购买命名权1000马克）,[推断]折扣零售模式兴起+避免'Schwarzmarkt'黑市场联想,C,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E024,EU12_P1,1984,D7,折扣零售,创立Kaufland大卖场（Neckarsulm）,[推断]大卖场业态兴起+业务多元化,C,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E025,EU12_P1,1988,D7,德国零售,Lidl开始进入欧洲其他国家市场,[推断]国内市场饱和+国际扩张,C,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E026,EU12_P1,1999,D8,企业所有者,将Lidl/Kaufland股权转入Dieter Schwarz基金会（免税）,[推断]税务规划+慈善+家族财富传承结构,C,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E027,EU12_P1,2004,D6,Lidl/Kaufland CEO,退休，由Klaus Gehrig接任CEO,[推断]企业进入成熟期+职业经理人接班,C,https://en.wikipedia.org/wiki/Dieter_Schwarz
+EUV3_E028,EU13_P1,1935,D1,-,生于米兰，父亲出生前去世，贫困家庭，被送进孤儿院,自然出生+家庭变故,B,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E029,EU13_P1,约1950,D4,孤儿院儿童,进入米兰眼镜工厂做学徒,[推断]孤儿院毕业后需谋生+眼镜制造业在米兰聚集,C,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E030,EU13_P1,1961,D6,眼镜工厂学徒,在Agordo创立眼镜模具车间,[推断]学徒期积累技术+独立创业意愿,C,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E031,EU13_P1,1967,D6,模具车间主,创立Luxottica（眼镜制造）,[推断]模具业务扩展到成品眼镜制造,C,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E032,EU13_P1,1990,D8,私有公司所有者,Luxottica在纽交所上市，财富大幅增长,[推断]公司规模达到上市门槛+国际扩张资金需求,C,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E033,EU13_P1,1999,D7,眼镜制造,收购Ray-Ban（从Bausch & Lomb），成为全球眼镜霸主,[推断]垂直整合+品牌收购战略,C,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E034,EU13_P1,2007,D7,眼镜制造零售,收购Oakley,[推断]运动眼镜市场扩张+品牌组合完善,C,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E035,EU13_P1,2018,D7,Luxottica所有者,与Essilor合并为EssilorLuxottica，成为全球最大眼镜公司,[推断]行业整合+规模效应,C,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E036,EU13_P1,2022,D9,眼镜帝国所有者,去世（87岁），遗产由6个子女继承,自然死亡,B,https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+EUV3_E037,EU14_P1,1948,D1,-,生于米兰，本名Maria Bianchi，Prada家族（母系）,自然出生,B,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E038,EU14_P1,1971,D3,学生,米兰大学政治学学位毕业，同时学习哑剧表演,[推断]学术兴趣+艺术追求,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E039,EU14_P1,约1975,D6,哑剧演员/共产党党员,进入家族Prada业务（最初负责配饰设计）,[推断]家族企业需要继承人+个人兴趣转向,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E040,EU14_P1,1978,D6,配饰设计师,接管Prada家族业务；认识Patrizio Bertelli（未来丈夫兼商业伙伴）,[推断]家族传承需要+商业伙伴相遇,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E041,EU14_P1,1978,D3,政治学硕士,获米兰大学政治学博士学位,[推断]学术追求完成,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E042,EU14_P1,约1980,D1,Maria Bianchi,被姑姑收养，改姓Miuccia Prada,[推断]家族继承法律需要（Prada姓氏传承）,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E043,EU14_P1,1985,D6,Prada设计师,首款成功黑色尼龙手袋设计，品牌开始复兴,[推断]新材料创新+设计突破,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E044,EU14_P1,1989,D7,皮具/配饰,推出首个女装成衣系列，进入时装领域,[推断]品牌扩张+设计能力延伸,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E045,EU14_P1,1992,D7,Prada时装,创立Miu Miu副线（更年轻、更便宜的女装线）,[推断]市场细分+个人风格表达,C,https://en.wikipedia.org/wiki/Miuccia_Prada
+EUV3_E046,EU14_P4,1913,D6,皮革商人,在米兰Galleria创立Fratelli Prada（与弟弟Martino）,[推断]高端皮革市场机会+米兰奢侈品区位,C,https://en.wikipedia.org/wiki/Mario_Prada
+EUV3_E047,EU14_P4,1929,D9,Prada创始人,去世，遗产由家族继承（因男性继承规定经历传承危机）,自然死亡,B,https://en.wikipedia.org/wiki/Mario_Prada
+EUV3_E048,EU15_P1,1934,D1,-,生于意大利Piacenza，父亲为运输公司会计，二战贫困环境,自然出生,B,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E049,EU15_P1,约1940,D9,儿童,二战期间被未爆炸炮弹严重烧伤，好友被炸死,二战炮弹意外,B,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E050,EU15_P1,约1953,D3,高中生,进入米兰大学医学系学习,[推断]医学是当时意大利体面职业+个人兴趣,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E051,EU15_P1,约1955,D3,医学生,从米兰大学医学系辍学，服兵役（医疗兵）,[推断]医学不适合+兵役义务,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E052,EU15_P1,1957,D4,退伍军人,加入La Rinascente百货公司任橱窗陈列师/店员,[推断]兵役后需就业+对视觉设计的兴趣,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E053,EU15_P1,约1964,D6,百货公司店员,加入Nino Cerruti任男装设计师（Hitman线），同时自由职业,[推断]设计能力被认可+时装行业机会,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E054,EU15_P1,1973,D6,自由设计师,与Sergio Galeotti合伙开设设计工作室,[推断]独立创业意愿+Galeotti的商业能力互补,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E055,EU15_P1,1975,D6,设计工作室,创立Giorgio Armani S.p.A.，推出男女成衣系列,[推断]工作室成功+品牌创立时机成熟,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E056,EU15_P1,1980,D9,意大利设计师,《美国舞男》（American Gigolo）电影服装设计，国际声誉爆发,[推断]电影服装设计带来全球曝光,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E057,EU15_P1,1985,D9,Armani创始人,长期伴侣兼商业伙伴Sergio Galeotti去世，独自管理帝国,自然死亡（Galeotti）,B,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E058,EU15_P1,2007,D9,时装帝国所有者,宣布禁止过瘦模特（BMI低于18.5），引发行业讨论,[推断]社会责任+模特健康问题关注,C,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E059,EU15_P1,2025,D9,Armani帝国所有者,去世（91岁），无子女，继承安排未明确,自然死亡,B,https://en.wikipedia.org/wiki/Giorgio_Armani
+EUV3_E060,EU16_P1,1948,D1,-,生于法国巴黎，犹太家族，Chanel所有者家庭,自然出生,B,https://en.wikipedia.org/wiki/Alain_Wertheimer
+EUV3_E061,EU16_P1,1996,D8,家族继承人,父亲Jacques去世，与弟弟Gérard共同继承Chanel股权,父亲Jacques Wertheimer去世,B,https://en.wikipedia.org/wiki/Alain_Wertheimer
+EUV3_E062,EU16_P1,约2000,D6,Chanel共同所有者,任Chanel主席，主导收购Eres/Tanner Krolle/Holland & Holland,[推断]品牌扩张+多元化投资,C,https://en.wikipedia.org/wiki/Alain_Wertheimer
+EUV3_E063,EU16_P1,2021,D7,奢侈品/狩猎,将Holland & Holland出售给Beretta Holding,[推断]非核心资产剥离+战略聚焦,C,https://en.wikipedia.org/wiki/Alain_Wertheimer
+EUV3_E064,EU16_P4,1924,D6,Bourjois化妆品所有者,与Coco Chanel合作创立Parfums Chanel，推出Chanel No.5,[推断]香水市场机会+Coco Chanel的品牌影响力,C,https://en.wikipedia.org/wiki/Pierre_Wertheimer
+EUV3_E065,EU16_P4,1929,D6,香水公司所有者,收购Chanel全部业务,[推断]Coco Chanel财务困难+Wertheimer收购意愿,C,https://en.wikipedia.org/wiki/Pierre_Wertheimer
+EUV3_E066,EU16_P4,1940,D9,Chanel所有者,二战期间逃离法国（犹太家族），Chanel被纳粹控制,二战纳粹占领+犹太家族迫害,B,https://en.wikipedia.org/wiki/Pierre_Wertheimer
+EUV3_E067,EU16_P4,1965,D9,Chanel帝国所有者,去世，遗产由Jacques继承,自然死亡,B,https://en.wikipedia.org/wiki/Pierre_Wertheimer
+EUV3_E068,EU17_P1,1948,D1,-,生于德国Essen，Aldi Süd创始人家庭,自然出生,B,https://en.wikipedia.org/wiki/Karl_Albrecht_Jr.
+EUV3_E069,EU17_P1,约1970,D3,学生,在瑞士完成Abitur（因家族隐私），后学习法律获法学博士,[推断]家族隐私文化+法律专业适合家族企业治理,C,https://en.wikipedia.org/wiki/Karl_Albrecht_Jr.
+EUV3_E070,EU17_P1,约1980,D6,法学博士,加入Aldi Süd集团，担任多个职位（含美国业务负责人）,[推断]家族企业参与+国际业务经验,C,https://en.wikipedia.org/wiki/Karl_Albrecht_Jr.
+EUV3_E071,EU17_P1,2004,D6,Aldi Süd高管,因第三次癌症诊断退休（后康复）,健康原因（第三次癌症诊断）,B,https://en.wikipedia.org/wiki/Karl_Albrecht_Jr.
+EUV3_E072,EU17_P1,2014,D8,家族基金会控制者,父亲Karl Albrecht Sr.去世，与姐姐Beate共同控制Siepmann Stiftung/Aldi Süd,父亲去世,B,https://en.wikipedia.org/wiki/Karl_Albrecht_Jr.
+EUV3_E073,EU17_P2,1920,D1,-,生于德国Essen，贫困工人家庭,自然出生,B,https://en.wikipedia.org/wiki/Karl_Albrecht
+EUV3_E074,EU17_P2,约1940,D9,工人,二战中在德军服役，被英军俘虏,二战义务兵役,B,https://en.wikipedia.org/wiki/Karl_Albrecht
+EUV3_E075,EU17_P2,1948,D6,退伍军人,与弟弟Theo创立Albrecht Discount（Aldi），经营母亲食品店,[推断]战后经济困难+零售经验积累,C,https://en.wikipedia.org/wiki/Karl_Albrecht
+EUV3_E076,EU17_P2,1961,D7,Aldi共同所有者,与弟弟Theo因是否售烟分歧，拆分为Aldi Süd（Karl）和Aldi Nord（Theo）,[推断]经营理念分歧（是否售烟）,C,https://en.wikipedia.org/wiki/Karl_Albrecht
+EUV3_E077,EU17_P2,1994,D6,Aldi Süd CEO,退休，完全隐居,[推断]企业进入成熟期+极端隐私偏好,C,https://en.wikipedia.org/wiki/Karl_Albrecht
+EUV3_E078,EU17_P2,2014,D9,Aldi Süd创始人,去世（94岁），遗产通过Siepmann Stiftung由子女继承,自然死亡,B,https://en.wikipedia.org/wiki/Karl_Albrecht
+EUV3_E079,EU18_P1,1981,D1,-,生于瑞士日内瓦郊区,自然出生,B,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E080,EU18_P1,约2000,D3,高中生,进入EPFL学习数学工程,[推断]数学能力+瑞士理工教育传统,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E081,EU18_P1,约2003,D3,EPFL学生,转入HEC Lausanne经济学学士学位,[推断]兴趣从工程转向经济/金融,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E082,EU18_P1,2005,D3,HEC学生,因父亲癌症从HEC Lausanne辍学（放弃Citibank伦敦offer），移居加州冲浪,父亲患癌症+个人人生方向转变,B,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E083,EU18_P1,2006,D4,冲浪者/辍学生,加入IPC，后共同创立NetMerchant,[推断]支付行业机会+创业意愿,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E084,EU18_P1,2009,D6,支付创业者,以30万美元收购毛里求斯SMS Pay；创立新加坡Opus Payments,[推断]支付网关技术积累+独立创业,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E085,EU18_P1,2012,D7,支付处理,Opus Payments更名为Checkout.com,[推断]品牌重塑+全球扩张定位,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E086,EU18_P1,2019,D8,私有公司CEO,Checkout.com获2.3亿美元A轮（欧洲金融科技史上最大A轮），估值20亿，成为亿万富豪,[推断]公司增长达到风投投资门槛,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E087,EU18_P1,2021,D8,亿万富豪,Checkout.com获4.5亿美元融资，估值150亿，Forbes估算90亿,[推断]金融科技热潮+公司增长,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E088,EU18_P1,2022,D8,亿万富豪,Checkout.com获10亿美元融资，估值400亿，Sunday Times英国第5富（192.59亿英镑）,[推断]金融科技估值峰值,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E089,EU18_P1,2025,D8,亿万富豪,Forbes估算78亿美元（金融科技估值回调）,[推断]全球金融科技估值回调+利率上升,C,https://en.wikipedia.org/wiki/Guillaume_Pousaz
+EUV3_E090,EU19_P1,1960,D1,-,生于瑞典，Tetra Pak工业家族,自然出生,B,https://en.wikipedia.org/wiki/J%C3%B6rn_Rausing
+EUV3_E091,EU19_P1,1995,D8,家族继承人,父亲从叔叔Hans手中买断Tetra Pak 50%，家族成为唯一所有者,[推断]叔叔Hans因逃税丑闻退出+父亲买断意愿,C,https://en.wikipedia.org/wiki/J%C3%B6rn_Rausing
+EUV3_E092,EU19_P1,2000,D8,家族继承人,父亲Gad去世，与姐弟共同继承Tetra Laval股权,父亲去世,B,https://en.wikipedia.org/wiki/J%C3%B6rn_Rausing
+EUV3_E093,EU19_P1,2003,D8,Tetra Laval股东,投资2650万英镑入股Ocado，后价值14亿英镑,[推断]在线零售投资机会,C,https://en.wikipedia.org/wiki/J%C3%B6rn_Rausing
+EUV3_E094,EU19_P4,1943,D6,食品包装商人,发明Tetra Brik（利乐砖）无菌包装，彻底改变食品包装行业,[推断]技术创新+食品包装行业需求,C,https://en.wikipedia.org/wiki/Ruben_Rausing
+EUV3_E095,EU19_P4,1951,D6,发明家/商人,创立Tetra Pak公司,[推断]专利商业化+公司化运营,C,https://en.wikipedia.org/wiki/Ruben_Rausing
+EUV3_E096,EU19_P4,1983,D9,Tetra Pak创始人,去世，遗产由3个儿子继承,自然死亡,B,https://en.wikipedia.org/wiki/Ruben_Rausing
+EUV3_E097,EU20_P1,1952,D1,-,生于瑞典隆德，Tetra Pak工业家族,自然出生,B,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EUV3_E098,EU20_P1,1995,D8,家族继承人,父亲从叔叔Hans手中买断Tetra Pak 50%，家族成为唯一所有者,[推断]叔叔Hans因逃税丑闻退出+父亲买断意愿,C,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EUV3_E099,EU20_P1,约1990,D1,瑞典居民,移居英国（萨福克郡），建立赛马繁育场,[推断]英国赛马业中心+税务/生活方式选择,C,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EUV3_E100,EU20_P1,2000,D8,家族继承人,父亲Gad去世，与弟弟们共同继承Tetra Laval 1/3股权,父亲去世,B,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EUV3_E101,EU20_P1,约2000,D6,家族继承人,"专注赛马繁育（Lanwades Stud, Newmarket），任Jockey Club成员",[推断]个人兴趣+家族财富支持,C,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EUV3_E102,EU20_P1,2003,D8,Tetra Laval股东,与弟弟Jörn共同投资2650万英镑入股Ocado，后价值14亿英镑,[推断]在线零售投资机会,C,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EUV3_E103,EU20_P1,2016,D9,Tetra Laval股东/赛马主,被任命为萨福克郡副郡尉（DL）,[推断]社区贡献+英国地方荣誉体系,C,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EUV3_E104,EU20_P1,2020,D8,亿万富豪,Forbes全球富豪榜第150位,[推断]Tetra Laval估值增长+IFF股权,C,https://en.wikipedia.org/wiki/Kirsten_Rausing
+EJP048,JP11_P1,1944,D6,大阪帝国大学物理毕业,进入研究所（与井深大相识）,1944年大阪帝国大学理学部物理学科毕业后进入研究所工作，期间与井深大相识，为日后共同创业奠定基础,A,https://m.baike.com/wiki/%E7%9B%9B%E7%94%B0%E6%98%AD%E5%A4%AB/559601
+EJP049,JP11_P1,1946,D6,研究所研究员,与井深大创立东京通信工业（创业）,1946年5月在东京百货公司废墟仓库中与井深大以19万日元创立东京通信工业株式会社（20名员工），从酿酒世家长子转型为电子创业者（决定性转折）,A,https://www.163.com/dy/article/KJ8JGQCG0553FV3Z.html
+EJP050,JP11_P1,1958,D6,东京通信工业,公司更名为索尼（SONY）,1958年东京通信工业株式会社正式更名为索尼（SONY），品牌全球化启动,A,https://m.baike.com/wiki/%E7%9B%9B%E7%94%B0%E6%98%AD%E5%A4%AB/559601
+EJP051,JP11_P1,1957,D6,通信设备制造,便携式晶体管收音机成功（150万台）,1957年推出便携式全晶体管化收音机，当年销量高达150万部，索尼从通信设备转向消费电子（核心行业变迁）,A,http://m.toutiao.com/group/7146711899986461188/
+EJP052,JP11_P1,1979,D6,消费电子制造,Walkman上市（全球消费电子革命）,1979年推出Walkman便携式音乐播放器，颠覆全球消费电子市场，成为索尼最具标志性产品之一,A,https://m.baike.com/wiki/%E7%9B%9B%E7%94%B0%E6%98%AD%E5%A4%AB/559601
+EJP053,JP11_P1,1994,D6,索尼会长,退任会长（名誉会长）,1994年退任索尼会长，转任名誉会长，从经营一线退出,A,https://m.baike.com/wiki/%E7%9B%9B%E7%94%B0%E6%98%AD%E5%A4%AB/559601
+EJP054,JP12_P1,1922,D2,小学在读,辍学赴东京当汽修学徒,1922年（16岁）不顾父亲反对，只身赴东京汽车修理厂（Art Shokai）当学徒，放弃学业从事实习（重大转折）,A,http://m.toutiao.com/group/7469656938163323392/
+EJP055,JP12_P1,1928,D6,东京汽修学徒,回滨松开设自己的汽车修理厂,1928年（22岁）学徒6年后回到家乡滨松，开设属于自己的汽车修理厂，从学徒转为独立经营者,A,http://m.toutiao.com/group/6864002757821465092/
+EJP056,JP12_P1,1934,D6,汽车修理厂,创立东海精机公司（活塞环制造）,1934年创立东海精机公司，从汽车修理转向机械零件制造（活塞环），行业升级,A,http://m.toutiao.com/group/7617381137085710863/
+EJP057,JP12_P1,1945,D4,东海精机运营,二战中工厂被地震/轰炸摧毁,1945年二战末期东海精机工厂被地震和轰炸摧毁，重大挫折，被迫重新开始,A,http://m.toutiao.com/group/6864002757821465092/
+EJP058,JP12_P1,1948,D6,本田技术研究所,创立本田技研工业株式会社（HONDA）,1948年9月正式创立本田技研工业株式会社，从研究所转型为摩托车制造商（创业，决定性转折）,A,https://m.baike.com/wiki/%E7%BB%8F%E8%90%A5%E5%9B%9B%E5%9C%A3/5271460
+EJP059,JP12_P1,1963,D7,摩托车制造,推出第一辆汽车（T360/S500）,1963年推出本田第一辆汽车（T360卡车和S500跑车），从摩托车制造商扩展至汽车制造（核心行业扩张）,A,http://m.toutiao.com/group/6757506871571005964/
+EJP060,JP12_P1,1973,D6,本田技研社长,退任社长,1973年从本田技研工业社长职位退任，从经营一线退出,A,https://m.baike.com/wiki/%E7%BB%8F%E8%90%A5%E5%9B%9B%E5%9C%A3/5271460
+EJP061,JP13_P1,1957,D6,早稻田大学商学部毕业,进入西武集团（父亲企业）,1957年早稻田大学商学部毕业后进入父亲堤康次郎创立的西武集团工作，开始家族企业历练,A,https://news.sina.cn/sa/2005-10-28/detail-ikkntiam4964986.d.html
+EJP062,JP13_P1,1964,D4,父亲堤康次郎在世,父亲去世，以庶出三男身份接掌西武,"1964年父亲堤康次郎去世，堤义明以""庶出""（小妾所生三男）身份打破日本嫡长子继承制接掌西武集团（决定性转折，H1断裂-重建案例）",A,https://finance.ifeng.com/c/7gHJvZH52NG
+EJP063,JP13_P1,1987,D8,西武集团社长,首次成为福布斯全球首富,1987年首次成为福布斯全球首富，1987-1990、1993-1994年连续位居全球首富，巅峰时拥有日本1/6土地,A,https://news.sina.cn/sa/2005-06-28/detail-ikknscsi7089920.d.html
+EJP064,JP13_P1,2005,D4,全球首富/西武掌门人,因证券欺诈被捕（从首富到阶下囚）,2005年3月因证券欺诈、伪造财务报告被捕，后被判刑，从全球首富沦为阶下囚（重大挫折，财富归零案例）,A,https://news.sina.com.cn/o/2005-03-09/06515305899s.shtml
+EJP065,JP14_P1,1928,D6,东京商科大学毕业,任关东学院/大仓高商讲师,1928年东京商科大学（现一桥大学）毕业后进入关东学院大学和大仓高等商业学校任讲师，开始学术生涯,A,https://m.focus.cn/sh/zixun/264115f5051fd8bb.html
+EJP066,JP14_P1,1955,D6,京都高等蚕丝学校教授,退休（51岁）,1955年从京都高等蚕丝学校教授职位退休（51岁），结束27年学术生涯,A,http://paper.people.com.cn/hqrw/html/2014-07/16/content_1479319.htm
+EJP067,JP14_P1,1959,D6,退休教授,与儿子森稔创立森大厦公司（55岁转行经商）,1959年（55岁）与儿子森稔创立森大厦公司，从经济学教授转型为房地产商（决定性转折，日本极少能成功的教授企业家）,A,https://view.inews.qq.com/a/20231010A031M800
+EJP068,JP14_P1,1991,D8,森大厦社长,成为福布斯全球首富（资产185亿美元）,1991-1992年成为福布斯全球首富，资产一度达到185亿美元（超过李嘉诚的126亿），东京地产泡沫期财富巅峰,A,https://view.inews.qq.com/k/20210503A01I7T00
+EJP069,JP15_P1,1967,D6,职业专科学校电机科毕业（首席）,进入TEAC（音响设备厂商）,1967年以首席成绩从职业专科学校电机科毕业后进入音响设备厂商TEAC工作，先后做销售与技术,A,https://m.baike.com/wiki/%E6%B0%B8%E5%AE%88%E9%87%8D%E4%BF%A1/22921523
+EJP070,JP15_P1,1973,D6,TEAC员工,在京都车库创立日本电产（创业）,1973年（29岁）在京都自家住宅车库/裁缝机工厂旧址与三名伙伴共同创立日本电产株式会社，正值石油危机日本经济萧条，从员工转型为创业者（决定性转折）,A,https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-03-09%2Fdoc-inhqizzs9988869.shtml
+EJP071,JP15_P1,2023,D6,日本电产CEO,退任CEO转任会长,2023年从日本电产CEO职位退任，转任会长，从经营一线退出,A,https://m.baike.com/wiki/%E6%B0%B8%E5%AE%88%E9%87%8D%E4%BF%A1/22921523
+EJP072,JP15_P1,2025,D4,日本电产会长,公司被曝2500亿日元会计造假丑闻,2025年日本电产被曝2500亿日元会计造假丑闻，其铁腕高压企业文化被认定为造假核心诱因（重大挫折）,A,https://finance.sina.com.cn/wm/2026-03-15/doc-inhramvq3300187.shtml
+EJP073,JP16_P1,1968,D3,庆应义塾大学经济学部毕业,赴UCLA安德森管理学院攻读MBA,1968年庆应义塾大学经济学部毕业后赴美国加州大学洛杉矶分校（UCLA）安德森管理学院攻读MBA，海外留学（财阀继承高学历模式，H3验证）,A,https://m.baike.com/wiki/%E4%BD%90%E6%B2%BB%E4%BF%A1%E5%BF%A0/2713632
+EJP074,JP16_P1,1971,D6,UCLA MBA毕业,入职索尼（学习日本企业全球化）,"1971年UCLA MBA毕业后入职索尼公司（而非直接进入家族企业三得利），""当时在美国，索尼是唯一知名的日本企业，我要看看他们是如何做到的""（重大选择）",A,https://finance.sina.com.cn/focus/succession_SUNTORY/
+EJP075,JP16_P1,1974,D6,索尼员工,进入三得利（回归家族企业）,1974年6月从索尼进入家族企业三得利，从外部学习回归家族企业（决定性转折）,A,https://m.baike.com/wiki/%E4%BD%90%E6%B2%BB%E4%BF%A1%E5%BF%A0/2713632
+EJP076,JP16_P1,2001,D6,三得利高管,就任三得利第4代社长（继承）,2001年就任三得利第4代社长，作为富三代正式接掌家族企业（继承）,A,http://paper.people.com.cn/hqrw/html/2015-04/16/content_1558776.htm
+EJP077,JP16_P1,2014,D6,三得利社长,退任社长转任会长（由创始人曾孙接任）,2014年退任三得利社长转任会长，由创始人鸟井信治郎的曾孙鸟井信宏接任（因佐治信忠无子女，非直系继承）,A,https://news.qq.com/rain/a/20230716A06IW400
+EJP078,JP17_P1,未记载,D6,[推断]大学毕业,[推断]进入乐敦制药,[推断]大学毕业后进入乐敦制药工作，具体年份未记载（数据稀缺）,C,https://m.baike.com/wiki/%E9%AB%98%E5%8E%9F%E8%B1%AA%E4%B9%85/22920634
+EJP079,JP17_P1,未记载,D6,[推断]乐敦高管,[推断]就任乐敦制药代表会长兼社长,[推断]就任乐敦制药代表会长兼社长，具体年份未记载（数据稀缺）,C,https://m.baike.com/wiki/%E9%AB%98%E5%8E%9F%E8%B1%AA%E4%B9%85/22920634
+EJP080,JP18_P1,1978,D6,[推断]普通职业女性,与丈夫襟川阳一共同创办光荣公司（创业）,1978年7月与丈夫襟川阳一在枥木县足利市共同创办光荣公司（KOEI），从普通职业女性转型为游戏公司联合创始人（创业，决定性转折）,A,https://m.baike.com/wiki/%E8%A5%9F%E5%B7%9D%E6%83%A0%E5%AD%90/5123398
+EJP081,JP18_P1,2009,D6,光荣公司联合创始人,光荣与特库摩合并为光荣特库摩控股,2009年光荣与特库摩（Tecmo）合并为光荣特库摩控股，襟川惠子任执行董事长/名誉董事长，公司规模扩大,A,https://m.baike.com/wiki/%E8%A5%9F%E5%B7%9D%E6%83%A0%E5%AD%90/5123398
+EJP082,JP19_P1,未记载,D4,父亲在世,6岁时父亲去世（重大挫折）,6岁时父亲去世，由母亲抚养，童年遭遇重大家庭变故,A,https://m.sohu.com/a/126907336_478126/
+EJP083,JP19_P1,未记载,D5,已婚,20多岁离婚（重大挫折）,20多岁时离婚，成为独立女性，在当时日本社会面临巨大压力,A,https://m.sohu.com/a/126907336_478126/
+EJP084,JP19_P1,1973,D6,离婚女性/大学未毕业,在东京一居室公寓创立Tempstaff（创业）,1973年在东京一间一居室公寓里创立劳务派遣机构天欣福（Tempstaff，现Persol Holdings），从离婚女性转型为企业家（创业，决定性转折，H1断裂-重建极端案例）,A,https://m.sohu.com/a/126907336_478126/
+EJP085,JP20_P1,未记载,D6,[推断]大学毕业/谷歌员工,[推断]2012-2013年创立freee（云端会计软件，创业）,[推断]2012-2013年创立freee（日本领先的云端会计软件SaaS公司），从谷歌员工转型为SaaS创业者（创业，决定性转折）；具体年份和前职未被中文来源明确记载,C,无
+EJP086,JP20_P1,2020,D8,freee创始人/CEO,freee东京证券交易所上市,2020年freee在东京证券交易所上市，[推断]市值约10-20亿美元，个人财富[推断]约1-4亿美元（亿万富翁级别不确定）,C,无
+EKR001,KR09_P1,1942,D6,蔚山种畜场工作,赴日本半工半读,不满微薄收入+躲避兵役，赴日寻求发展,B,https://m.baike.com/wiki/%E8%BE%9B%E6%A0%BC%E6%B5%A9/5079692
+EKR002,KR09_P1,1948,D6,日本留学/打工,创立乐天株式会社（口香糖）,获日本投资人5万日元资助，战后创业,B,https://m.jiemian.com/article/1165243.html
+EKR003,KR09_P1,1952,D5,单身/第一任妻子,与重光初子结婚（重光葵外甥女）,财阀-政界联姻，借助日本政界关系发展,B,https://world.huanqiu.com/article/9CaKrnK1r8d
+EKR004,KR09_P1,1967,D7,日本食品（口香糖）,创立韩国乐天，多元化扩张,韩国经济起飞，进军韩国市场,B,https://m.baike.com/wiki/%E8%BE%9B%E6%A0%BC%E6%B5%A9/5079692
+EKR005,KR09_P1,2015,D6,乐天集团会长,退出集团经营,年事已高+经营权之争,B,https://ep.ycwb.com/epaper/ycwb/html/2020-01/20/content_116_230700.htm
+EKR006,KR10_P1,1981,D6,哥伦比亚大学MBA毕业,进入野村证券（伦敦分行）,海外金融机构历练，学习西方管理,B,http://m.chinanews.com/wap/detail/chs/zw/8162328.shtml
+EKR007,KR10_P1,1988,D6,野村证券伦敦分行,进入乐天集团,家族企业接班准备,B,http://paper.people.com.cn/hqrw/html/2015-08/26/content_1665558.htm
+EKR008,KR10_P1,2011,D6,乐天集团管理层,就任乐天集团会长,父亲辛格浩退出经营，正式接班,B,http://m.chinanews.com/wap/detail/chs/zw/8162328.shtml
+EKR009,KR10_P1,2015,D4,与兄长辛东主共同管理,通过更换董事全面掌权,兄弟阋墙，经营权之争,B,http://paper.people.com.cn/hqrw/html/2015-08/26/content_1665558.htm
+EKR010,KR11_P1,1974,D6,仁荷大学毕业,进入大韩航空工作,家族企业接班准备,B,https://m.baike.com/wiki/%E8%B5%B5%E4%BA%AE%E9%95%90/10291926
+EKR011,KR11_P1,1999,D6,大韩航空管理层,就任大韩航空CEO,父亲赵重勋传位,B,https://m.thepaper.cn/newsDetail_forward_3279211
+EKR012,KR11_P1,2003,D6,大韩航空CEO,就任韩进集团会长,父亲2002年去世，正式接班,B,https://m.baike.com/wiki/%E8%B5%B5%E4%BA%AE%E9%95%90/10291926
+EKR013,KR11_P1,2018,D4,韩进集团/大韩航空会长,谋求董事连任失败，丧失经营权,国民年金反对（首个因国民年金丧失经营权的大企业总裁）,B,https://m.thepaper.cn/newsDetail_forward_3279211
+EKR014,KR12_P1,2007,D9,韩华集团会长,因替子复仇暴力殴打被捕入狱1年6个月,次子与人冲突受伤，带领保镖报复,B,http://www.dzwww.com/xinwen/guojixinwen/200707/t20070702_2322031.htm
+EKR015,KR13_P1,1984,D6,锦湖集团管理层,参与集团管理（父亲去世）,父亲朴仁天去世，兄弟先后接班,B,https://m.baike.com/wiki/%E9%94%A6%E6%B9%96%E9%9F%A9%E4%BA%9A%E9%9B%86%E5%9B%A2/1189261
+EKR016,KR13_P1,2019,D6,锦湖韩亚集团会长,辞去集团所有职务,韩亚航空事件+审计争议,B,http://m.toutiao.com/group/6961547213726024206/
+EKR017,KR13_P1,2021,D9,前集团会长,因贪污被逮捕,利用子公司为家族持股公司谋取不当利益,B,http://m.toutiao.com/group/6961563019209867813/
+EKR018,KR15_P1,1950,D6,釜山师范学校教师,出任乐喜化学理事，进入集团管理,父亲具仁会之意，参与家族企业管理,B,http://m.toutiao.com/group/6770815304604844557/
+EKR019,KR15_P1,1969,D6,乐喜化学理事,就任LG集团总裁（第二任会长）,父亲具仁会去世，正式接班,B,http://m.toutiao.com/group/6770815304604844557/
+EKR020,KR16_P1,1996,D6,现代集团管理层,就任现代集团会长,父亲郑周永传位,B,https://m.thepaper.cn/newsDetail_forward_6619436
+EKR021,KR16_P1,1999,D6,现代集团会长,接管现代汽车（取代叔父郑世永）,父亲郑周永主导，继承权斗争结果,B,https://m.jiemian.com/article/2724223.html
+EKR022,KR16_P1,2000,D7,现代集团（综合）,现代汽车独立经营，合并起亚,现代集团解体，现代汽车独立,B,https://m.jiemian.com/article/2724223.html
+EKR023,KR16_P1,2006,D9,现代汽车集团会长,因侵吞秘密资金797亿韩元被捕,检方调查秘密资金案,B,http://zqb.cyol.com/content/2007-02/06/content_1668466.htm
+EKR024,KR16_P1,2020,D6,现代汽车集团会长,放弃董事会席位，传位于独子郑义宣,正式交棒第三代,B,https://m.jiemian.com/article/2724223.html
+EKR025,KR17_P1,1999,D6,康奈尔大学/南加州大学毕业,入职韩进集团（普通员工）,家族企业接班准备,B,https://m.baike.com/wiki/%E8%B5%B5%E6%98%BE%E5%A8%A5/10254823
+EKR026,KR17_P1,2013,D6,大韩航空常务,晋升大韩航空副社长,家族企业内部晋升,B,https://m.baike.com/wiki/%E8%B5%B5%E6%98%BE%E5%A8%A5/10254823
+EKR027,KR17_P1,2014,D9,大韩航空副社长,'坚果返航'事件，辞去所有职务,因空乘未按规定摆放坚果，要求已滑行飞机返航,B,http://www.chinanews.com.cn/gj/2014/12-19/6894231.shtml
+EKR028,KR17_P1,2015,D9,前大韩航空副社长,涉嫌家暴丈夫被曝光,丈夫出示伤痕照片和视频,B,https://m.thepaper.cn/wifiKey_detail.jsp?contid=3023563
+EKR029,KR18_P1,2020,D6,现代汽车集团管理层,就任现代汽车集团会长（第三代）,父亲郑梦九传位，正式交棒第三代,B,https://m.jiemian.com/article/2724223.html
+EKR030,KR19_P1,1991,D6,首尔大学/庆应义塾/哈佛商学院毕业,进入三星电子,家族企业接班准备,B,http://m.toutiao.com/group/6460156522785128718/
+EKR031,KR19_P1,2008,D4,三星电子管理层,父亲李健熙因非法继承经营权案辞职,家族经营权危机,B,http://m.toutiao.com/group/6460156522785128718/
+EKR032,KR19_P1,2014,D6,三星电子副会长,父亲病倒，实际接管三星,李健熙心肌梗塞病倒,B,http://m.toutiao.com/group/6460156522785128718/
+EKR033,KR19_P1,2016,D9,三星实际掌门人,因朴槿惠闺蜜干政案被捕,向崔顺实行贿430亿韩元,B,https://m.thepaper.cn/newsDetail_forward_9710399
+EKR034,KR19_P1,2022,D6,三星电子副会长（实际掌门人）,就任三星集团会长（第三代）,正式接班第三代,B,http://m.toutiao.com/group/6460156522785128718/
+EKR035,KR20_P1,1998,D6,首尔大学毕业,创立Hangame（在线游戏平台）,互联网创业浪潮,C,无
+EKR036,KR20_P1,2010,D6,离开NHN,创立Kakao（即时通讯应用）,移动互联网浪潮，再次创业,C,无

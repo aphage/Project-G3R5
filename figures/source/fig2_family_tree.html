@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Who gets remembered</title>
+<style>
+  :root {
+    --surface: #ffffff;
+    --ink: #0b0b0b;
+    --ink-2: #52514e;
+    --muted: #898781;
+    --grid: #e1e0d9;
+    --line: #c3c2b7;
+    --track: #cde2fb;
+    --fill: #2a78d6;
+  }
+  html, body { margin: 0; padding: 0; background: var(--surface); }
+  body {
+    width: 700px; height: 640px; overflow: hidden; position: relative;
+    font-family: "Segoe UI", system-ui, Arial, sans-serif; color: var(--ink);
+  }
+  .head { position: absolute; left: 28px; top: 28px; width: 644px; }
+  h1 { font-size: 25px; font-weight: 650; margin: 0 0 6px; letter-spacing: -0.2px; }
+  .sub { font-size: 15.5px; color: var(--ink-2); margin: 0; line-height: 1.4; }
+  .side { position: absolute; font-size: 13px; font-weight: 650; color: var(--ink-2);
+          letter-spacing: 0.6px; text-transform: uppercase; text-align: center; }
+  svg.links { position: absolute; left: 0; top: 0; }
+  .box { position: absolute; width: 148px; height: 96px; box-sizing: border-box;
+         border: 1px solid var(--grid); border-radius: 8px; background: var(--surface); padding: 10px 12px; }
+  .role { font-size: 13.5px; color: var(--ink-2); white-space: nowrap; }
+  .val { margin-top: 2px; display: flex; align-items: baseline; gap: 6px; }
+  .pct { font-size: 28px; font-weight: 650; line-height: 1.15; }
+  .cnt { font-size: 12px; white-space: nowrap; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .meter { position: absolute; left: 12px; right: 12px; bottom: 11px; height: 6px;
+           border-radius: 3px; background: var(--track); overflow: hidden; }
+  .meter i { display: block; height: 100%; background: var(--fill); border-radius: 3px; }
+  .note { position: absolute; left: 28px; top: 566px; width: 644px; font-size: 12.5px; color: var(--muted);
+          line-height: 1.45; border-top: 1px solid var(--grid); padding-top: 10px; }
+</style>
+</head>
+<body>
+  <div class="head">
+    <h1>Who gets remembered?</h1>
+    <p class="sub">Share of 101 billionaire families in which each relative&rsquo;s name could be found in public sources</p>
+  </div>
+
+  <div class="side" style="left:28px; top:126px; width:308px;">Father&rsquo;s side</div>
+  <div class="side" style="left:364px; top:126px; width:308px;">Mother&rsquo;s side</div>
+
+  <svg class="links" width="700" height="640" aria-hidden="true">
+    <g stroke="#c3c2b7" stroke-width="1.5" fill="none" stroke-linecap="round">
+      <!-- paternal grandparents -> father -->
+      <path d="M176 198 H188 M182 198 V296" />
+      <!-- maternal grandparents -> mother -->
+      <path d="M512 198 H524 M518 198 V296" />
+      <!-- father + mother -> billionaire -->
+      <path d="M256 344 H444 M350 344 V442" />
+    </g>
+  </svg>
+
+  <div id="boxes"></div>
+
+  <div class="note">
+    Names were looked up mainly through web search; entries such as &ldquo;name not documented&rdquo; count as missing.<br>
+    Source: G3R5 dataset, 101 billionaire families in the US, Europe, China, Japan and South Korea.
+  </div>
+
+<script>
+  const people = [
+    { role: "Grandfather", n: 28,  x: 28,  y: 150 },
+    { role: "Grandmother", n: 11,  x: 188, y: 150 },
+    { role: "Grandfather", n: 9,   x: 364, y: 150 },
+    { role: "Grandmother", n: 2,   x: 524, y: 150 },
+    { role: "Father",               n: 70,  x: 108, y: 296 },
+    { role: "Mother",               n: 53,  x: 444, y: 296 },
+    { role: "Billionaire",          n: 101, x: 260, y: 442, w: 180 }
+  ];
+  const host = document.getElementById("boxes");
+  for (const p of people) {
+    const pct = Math.round(p.n / 101 * 100);
+    host.insertAdjacentHTML("beforeend",
+      `<div class="box" style="left:${p.x}px; top:${p.y}px${p.w ? `; width:${p.w}px` : ""}">` +
+      `<div class="role">${p.role}</div>` +
+      `<div class="val"><span class="pct">${pct}%</span><span class="cnt">${p.n} of 101</span></div>` +
+      `<div class="meter"><i style="width:${Math.max(pct, 0)}%"></i></div></div>`);
+  }
+</script>
+</body>
+</html>
